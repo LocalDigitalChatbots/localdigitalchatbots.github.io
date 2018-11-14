@@ -5,69 +5,39 @@ date: 2018-11-14 20:59:59 +0000
 ---
 # Full discovery application for the Local Digital Fund
 
-### Lead applicant*
-
-Oxford City Council
-
-### Project title*
-
-_This should be less than 8 words and mention the precise problem that your project aims to solve_
-
-Can chatbots and AI help solve service design problems?
-
-_Partner organisations involved* and the main point of contact name and email for each organisation (we will only publish organisation names - not all listed names)_
-
-#### Hertsmere District Council
-
-John Robinson (john.robinson@hertesmere.gov.uk)
-
-#### Cheltenham Borough Council
-
-Claire Cook (claire.a.cook@cheltenham.gov.uk)
-
-#### Doncaster Council
-
-Julie Grant (julie.grant@doncaster.gov.uk)
-
-#### Preston City Council
-
-Ian Heslop (i.heslop@preston.gov.uk)
-
-#### North East Derbyshire District Council
-
-Kristen O’Gorman (kristen.ogorman@ne-derbyshire.gov.uk)
-
-#### Bolsover District Council
-
-Kristen O’Gorman (kristen.ogorman@ne-derbyshire.gov.uk)
-
-#### Calderdale Council
-
-John Sell (john.sell@calderdale.gov.uk)
-
-#### Rotherham Metropolitan Borough Council
-
-Steve Langrick (steve.langrick@rotherham.gov.uk)
-
-#### Bromsgrove District Council
-
-Martin Goodall (m.goodall@bromsgroveandredditch.gov.uk)
-
-#### Redditch Borough Council
-
-Martin Goodall (m.goodall@bromsgroveandredditch.gov.uk)
-
-#### Surrey County Council
-
-Jane Heatlie (janeh@surreycc.gov.uk)
-
-### Lead applicant single point of contact (SPOC) details
+### Lead applicant:Oxford City Council
 
 Neil Lawrence, Digital Development Manager
 
 nlawrence@oxford.gov.uk
 
 01865 252542
+
+### Project title:Can chatbots and AI help solve service design problems?
+
+_Partner organisations involved* and the main point of contact name and email for each organisation (we will only publish organisation names - not all listed names)_
+
+#### Hertsmere District Council: John Robinson (john.robinson@hertesmere.gov.uk)
+
+#### Cheltenham Borough Council: Claire Cook (claire.a.cook@cheltenham.gov.uk)
+
+#### Doncaster Council: Julie Grant (julie.grant@doncaster.gov.uk)
+
+#### Preston City Council: Ian Heslop (i.heslop@preston.gov.uk)
+
+#### North East Derbyshire District Council: Kristen O’Gorman (kristen.ogorman@ne-derbyshire.gov.uk)
+
+#### Bolsover District Council: Kristen O’Gorman (kristen.ogorman@ne-derbyshire.gov.uk)
+
+#### Calderdale Council: John Sell (john.sell@calderdale.gov.uk)
+
+#### Rotherham Metropolitan Borough Council: Steve Langrick (steve.langrick@rotherham.gov.uk)
+
+#### Bromsgrove District Council: Martin Goodall (m.goodall@bromsgroveandredditch.gov.uk)
+
+#### Redditch Borough Council: Martin Goodall (m.goodall@bromsgroveandredditch.gov.uk)
+
+#### Surrey County Council: Jane Heatlie (janeh@surreycc.gov.uk)
 
 ## Question 1: Summary of proposal for the common problem you want to solve*
 
