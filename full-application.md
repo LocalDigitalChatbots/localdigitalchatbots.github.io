@@ -1,11 +1,12 @@
 ---
 title: Full Application
 date: 2018-11-14 20:59:59 +0000
+author: ''
 
 ---
 # Full discovery application for the Local Digital Fund
 
-## Project title:Can chatbots and AI help solve service design problems?
+## Project title: Can chatbots and AI help solve service design problems?
 
 ### Lead applicant:Oxford City Council
 
