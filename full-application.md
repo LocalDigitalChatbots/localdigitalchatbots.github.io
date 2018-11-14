@@ -12,7 +12,7 @@ author: ''
 
 Neil Lawrence, Digital Development Manager (nlawrence@oxford.gov.uk)
 
-### _Partner organisations involved_
+### Partner organisations involved
 
 * Hertsmere District Council
 * Cheltenham Borough Council
