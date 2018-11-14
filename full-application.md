@@ -90,33 +90,33 @@ Using a ‘publish as we progress’ approach will mean that deliverables will b
 
 The project milestones will be;
 
-| Deadline         | Event/Activity                                                                                                                                                            | Milestone                                                                        |
+| Deadline         	| Event/Activity                                                                                                                                                            	| Milestone                                                                        	|
 
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------	|
 
-| 3 December 2018  | Decision announcement Publish requirements on Digital Marketplace                                                                                                         | Project started                                                                  |
+| 3 December 2018  	| Decision announcement Publish requirements on Digital Marketplace                                                                                                         	| Project started                                                                  	|
 
-| 10 December 2018 | Launch project website Scheduled blog posts commence                                                                                                                      | Communication started                                                            |
+| 10 December 2018 	| Launch project website Scheduled blog posts commence                                                                                                                      	| Communication started                                                            	|
 
-| 4 January 2019   | Digital agency appointed                                                                                                                                                  | Procurement completed                                                            |
+| 4 January 2019   	| Digital agency appointed                                                                                                                                                  	| Procurement completed                                                            	|
 
-| 7 January 2019   | Project kick off meeting arranged with project partners Formalised understanding between project partners Briefing on project approach by agency                          | Onboarding complete                                                              |
+| 7 January 2019   	| Project kick off meeting arranged with project partners Formalised understanding between project partners Briefing on project approach by agency                          	| Onboarding complete                                                              	|
 
-| 14 January 2019  | Core team established, people allocated to the project Data analysis, information gathering on the service areas for each partner Initial customer journey maps developed | Team formed and ready to start Discovery Baselining and data gathering completed |
+| 14 January 2019  	| Core team established, people allocated to the project Data analysis, information gathering on the service areas for each partner Initial customer journey maps developed 	| Team formed and ready to start Discovery Baselining and data gathering completed 	|
 
-| 28 January 2019  | Undertake first user research round                                                                                                                                       | User research round 1 completed                                                  |
+| 28 January 2019  	| Undertake first user research round                                                                                                                                       	| User research round 1 completed                                                  	|
 
-| 11 February 2019 | Undertake second user research round                                                                                                                                      | User research round 2 completed                                                  |
+| 11 February 2019 	| Undertake second user research round                                                                                                                                      	| User research round 2 completed                                                  	|
 
-| 18 February 2019 | Overall summary of user research compiled                                                                                                                                 | User research summary completed                                                  |
+| 18 February 2019 	| Overall summary of user research compiled                                                                                                                                 	| User research summary completed                                                  	|
 
-| 31 January 2019  | Undertaken market summary of chatbot technology                                                                                                                           | Technology summary published                                                     |
+| 31 January 2019  	| Undertaken market summary of chatbot technology                                                                                                                           	| Technology summary published                                                     	|
 
-| 19 February 2019 | Explored feasibility of a common platform for localgov                                                                                                                    | Common platform report published                                                 |
+| 19 February 2019 	| Explored feasibility of a common platform for localgov                                                                                                                    	| Common platform report published                                                 	|
 
-| 14 March 2019    | Framework business case used to evaluate the service area studies                                                                                                         | Business case results published                                                  |
+| 14 March 2019    	| Framework business case used to evaluate the service area studies                                                                                                         	| Business case results published                                                  	|
 
-| 29 March 2019    | Write up and share the project findings: - Final report and recommendations - Case studies                                                                                | Discovery outputs produced and shared                                            |
+| 29 March 2019    	| Write up and share the project findings: - Final report and recommendations - Case studies                                                                                	| Discovery outputs produced and shared                                            	|
 
 A full project plan has been developed in Smartsheet for tracking through the project delivery stage and is available at
 
