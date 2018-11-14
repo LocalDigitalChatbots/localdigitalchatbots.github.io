@@ -5,39 +5,35 @@ date: 2018-11-14 20:59:59 +0000
 ---
 # Full discovery application for the Local Digital Fund
 
+## Project title:Can chatbots and AI help solve service design problems?
+
 ### Lead applicant:Oxford City Council
 
-Neil Lawrence, Digital Development Manager
+Neil Lawrence, Digital Development Manager (nlawrence@oxford.gov.uk)
 
-nlawrence@oxford.gov.uk
+### _Partner organisations involved_
 
-01865 252542
+#### Hertsmere District Council
 
-### Project title:Can chatbots and AI help solve service design problems?
+#### Cheltenham Borough Council
 
-_Partner organisations involved* and the main point of contact name and email for each organisation (we will only publish organisation names - not all listed names)_
+#### Doncaster Council
 
-#### Hertsmere District Council: John Robinson (john.robinson@hertesmere.gov.uk)
+#### Preston City Council
 
-#### Cheltenham Borough Council: Claire Cook (claire.a.cook@cheltenham.gov.uk)
+#### North East Derbyshire District Council
 
-#### Doncaster Council: Julie Grant (julie.grant@doncaster.gov.uk)
+#### Bolsover District Council
 
-#### Preston City Council: Ian Heslop (i.heslop@preston.gov.uk)
+#### Calderdale Council
 
-#### North East Derbyshire District Council: Kristen O’Gorman (kristen.ogorman@ne-derbyshire.gov.uk)
+#### Rotherham Metropolitan Borough Council
 
-#### Bolsover District Council: Kristen O’Gorman (kristen.ogorman@ne-derbyshire.gov.uk)
+#### Bromsgrove District Council
 
-#### Calderdale Council: John Sell (john.sell@calderdale.gov.uk)
+#### Redditch Borough Council
 
-#### Rotherham Metropolitan Borough Council: Steve Langrick (steve.langrick@rotherham.gov.uk)
-
-#### Bromsgrove District Council: Martin Goodall (m.goodall@bromsgroveandredditch.gov.uk)
-
-#### Redditch Borough Council: Martin Goodall (m.goodall@bromsgroveandredditch.gov.uk)
-
-#### Surrey County Council: Jane Heatlie (janeh@surreycc.gov.uk)
+#### Surrey County Council
 
 ## Question 1: Summary of proposal for the common problem you want to solve*
 
