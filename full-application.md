@@ -312,61 +312,18 @@ _Outline the resource required to deliver this project in the table below, listi
 
 Resources required to deliver project
 
-Resource
 
-Quantity required
+| Resource                                                   | Quantity required       | Total cost/value for this application | Who will pay        |
+|------------------------------------------------------------|-------------------------|---------------------------------------|---------------------|
+| Digital agency services, to include a range of specialisms | Duration of the project | £72,500 (maximum)*                    | Local Digital Fund  |
+| Council project lead (partial backfill)                    | 3 months                | £5,000                                | Local Digital Fund  |
+| Council project lead (partial backfill)                    | 3 months                | £5,000**                              | Oxford City Council |
+| Project sundry costs (travel, materials, meetings)         | 3 months                | £2,500                                | Local Digital Fund  |
+| Council user research, meeting time, write-ups etc         | 3 months x 11 councils  | £22,000***                            | Partner councils    |
 
-Total cost/value for this application
+Total funding requested of MHCLG: £80,000 (maximum)
 
-Who will pay
-
-Digital agency services, to include a range of specialisms
-
-Duration of the project
-
-£72,500 (maximum)*
-
-Local Digital Fund
-
-Council project lead (partial backfill)
-
-3 months
-
-£5,000
-
-Local Digital Fund
-
-Council project lead (partial backfill)
-
-3 months
-
-£5,000**
-
-Oxford City Council
-
-Project sundry costs (travel, materials, meetings)
-
-3 months
-
-£2,500
-
-Local Digital Fund
-
-Council user research, meeting time, write-ups etc
-
-3 months x 11 councils
-
-£22,000***
-
-Partner councils
-
-Total funding requested of MHCLG:
-
-£80,000 (maximum)
-
-Total funding contributed by applicants:
-
-£27,000 (estimate)
+Total funding contributed by applicants:£27,000 (estimate)
 
 \*The actual costs of the digital agency procurement are unknown and will be procured as a complete package via the Digital Marketplace. The actual sum used will only be that required to undertake the work, leaving the remainder (if any) to be returned to Local Digital
 
