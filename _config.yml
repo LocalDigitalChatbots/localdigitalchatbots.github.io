@@ -1,8 +1,8 @@
-title: "Blog Title"
+title: "Local Digital Chatbots Project"
 author: "Blog Author"
-description: "Really cool blog about ... something"
+description: "Website and repo for everything relating to the project"
 more: "read more »"
-url: "https://LocalDigitalChatbots.github.io/"
+url: "https://localdigitalchatbots.github.io/"
 baseurl: "/website"
 paginate: 2
 permalink: pretty
