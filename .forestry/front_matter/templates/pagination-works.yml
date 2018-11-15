@@ -8,6 +8,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: text
+  name: author
+  label: Author
 - name: date
   label: Date
   type: datetime
@@ -16,6 +19,3 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: text
-  name: author
-  label: Author
