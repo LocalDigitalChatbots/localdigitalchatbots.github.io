@@ -26,6 +26,6 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   - github: "https://github.com/LocalDigitalChatbots"
   - envelope: "mailto:nlawrence@oxford.gov.uk"
 
-defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: false}}]
 sass: {style: expanded}
 plugins: [jekyll-feed, jekyll-paginate]
