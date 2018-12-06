@@ -14,7 +14,7 @@ Neil Lawrence, Digital Development Manager (nlawrence@oxford.gov.uk)
 
 ### Partner organisations involved
 
-* Hertsmere District Council
+* Hertsmere Borough Council
 * Cheltenham Borough Council
 * Doncaster Council
 * Preston City Council
@@ -25,6 +25,7 @@ Neil Lawrence, Digital Development Manager (nlawrence@oxford.gov.uk)
 * Bromsgrove District Council
 * Redditch Borough Council
 * Surrey County Council
+* Adur and Worthing Councils
 
 ## Question 1: Summary of proposal for the common problem you want to solve*
 
