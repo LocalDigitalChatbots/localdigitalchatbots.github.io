@@ -3,7 +3,7 @@ author: "Blog Author"
 description: "Website and Repo for the collaborative project"
 more: "read more »"
 url: "https://LocalDigitalChatbots.github.io/"
-baseurl: "/website"
+baseurl: "/"
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
