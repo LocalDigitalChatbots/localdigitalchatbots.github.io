@@ -7,7 +7,7 @@ tags: []
 ---
 We're delighted to announce the success of our application to the Local Digital Fund for an exemplar project looking into the use of chatbots and artificial intelligence to solve service design problems.
 
-You can find full details of the issues we're looking to cover, the way we're intending to work and the deliverables we're expecting by looking at our [full application](/full-application "Full application to the Local Digital Fund")
+You can find full details of the issues we're looking to cover, the way we're intending to work and the deliverables we're expecting to produce by looking at our [full application](/full-application "Full application to the Local Digital Fund"). 
 
 ## Partners involved
 
@@ -31,7 +31,7 @@ You can read more about how we got to this point by [reading my blog post](https
 
 ## How we want to work
 
-In putting together our application we've given a commitment to working in the open and sharing what we're working on, as part of meeting the spirit on the Digital Declaration
+In putting together our application we've given a commitment to working in the open and sharing what we're working on, as part of meeting the spirit on the [Local Digital Declaration](https://localdigital.gov.uk/declaration/ "Local Digital Declaration")
 
 You'll be seeing regular blog posts here as we progress, and the outcomes of the work available as they are delivered. 
 
