@@ -15,7 +15,6 @@ style:
 navigation:
   - index.html
   - archive.html
-  - about.md
   - full-application.md
 
 comments:
