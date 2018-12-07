@@ -43,4 +43,4 @@ We've got an incredibly tight timescale to get everything we want delivered to m
 Today we will be doing two things;
 
 1. Starting our procurement through the Digital Outcomes and Specialists framework to identify a great digital agency to work with us
-2. Posting the project on Pipeline to let everyone know about the project
+2. [Posting the project on Pipeline](https://pipeline.localgov.digital/wiki/227 "Pipeline project info") to let everyone know about the project
