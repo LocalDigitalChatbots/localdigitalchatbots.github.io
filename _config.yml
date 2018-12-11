@@ -5,6 +5,7 @@ more: "read more »"
 url: "https://LocalDigitalChatbots.github.io/"
 baseurl: "/"
 paginate: 2
+more: "read more »"
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
 
