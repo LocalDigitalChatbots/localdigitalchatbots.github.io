@@ -4,9 +4,13 @@ description: "Website and Repo for the collaborative project"
 more: "read more »"
 url: "https://LocalDigitalChatbots.github.io/"
 baseurl: "/"
-paginate: 2
+
+#  pagination and read more
+paginate: 3
 permalink: pretty
 excerpt_separator: "\n\n" # two blank lines
+newer: "« newer posts"
+older: "older posts »"
 
 style:
   minimalist: false
