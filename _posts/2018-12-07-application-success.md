@@ -10,7 +10,7 @@ You can find full details of the issues we're looking to cover, the way we're in
 
 ## Partners involved
 
-There are 14 councils in total working on the project;
+There are 12 councils in total working on the project;
 
 * Oxford City Council
 * Hertsmere Borough Council
