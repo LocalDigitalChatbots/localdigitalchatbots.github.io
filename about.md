@@ -8,9 +8,11 @@ When we first starting discussing this project as a group of councils we had a c
 
 There are multiple platforms available, and countless suppliers that are offering services to build apps. Which is the right one to choose?
 
-## Changing the approach
+## Reinventing the wheel
 
 The temptation with new tech is to dive straight in and start doing something. Find a platform, spend some money, build something and see how it is received. But we realised this would be history repeating itself. Local Government has often approached adopting digital tools through individualism; everyone adopts their own version of the best solution, and the sector gets fragmented by reinventing the wheel over and over.
+
+## Changing the approach
 
 There have been some great initiatives to help bring the sector together;
 
