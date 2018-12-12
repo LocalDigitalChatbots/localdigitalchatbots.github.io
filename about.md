@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the project
 
 ---
 ## "Starting from scratch"
