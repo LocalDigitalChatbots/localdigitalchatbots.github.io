@@ -6,7 +6,7 @@ categories: []
 ---
 Today saw the Local Digital Kick-off workshop at Code Node in London, an event that brought together all the 16 projects funded from the first phase of the Local Digital Fund, and for some (like us) gave the first opportunity to meet in person to talk about the project in detail.
 
-![Image showing the workshop table with the project title and other materials](/uploads/IMG_0293.jpg "Working at the table")
+\[img\]
 
 The Local Digital team have given us a head start in putting together Trello boards for all the projects as a way to capture the learning from the exercises we ran at the workshop. These were;
 
@@ -19,4 +19,6 @@ The Local Digital team have given us a head start in putting together Trello boa
 
 This was a really great exercise in that it allowed us to think about this individually, and then share with the rest of the team.
 
-For hopes there was a really strong theme of wanting to work together colaboratively, learn lessons, make connections and great partnerships. Also wanting to make sure the project delivered something worthwhile and could be picked up by others
+For **hopes** there was a really strong theme of wanting to work together colaboratively, learn lessons, make connections and great partnerships. Also wanting to make sure the project delivered something worthwhile and could be picked up by others. We are all hoping to take away some personal learning and develop new skills.
+
+Our **fears** were around workloads and the tight timescale given to the project. Getting the right supplier to help us was another concern. User research was a key area of fears; will we get it right? Will it produce useful outputs? Also our far-flung locations make for challenges in working together effectively.
