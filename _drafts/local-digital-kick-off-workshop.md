@@ -24,3 +24,11 @@ This was a really great exercise in that it allowed us to think about this indiv
 For **hopes** there was a really strong theme of wanting to work together colaboratively, learn lessons, make connections and great partnerships. Also wanting to make sure the project delivered something worthwhile and could be picked up by others. We are all hoping to take away some personal learning and develop new skills.
 
 Our **fears** were around workloads and the tight timescale given to the project. Getting the right supplier to help us was another concern. User research was a key area of fears; will we get it right? Will it produce useful outputs? Also our far-flung locations make for challenges in working together effectively.
+
+## Keeping the information flowing
+
+We had a rapid brainstorm about how we can all keep up to speed with what's happening, who needs to do what and when, and sharing what we find out. We decided to;
+
+* Have a standing weekly hangout for an hour a week that people can drop in as needed to get up to speed, ask questions or get help
+* Share the blogging for the project by using [Forestry CMS](https://forestry.io) to write posts as we go. We're going to try and post at least once a week 
+* We've set up a private channel on the LocalGov Digital Slack  to keep in touch, but as not everyone is on Slack routinely we'll also duplicate this with regular emails to each other.
