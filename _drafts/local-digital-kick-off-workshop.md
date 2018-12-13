@@ -17,4 +17,6 @@ The Local Digital team have given us a head start in putting together Trello boa
 
 ## Hopes and Fears
 
-This was a really great exercise in that it allowed us to think about this individually, and then share with the rest of the team
+This was a really great exercise in that it allowed us to think about this individually, and then share with the rest of the team.
+
+For hopes there was a really strong theme of wanting to work together colaboratively, learn lessons, make connections and great partnerships. Also wanting to make sure the project delivered something worthwhile and could be picked up by others
