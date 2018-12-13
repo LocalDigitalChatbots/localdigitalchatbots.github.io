@@ -25,6 +25,10 @@ For **hopes** there was a really strong theme of wanting to work together colabo
 
 Our **fears** were around workloads and the tight timescale given to the project. Getting the right supplier to help us was another concern. User research was a key area of fears; will we get it right? Will it produce useful outputs? Also our far-flung locations make for challenges in working together effectively.
 
+## Developing the roadmap
+
+We'd already done some prep work on a project timetable in Smartsheet as part of the application process, so much of the groundwork had already been covered. But it was useful to go over the timing and see it more clearly on the wall
+
 ## Keeping the information flowing
 
 We had a rapid brainstorm at a break to think about how we can all keep up to speed with what's happening, check on who needs to do what and when, and share what we find out. We decided to;
