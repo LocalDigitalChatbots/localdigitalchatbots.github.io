@@ -8,6 +8,8 @@ Today saw the Local Digital Kick-off workshop at Code Node in London, an event t
 
 \[img\]
 
+## Workshop overview
+
 The Local Digital team have given us a head start in putting together Trello boards for all the projects as a way to capture the learning from the exercises we ran at the workshop. These were;
 
 * Discussing the hopes and fears we all have for the project
