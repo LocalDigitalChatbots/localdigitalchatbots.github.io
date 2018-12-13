@@ -19,5 +19,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/local-digital-kick-off-workshop.md
 - _posts/2018-12-07-application-success.md
 - _posts/2018-12-11-digital-outomes-opportunity-is-live.md
