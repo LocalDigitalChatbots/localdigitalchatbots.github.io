@@ -27,8 +27,8 @@ Our **fears** were around workloads and the tight timescale given to the project
 
 ## Keeping the information flowing
 
-We had a rapid brainstorm about how we can all keep up to speed with what's happening, who needs to do what and when, and sharing what we find out. We decided to;
+We had a rapid brainstorm at a break to think about how we can all keep up to speed with what's happening, check on who needs to do what and when, and share what we find out. We decided to;
 
-* Have a standing weekly hangout for an hour a week that people can drop in as needed to get up to speed, ask questions or get help
+* Have a standing weekly hangout for an hour each week that people can drop in as needed to get up to speed, ask questions or get help
 * Share the blogging for the project by using [Forestry CMS](https://forestry.io) to write posts as we go. We're going to try and post at least once a week 
-* We've set up a private channel on the LocalGov Digital Slack  to keep in touch, but as not everyone is on Slack routinely we'll also duplicate this with regular emails to each other.
+* Set up a private channel on the LocalGov Digital Slack  to keep in touch, but as not everyone is on Slack routinely we'll also duplicate this with regular emails to each other.
