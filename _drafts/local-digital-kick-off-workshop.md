@@ -44,3 +44,7 @@ We had a rapid brainstorm at a break to think about how we can all keep up to sp
 * Have a standing weekly hangout for an hour each week that people can drop in as needed to get up to speed, ask questions or get help
 * Share the blogging for the project by using [Forestry CMS](https://forestry.io) to write posts as we go. We're going to try and post at least once a week 
 * Set up a private channel on the LocalGov Digital Slack  to keep in touch, but as not everyone is on Slack routinely we'll also duplicate this with regular emails to each other.
+
+## Event Retro
+
+In true Agile style we were invited 
