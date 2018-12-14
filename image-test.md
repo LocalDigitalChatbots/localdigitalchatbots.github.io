@@ -9,3 +9,7 @@ author: ''
 ![](/uploads/workplan_larger.jpg)
 
 ![](/uploads/group.jpg)
+
+![](/uploads/fears_small.jpg)
+
+![](/uploads/fears_larger.jpg)
