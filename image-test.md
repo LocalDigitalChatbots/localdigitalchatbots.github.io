@@ -13,3 +13,5 @@ author: ''
 ![](/uploads/fears_small.jpg)
 
 ![](/uploads/fears_larger.jpg)
+
+![](/uploads/workshop_table.jpg)
