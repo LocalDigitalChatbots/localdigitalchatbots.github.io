@@ -6,7 +6,7 @@ url: "https://LocalDigitalChatbots.github.io/"
 baseurl: "/"
 
 #  pagination and read more
-paginate: 3
+paginate: 5
 permalink: pretty
 excerpt_separator: "\n\n" # two blank lines
 newer: "« newer posts"
