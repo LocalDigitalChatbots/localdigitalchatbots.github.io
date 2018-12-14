@@ -47,4 +47,4 @@ We had a rapid brainstorm at a break to think about how we can all keep up to sp
 
 ## Event Retro
 
-In true Agile style we were invited 
+In true Agile style we were invited  
