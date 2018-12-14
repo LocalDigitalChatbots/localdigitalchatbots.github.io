@@ -6,11 +6,11 @@ categories: []
 ---
 Today saw the Local Digital Kick-off workshop at Code Node in London, an event that brought together all the 16 projects funded from the first phase of the Local Digital Fund, and for some (like us) gave the first opportunity to meet in person to talk about the project in detail.
 
-\[img\]
+![](/uploads/group.jpg)
 
 ## Workshop overview
 
-The Local Digital team have given us a head start in putting together Trello boards for all the projects as a way to capture the learning from the exercises we ran at the workshop. These were;
+The Local Digital team have given us a head start in putting together Trello boards for each project as a way to capture the learning from the exercises we ran at the workshop. These were;
 
 * Discussing the hopes and fears we all have for the project
 * Thinking about who the users are for the services we're looking at
@@ -21,30 +21,42 @@ The Local Digital team have given us a head start in putting together Trello boa
 
 This was a really great exercise in that it allowed us to think about this individually, and then share with the rest of the team.
 
-For **hopes** there was a really strong theme of wanting to work together colaboratively, learn lessons, make connections and great partnerships. Also wanting to make sure the project delivered something worthwhile and could be picked up by others. We are all hoping to take away some personal learning and develop new skills.
+For **hopes** there was a really strong theme of wanting to work together collaboratively, learn lessons, make connections and great partnerships. Also wanting to make sure the project delivered something worthwhile and could be picked up by others. We are all hoping to take away some personal learning and develop new skills.
 
 Our **fears** were around workloads and the tight timescale given to the project. Getting the right supplier to help us was another concern. User research was a key area of fears; will we get it right? Will it produce useful outputs? Also our far-flung locations make for challenges in working together effectively.
 
 ## Users and research
 
-We're all new to user research, and because we're looking at a range of services and the potential for chatbots to help with them it's a little less straightforward than a single service with a defined set 
+We're all new to user research, and because we're looking at a range of services and the potential for chatbots to help with them it's a little less straightforward than a single service with a defined set
 
-We discussed areas we could get initial data to help inform our business case
+We discussed areas we could get initial data to help inform our business case;
 
-We also starting developing hypothes
+* What topics are people searching for on our websites?
+* What do our front line staff know what people are looking to find out or do?
+* What high volume/low volume transactions are people calling us about?
+* Of these queries which could be potentially resolved using a chatbot?
+* Of these queries what does satisfaction data tell us about the customer experience?
+* What is our existing use of automated services (e.g. voice recognition for payments)
+* What customer journeys are converting from website to web chat?
+* What customer journeys are converting from website to phone calls? 
+* Would Twitter feed analysis give us an indication?
+
+We also starting developing hypotheses that we could test as part of the research work;
 
 ## Developing the roadmap
 
 We'd already done some prep work on a project timetable in Smartsheet as part of the application process, so much of the groundwork had already been covered. But it was useful to go over the timing and see it more clearly on the wall
+
+![](/uploads/workplan_larger.jpg)
 
 ## Keeping the information flowing
 
 We had a rapid brainstorm at a break to think about how we can all keep up to speed with what's happening, check on who needs to do what and when, and share what we find out. We decided to;
 
 * Have a standing weekly hangout for an hour each week that people can drop in as needed to get up to speed, ask questions or get help
-* Share the blogging for the project by using [Forestry CMS](https://forestry.io) to write posts as we go. We're going to try and post at least once a week 
+* Share the blogging for the project by using [Forestry CMS](https://forestry.io) to write posts as we go. We're going to try and post at least once a week
 * Set up a private channel on the LocalGov Digital Slack  to keep in touch, but as not everyone is on Slack routinely we'll also duplicate this with regular emails to each other.
 
 ## Event Retro
 
-In true Agile style we were invited  
+In true Agile style we were invited
