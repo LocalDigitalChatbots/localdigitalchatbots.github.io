@@ -30,7 +30,7 @@ The course did a great job of covering the essentials of Agile, including;
 * Backlog refinement
 * Kanban and Scrumban
 
-Many post-its were harmed in the process of this learning, and some ugly Lego animals created
+Many post-it notes were harmed during the duration of the course, and some ugly Lego animals created.
 
 ![](/uploads/lego_animal.jpg)
 
