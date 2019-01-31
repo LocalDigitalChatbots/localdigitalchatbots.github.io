@@ -30,13 +30,15 @@ The course did a great job of covering the essentials of Agile, including;
 * Backlog refinement
 * Kanban and Scrumban
 
-Many post-its were harmed in the process of this learning....
+Many post-its were harmed in the process of this learning, and some ugly Lego animals created
+
+![](/uploads/lego_animal.jpg)
 
 ## Planning our work
 
 The afternoon of our last day was given over to us to start planning our project. By this time we'd already discussed issues with communication (not all those there knew what the project was seeking to achieve), so made the decision to use a dedicated Slack team to be the focus of everything we do from now on.
 
-### Project commitments
+### Our commitments
 
 As we talked about next steps, it became clear that we need to agree what everyone participating in the project needed to do. So we arrived at this list;
 
@@ -48,3 +50,11 @@ As we talked about next steps, it became clear that we need to agree what everyo
 * All councils will participate in stand-ups they are invited to
 * We will publish by default - everything is considered public unless specified
 * As many people as possible get involved in writing stories on this blog through the project.
+
+### Our culture
+
+We used an exercise early on in the course to talk about how we wanted to work with each other, which was really positive. 
+
+![](/uploads/culture.jpg)
+
+We also committed to hold each other to account for our behaviours to reinforce this culture.
