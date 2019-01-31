@@ -10,7 +10,7 @@ categories:
 
 We've just finished 3 days of Agile for Teams training with the [GDS Academy]() in London. For the nine of us attending, the journey distances varied quite a bit (as did the quality of the hotels we stayed at, apparently).
 
-This training was set up for us by the Local Digital Collaboration Unit as part of our funded project status. We also had our excellent project lead, Adam Thoulass, sitting in to provide wise counsel.
+This training was set up for us by the Local Digital Collaboration Unit as part of our funded project status. We also had our excellent project lead, [Adam Thoulass](https://twitter.com/AdamThoulass), sitting in to provide counsel using his Beard of Wisdom.
 
 For anyone in doubt, having your team in one place learning the same things together is a fantastic way to get to know each other and apply the learning to the practical aspects of your project.
 
@@ -53,7 +53,7 @@ As we talked about next steps, it became clear that we need to agree what everyo
 
 ### Our culture
 
-We used an exercise early on in the course to talk about how we wanted to work with each other, which was really positive. 
+We used an exercise early on in the course to talk about how we wanted to work with each other, which was really positive.
 
 ![Image showing the ideas the team had about culture](/uploads/culture.jpg "Our Culture")
 
