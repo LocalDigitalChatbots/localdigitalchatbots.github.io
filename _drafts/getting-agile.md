@@ -6,7 +6,7 @@ categories:
 - " training"
 
 ---
-![](/uploads/Academygroup.jpg)
+![Image showing the training room with people talking](/uploads/Academygroup.jpg "Training room")
 
 We've just finished 3 days of Agile for Teams training with the [GDS Academy]() in London. For the nine of us attending, the journey distances varied quite a bit (as did the quality of the hotels we stayed at, apparently).
 
@@ -30,9 +30,9 @@ The course did a great job of covering the essentials of Agile, including;
 * Backlog refinement
 * Kanban and Scrumban
 
-Our course retrospective really showed how much we got out of it all
+Our retrospective really showed how much we got out of it all.
 
-![](/uploads/lego_animal.jpg)
+![Image of post it notes showing positive comments](/uploads/positive_feedback.jpg "Positive Feedback")
 
 ## Planning our work
 
@@ -55,6 +55,18 @@ As we talked about next steps, it became clear that we need to agree what everyo
 
 We used an exercise early on in the course to talk about how we wanted to work with each other, which was really positive. 
 
-![](/uploads/culture.jpg)
+![Image showing the ideas the team had about culture](/uploads/culture.jpg "Our Culture")
 
 We also committed to hold each other to account for our behaviours to reinforce this culture.
+
+### Our delivery partner
+
+We were also really lucky to have a representative from our delivery partner, hot off the heels of our procurement exercise. This gave us a good hour to talk through thoughts, concerns, ideas we all had about how we're going to work together.
+
+We'll be talking more about our delivery partner soon once all the contractual stuff has been finalised.
+
+## And finally...
+
+No Lego animals were harmed during the course of this training, although scores of post-it notes gave themselves willingly....
+
+![](/uploads/lego_animal.jpg)
