@@ -39,3 +39,12 @@ The afternoon of our last day was given over to us to start planning our project
 ### Project commitments
 
 As we talked about next steps, it became clear that we need to agree what everyone participating in the project needed to do. So we arrived at this list;
+
+* Every council has to pick an area of research to contribute to (not everyone has yet)
+* All councils must be represented at an initial project kick-off meeting (date TBC)
+* Everyone involved needs to be on the project Slack team (including our supplier)
+* Everyone will update their Slack profile with full contact details (name, council, email, phone number, job role)
+* Everyone will sign up to Trello (we'll follow with a project Trello board soon)
+* All councils will participate in stand-ups they are invited to
+* We will publish by default - everything is considered public unless specified
+* As many people as possible get involved in writing stories on this blog through the project.
