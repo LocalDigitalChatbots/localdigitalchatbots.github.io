@@ -34,6 +34,8 @@ He told us how excited his team was about working on this project ;
 
 ## More information
 
-Torchbox was named as one of the UK’s [Best Small Companies to Work For in 2017](https://torchbox.com/blog/torchbox-named-one-best-places-work-uk/). They are a full-stack agency that focus on the nonprofit, higher education and health sectors.
+Torchbox are a full-stack agency that focus on the nonprofit, higher education and health sectors.
 
 Formerly a Drupal agency they developed their own CMS, [Wagtail](), in 2014 and are expanding into the AI sector.
+
+Torchbox was named as one of the UK’s [Best Small Companies to Work For in 2017](https://torchbox.com/blog/torchbox-named-one-best-places-work-uk/). 
