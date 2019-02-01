@@ -28,9 +28,7 @@ He told us how excited his team was about working on this project ;
 
 > We're delighted to be partnering with the 13 councils participating in this very exciting project - everyone at Torchbox is clamouring to be involved!
 >
-> Chatbots and AI are glamorous topics in the IT world, but
->
-> our teams of researchers and technologists are committed to seeking practical solutions to help local authorities improve the lives of their residents in sensible, cost-effective ways.
+> Chatbots and AI are glamorous topics in the IT world, but our teams of researchers and technologists are committed to seeking practical solutions to help local authorities improve the lives of their residents in sensible, cost-effective ways.
 
 ## More information
 
