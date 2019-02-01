@@ -22,12 +22,14 @@ There have been some great initiatives to help bring the sector together;
 
 We wanted to use this project as a way to influence how the sector moves forward on chatbots and AI by providing a set of research and tools to help inform everyone that is 'starting from scratch'
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0yGtWDThGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Commitment to sharing
 
 We'll commit to making this a project that all of local government can use by;
 
 * blogging about the work we undertake, the lessons we learn and the mistakes we make
-* engaging with a digital agency that commits to sharing its work 
+* engaging with a digital agency that commits to sharing its work
 * publish the outputs of the user research we undertake
 * provide a business case template for others to use
 * provide a summary of current tech in this area as an overview for others to use
