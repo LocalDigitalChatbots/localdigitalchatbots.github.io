@@ -2,6 +2,8 @@
 title: About the project
 
 ---
+[-0yGtWDThGc](https://youtu.be/-0yGtWDThGc "-0yGtWDThGc")
+
 ## "Starting from scratch"
 
 When we first starting discussing this project as a group of councils we had a common problem; we wanted to explore the opportunities that chatbots and AI could offer us and our customers, but it was difficult knowing where to start.
