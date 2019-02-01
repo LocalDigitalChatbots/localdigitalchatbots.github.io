@@ -7,7 +7,7 @@ categories:
 ---
 We're more than a little excited to announce our delivery partner for the project![Torchbox logo](/uploads/torchbox.jpg "Torchbox Ltd")
 
-After making it through to the final five suppliers from the 44 applications received, Torchbox impressed the assessment panel with their proposal submission. In particular;
+After making it through to the final five suppliers from the 44 applications received, [Torchbox](https://torchbox.com) impressed the assessment panel with their proposal submission. In particular;
 
 * how they would meet the requirements and deliverables we set out
 * the approach and methodology they would use, particularly in meeting the geographical challenge of a widely distributed team like ours
