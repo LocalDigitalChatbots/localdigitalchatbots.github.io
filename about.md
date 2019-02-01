@@ -2,7 +2,7 @@
 title: About the project
 
 ---
-{% youtube [https://youtu.be/-0yGtWDThGc](https://youtu.be/-0yGtWDThGc "https://youtu.be/-0yGtWDThGc") %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## "Starting from scratch"
 
