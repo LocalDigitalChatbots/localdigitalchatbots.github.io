@@ -20,13 +20,13 @@ After making it through to the final five suppliers from the 44 applications rec
 
 ![](/uploads/Tom_Dyson.jpg)
 
-Those of us who attended the [Agile for Teams training](https://localdigitalchatbots.github.io/agile/training/2019/01/30/getting-agile/) were lucky enough to meet Torchbox CTO, Tom Dyson, who dropped in to get to know us ahead of the project kicking off properly.
+Those of us who attended the [Agile for Teams training](https://localdigitalchatbots.github.io/agile/training/2019/01/30/getting-agile/) were lucky enough to meet Torchbox Technical Director, Tom Dyson, who dropped in to get to know us ahead of the project kicking off properly.
 
 Tom gave us an insight into the development of AI, and how larger platforms are making this easily accessible to organisations to get started quickly and at low costs.
 
 He told us how excited his team was about working on this project ;
 
-> We're delighted to be partnering with the 14 councils participating in this very exciting project - everyone at Torchbox is clamouring to be involved! 
+> We're delighted to be partnering with the 13 councils participating in this very exciting project - everyone at Torchbox is clamouring to be involved! 
 >
 > Chatbots and AI are glamorous topics in the IT world, but
 >
