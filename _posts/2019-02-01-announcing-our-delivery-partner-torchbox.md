@@ -5,7 +5,7 @@ categories:
 - procurement
 
 ---
-We're more than a little excited to announce our delivery partner for the project: [Torchbox](https://torchbox.com/about/ "Torchbox")![Torchbox logo](/uploads/torchbox.jpg "Torchbox Ltd")
+We're more than a little excited to announce our delivery partner for the project![Torchbox logo](/uploads/torchbox.jpg "Torchbox Ltd")
 
 After making it through to the final five suppliers from the 44 applications received, Torchbox impressed the assessment panel with their proposal submission. In particular;
 
@@ -26,7 +26,7 @@ Tom gave us an insight into the development of AI, and how larger platforms are 
 
 He told us how excited his team was about working on this project ;
 
-> We're delighted to be partnering with the 13 councils participating in this very exciting project - everyone at Torchbox is clamouring to be involved! 
+> We're delighted to be partnering with the 13 councils participating in this very exciting project - everyone at Torchbox is clamouring to be involved!
 >
 > Chatbots and AI are glamorous topics in the IT world, but
 >
@@ -38,4 +38,4 @@ Torchbox are a full-stack agency that focus on the nonprofit, higher education a
 
 Formerly a Drupal agency they developed their own CMS, [Wagtail](), in 2014 and are expanding into the AI sector.
 
-Torchbox was named as one of the UK’s [Best Small Companies to Work For in 2017](https://torchbox.com/blog/torchbox-named-one-best-places-work-uk/). 
+Torchbox was named as one of the UK’s [Best Small Companies to Work For in 2017](https://torchbox.com/blog/torchbox-named-one-best-places-work-uk/).
