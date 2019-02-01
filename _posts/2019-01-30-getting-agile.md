@@ -4,7 +4,7 @@ date: 2019-01-30 00:00:00 +0000
 categories:
 - agile
 - "training"
-
+redirect_from: "/agile/%20training/2019/01/30/getting-agile/"
 ---
 ![Image showing the training room with people talking](/uploads/Academygroup.jpg "Training room")
 
