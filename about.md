@@ -2,7 +2,6 @@
 title: About the project
 
 ---
-[-0yGtWDThGc](https://youtu.be/-0yGtWDThGc "-0yGtWDThGc")
 
 ## "Starting from scratch"
 
