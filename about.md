@@ -2,8 +2,6 @@
 title: About the project
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0yGtWDThGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## "Starting from scratch"
 
 When we first starting discussing this project as a group of councils we had a common problem; we wanted to explore the opportunities that chatbots and AI could offer us and our customers, but it was difficult knowing where to start.
