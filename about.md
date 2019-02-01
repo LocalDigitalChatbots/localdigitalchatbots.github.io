@@ -2,6 +2,7 @@
 title: About the project
 
 ---
+{% youtube [https://youtu.be/-0yGtWDThGc](https://youtu.be/-0yGtWDThGc "https://youtu.be/-0yGtWDThGc") %}
 
 ## "Starting from scratch"
 
