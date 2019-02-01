@@ -3,7 +3,7 @@ title: Getting Agile!
 date: 2019-01-30 00:00:00 +0000
 categories:
 - agile
-- " training"
+- "training"
 
 ---
 ![Image showing the training room with people talking](/uploads/Academygroup.jpg "Training room")
