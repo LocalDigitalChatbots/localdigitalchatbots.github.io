@@ -61,9 +61,9 @@ We're looking to use free web-based tools to help us deliver this project.
 
 This project website is hosted on [GitHub Pages]() and uses [Forestry ](https://forestry.io/)as a static site CMS. We'll also be using our GitHub repository as a means for others to access the project deliverables and research materials
 
-To help us collaborate on shared content, like developing our fund application and taking meeting notes, we use [Google Docs](https://www.google.com/docs/about/). We've used [Google Forms](https://www.google.co.uk/forms/about/) to get quick responses from everyone and record them, like selecting a research area to work on.
+To help us collaborate on shared content, like developing our fund application and taking meeting notes, we use [Google Docs](https://www.google.com/docs/about/). We've used [Google Forms](https://www.google.co.uk/forms/about/) to get quick responses from everyone and record them, such as selecting a research area to work on.
 
-For coordinating work and communicating with each other we're using a dedicated [Slack ](https://slack.com/)team and ensuring everyone is signed up/committed to using as our prime source. We also use this to share our project documentation.
+For coordinating work and communicating with each other we're using a dedicated [Slack ](https://slack.com/)team and ensuring everyone is signed up/committed to using as our prime source. We also use this to share our project documentation and photos easily.
 
 ## Training we're undertaking
 
