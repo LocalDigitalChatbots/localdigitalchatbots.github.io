@@ -118,3 +118,9 @@ The success factors identified were;
 * Communication and participation (internally consistent across councils)
 * Commitment
 * Agreed ways of working
+
+## Next Steps
+
+With time very tight to deliver the project we are moving into full-on planning and preparation for the user research phase. A long list of actions was drawn up to get us all engaged and starting work.
+
+It's getting real!
