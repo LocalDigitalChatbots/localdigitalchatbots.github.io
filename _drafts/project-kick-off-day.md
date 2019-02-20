@@ -13,13 +13,13 @@ Amazingly, this was the first time that (nearly) everyone involved in the projec
 
 ## Setting the scene
 
-[Neil Lawrence](https://twitter.com/OX1Digital) from Oxford City Council, leading the project gave an introduction to the project, and the long journey taken to get to this event, starting with the Expressions of Interest stage back in September through the contract signing on 15 February.
+[Neil Lawrence](https://twitter.com/OX1Digital) from Oxford City Council gave an introduction to the project, and the long journey taken to get to this event, starting with the Expressions of Interest stage back in September through the contract signing on 15 February.
 
 ![](/uploads/deliverables.jpg)
 
-It was a good opportunity to remind everyone what the project was looking to deliver and why, including the ethos behind the project - ‘giving something back’ to the sector to re-use rather than just re-inventing the wheel. 
+It was a good opportunity to remind everyone what the project was looking to deliver and why, including the ethos behind the project - ‘giving something back’ to the sector to re-use rather than just re-inventing the wheel.
 
-Key questions to be resolved are;
+Key questions looking to be resolved are;
 
 * Can we use chatbots and AI to solve service delivery problems?
 * How do we focus on user needs?
@@ -103,7 +103,7 @@ This will involve three nominated stakeholders from each council, with Torchbox 
 
 ![](/uploads/sophie pre mortem.jpg)
 
-This got our pessimistic and optimistic juices flowing (although 'Brexit' came up in both exercises!).
+This got our pessimistic and optimistic juices flowing (although 'Brexit' came up in both exercises!), so lots of suggestions were made
 
 When distilled into the key factors we could see the risks were around;
 
