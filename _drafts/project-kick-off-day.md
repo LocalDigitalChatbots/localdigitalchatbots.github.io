@@ -50,9 +50,15 @@ It was great to see where our thinking coincided and what we all felt was import
 
 Ensuring we captured the 'votes from Norway' (little Eurovision reference for you there) from our dial-in attendees was fun too!
 
-## Research aims
+## User research aims
 
-[Luiza Frederico](https://torchbox.com/team/luiza-frederico/) from Torchbox talked us through how the user research would be organised.
+[Luiza Frederico](https://torchbox.com/team/luiza-frederico/) from Torchbox talked us through how the user research would be organised and what it would aim to cover.
+
+The aims are;
+
+* To understand the user experience of customer support in each research area (motivations, triggers, frequency, success and pain points)
+* Mental models and terminology used during communication, search and navigation
+* User experience of, and attitude towards, digital channels and technology (ex. social, channels, chatbots)
 
 From our project objectives exercise it was clear that the councils involved all want to see great user research carried out, and also to gain skills in this area to use in future projects.
 
