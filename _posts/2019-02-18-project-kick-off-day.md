@@ -38,7 +38,7 @@ We were asked to identify;
 
 * Council objectives that could be applied to the project
 * Objectives that each council had for the project as a whole
-* Any metrics they’d use to measure success (or ‘magic numbers’)
+* Any metrics we’d use to measure success (or ‘magic numbers’)
 
 ![](/uploads/objective standing.jpg)
 
