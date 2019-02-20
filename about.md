@@ -25,6 +25,26 @@ There have been some great initiatives to help bring the sector together;
 
 We wanted to use this project as a way to influence how the sector moves forward on chatbots and AI by providing a set of research and tools to help inform everyone that is 'starting from scratch'
 
+## Who is involved
+
+![](/uploads/wholeteam.jpg)
+
+The project is led by Oxford City Council, in collaboration with
+
+* Hertsmere Borough Council
+* Cheltenham Borough Council
+* Doncaster Council
+* Preston City Council
+* North East Derbyshire District Council
+* Bolsover District Council
+* Rotherham Metropolitan Borough Council
+* Bromsgrove District Council
+* Redditch Borough Council
+* Surrey County Council
+* Adur and Worthing Councils
+
+The delivery partner for the project is [Torchbox](https://localdigitalchatbots.github.io/procurement/2019/02/01/announcing-our-delivery-partner-torchbox/)
+
 ## Commitment to sharing
 
 We'll commit to making this a project that all of local government can use by;
