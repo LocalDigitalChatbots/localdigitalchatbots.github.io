@@ -90,4 +90,15 @@ We also had a discussion about the use of incentives for users to get involved. 
 
 ## Stakeholder research
 
-Tom also took us through 
+Tom also took us through the other side of user research in plans to interview key stakeholders.
+
+This will involve three nominated stakeholders from each council, with Torchbox undertaking the interviews themselves. The timing will be concurrent with user research for the four research areas to arrive at a combined understanding of each area by the end of each sprint.
+
+## Pre-mortem exercises
+
+[Sophie Ramm](https://torchbox.com/team/sophie-ramm/) from Torchbox led us in a great exercise to identify project risk and success factors in two Post-It exercises taken from and end-of-project perspective looking back;
+
+1. What went wrong with the project?
+2. What went right with the project?
+
+This got our pessimistic and optimistic juices flowing (although 'Brexit' came up 
