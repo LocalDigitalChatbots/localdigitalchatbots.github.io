@@ -80,4 +80,8 @@ Each week will involve;
 
 We quickly identified a potential issue with the Revenues & Benefits research, in that this time of year is the busiest for these staff involved in 'end of year' work. This was something to feed back to MGCLG about project timing in Q4 for local authorities.
 
+We also had a discussion about the use of incentives for users to get involved. Torchbox's guideline is £1 per minute (so about £60 per attendee). Usefully the project has funds available to cover this, but at least one council thought that they had local constraints on this. We also talked about the logistics of how this could be procured and distributed to participating councils. One area still to resolve.
+
 ## Stakeholder research
+
+Tom also took us through 
