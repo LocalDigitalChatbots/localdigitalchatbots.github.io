@@ -72,4 +72,12 @@ Research will be carried out in four week-long sprints, one for each research ar
 * w/c 25 March 2019 - Revenues & Benefits
 * w/c 1 April 2019 - Highways
 
+Each week will involve;
+
+* Two days for interviews and analysis
+* One day for analysis and synthesis
+* Reporting back in a sprint Stand-up
+
 We quickly identified a potential issue with the Revenues & Benefits research, in that this time of year is the busiest for these staff involved in 'end of year' work. This was something to feed back to MGCLG about project timing in Q4 for local authorities.
+
+## Stakeholder research
