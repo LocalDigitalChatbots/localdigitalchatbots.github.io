@@ -26,11 +26,11 @@ It was a good opportunity to remind everyone what the project was looking to del
 
 It also focused on what members of the project team had said about how they wanted the project team to work together, what its culture would feel like, what individuals’ hopes and fears were and what user research was available already.
 
-[chatbots kickoff intro presentation.pdf](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation")  
+[chatbots kickoff intro presentation](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation")  
 
 ## Getting a set of common objectives
 
-Tom Williamson from Torchbox led us all in a set of Post It exercises to help us all understand where we were each coming from as organisations and as a project.
+[Tom Williamson](https://torchbox.com/team/tom-williams/) from Torchbox led us all in a set of Post It exercises to help us all understand where we were each coming from as organisations and as a project.
 
 We were asked to identify;
 
@@ -47,3 +47,15 @@ After each exercise, everyone was allowed two votes to use on any of the Post-It
 It was great to see where our thinking coincided and what we all felt was important.
 
 Ensuring we captured the 'votes from Norway' (little Eurovision reference for you there) from our dial-in attendees was fun too!
+
+## Research Aims
+
+[Luiza Frederico](https://torchbox.com/team/luiza-frederico/) from Torchbox talked us through how the user research would be organised.
+
+From our project objectives exercise it was clear that the councils involved all want to see great user research carried out, and also to gain skills in this area to use in future projects.
+
+Torchbox will be enabling this through;
+
+* Two training days (split geographically) to get all involved up to speed with good practice in user research. Each council will be able to send up to two attendees
+* Carrying out the user research at one council site for each of the research areas.
+* Producing materials to help guide other councils in carrying out their own research
