@@ -96,9 +96,25 @@ This will involve three nominated stakeholders from each council, with Torchbox 
 
 ## Pre-mortem exercises
 
-[Sophie Ramm](https://torchbox.com/team/sophie-ramm/) from Torchbox led us in a great exercise to identify project risk and success factors in two Post-It exercises taken from and end-of-project perspective looking back;
+[Sophie Ramm](https://torchbox.com/team/sophie-ramm/) from Torchbox led us in identifying project risk and success factors in two Post-It exercises taken from and end-of-project perspective looking back;
 
 1. What went wrong with the project?
 2. What went right with the project?
 
-This got our pessimistic and optimistic juices flowing (although 'Brexit' came up 
+![](/uploads/sophie pre mortem.jpg)
+
+This got our pessimistic and optimistic juices flowing (although 'Brexit' came up in both exercises!).
+
+When distilled into the key factors we could see the risks were around;
+
+* Commitment/engagement/buy-in, both internal and external
+* Time
+* Politics beyond our control
+* How we work together as a project
+* Consistency in our work
+
+The success factors identified were;
+
+* Communication and participation (internally consistent across councils)
+* Commitment
+* Agreed ways of working
