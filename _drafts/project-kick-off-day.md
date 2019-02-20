@@ -70,4 +70,6 @@ Research will be carried out in four week-long sprints, one for each research ar
 * w/c 11 March 2019 - Planning
 * w/c 18 March 2019 - Waste & Recycling
 * w/c 25 March 2019 - Revenues & Benefits
-* 
+* w/c 1 April 2019 - Highways
+
+We quickly identified a potential issue with the Revenues & Benefits research, in that this time of year is the busiest for these staff involved in 'end of year' work. This was something to feed back to MGCLG about project timing in Q4 for local authorities.
