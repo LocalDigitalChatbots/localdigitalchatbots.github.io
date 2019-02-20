@@ -28,7 +28,7 @@ Key questions looking to be resolved are;
 
 It also focused on what members of the project team had said about how they wanted the project team to work together, what its culture would feel like, what individuals’ hopes and fears were and what user research was available already.
 
-[chatbots kickoff intro presentation](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation")
+[Download the chatbots kickoff intro presentation](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation")
 
 ## Getting a set of common objectives
 
@@ -68,6 +68,8 @@ Torchbox will be enabling this through;
 * Carrying out the user research at one council site for each of the research areas.
 * Producing materials to help guide other councils in carrying out their own research
 * Pooling all the research output for each research area to gain a good base of information on user views, and identifying any regional differences
+
+[Download the Torchbox event slides](/uploads/OCC - Chatbot Kickoff 2019.pdf "OCC - Chatbot Kickoff 2019.pdf")
 
 ## User research timetable
 
