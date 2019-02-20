@@ -45,7 +45,7 @@ The project is led by Oxford City Council, in collaboration with
 
 The delivery partner for the project is [Torchbox](https://localdigitalchatbots.github.io/procurement/2019/02/01/announcing-our-delivery-partner-torchbox/)
 
-## Commitment to sharing
+## Our commitment to sharing
 
 We'll commit to making this a project that all of local government can use by;
 
@@ -61,6 +61,12 @@ We're looking to use free web-based tools to help us deliver this project.
 
 This project website is hosted on [GitHub Pages]() and uses [Forestry ](https://forestry.io/)as a static site CMS. We'll also be using our GitHub repository as a means for others to access the project deliverables and research materials
 
-To help us collaborate on shared content, like developing our fund application and taking meeting notes, we use [Google Docs](https://www.google.com/docs/about/). We've used [Google Forms](https://www.google.co.uk/forms/about/) to get quick responses from everyone and record them, like selecting a research area to work on. 
+To help us collaborate on shared content, like developing our fund application and taking meeting notes, we use [Google Docs](https://www.google.com/docs/about/). We've used [Google Forms](https://www.google.co.uk/forms/about/) to get quick responses from everyone and record them, like selecting a research area to work on.
 
 For coordinating work and communicating with each other we're using a dedicated [Slack ](https://slack.com/)team and ensuring everyone is signed up/committed to using as our prime source. We also use this to share our project documentation.
+
+## Training we're undertaking
+
+As part of the MHCLG we've been able to access free training from the [GDS Academy](https://gdsacademy.campaign.gov.uk/). For us this meant a three-day [Agile for Teams](https://www.gov.uk/guidance/agile-for-teams-course-description) course in London.
+
+As part of our work with our delivery partners Torchbox we'll also be accessing a 1-day user research training course.
