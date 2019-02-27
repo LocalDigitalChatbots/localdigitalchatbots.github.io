@@ -19,11 +19,11 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2019-01-02-shortlisting-progress-and-research-areas.md
-- _posts/2018-12-13-local-digital-kick-off-workshop.md
-- _posts/2019-01-30-getting-agile.md
-- _posts/2018-12-07-application-success.md
-- _posts/2018-12-14-running-a-supplier-q-a-session.md
-- _posts/2019-02-01-announcing-our-delivery-partner-torchbox.md
-- _posts/2018-12-11-digital-outomes-opportunity-is-live.md
 - _posts/2019-02-18-project-kick-off-day.md
+- _posts/2019-02-01-announcing-our-delivery-partner-torchbox.md
+- _posts/2019-01-30-getting-agile.md
+- _posts/2019-01-02-shortlisting-progress-and-research-areas.md
+- _posts/2018-12-14-running-a-supplier-q-a-session.md
+- _posts/2018-12-13-local-digital-kick-off-workshop.md
+- _posts/2018-12-11-digital-outomes-opportunity-is-live.md
+- _posts/2018-12-07-application-success.md
