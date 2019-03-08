@@ -17,3 +17,5 @@ The project approach we've adopted is;
 * The lead council for each research area to have user research undertaken by Torchbox
 * Other councils participating in the research area to carry out their own user research using the same framework as Torchbox
 * User research training provided to all councils by Torchbox to facilitate this, and also to up-skill all participating councils to become more self-sufficient in this area
+
+## Training and materials
