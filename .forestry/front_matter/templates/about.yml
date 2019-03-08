@@ -1,7 +1,6 @@
 ---
 label: Page
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -12,4 +11,5 @@ fields:
   name: author
   label: Author
 pages:
+- project-resources.md
 - full-application.md
