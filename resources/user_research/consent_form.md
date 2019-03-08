@@ -27,7 +27,7 @@ information I have provided at any time while it is in storage as specified abov
 
 I understand that I am free to contact any of the people involved in the research to seek further clarification and information.
 
-Signature of research participant				    Date
+Signature of research participant				   
 
 
-____________________________________ 		    _____________________
+Date
