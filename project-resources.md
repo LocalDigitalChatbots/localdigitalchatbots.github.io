@@ -20,6 +20,6 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ### Interview data capture
 
-* User research script (Torchbox)
+* [User research script (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/Chatbots_%20User%20interviews%20script.pdf)
 * Notes template and user experience map (Torchbox)
-* User interview consent form (Torchbox)
+* [User interview consent form (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md)
