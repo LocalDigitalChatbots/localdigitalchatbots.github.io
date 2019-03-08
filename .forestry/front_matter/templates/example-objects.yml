@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/foundations-week-3-user-research-training.md
 - _posts/2019-02-18-project-kick-off-day.md
 - _posts/2019-02-01-announcing-our-delivery-partner-torchbox.md
 - _posts/2019-01-30-getting-agile.md
