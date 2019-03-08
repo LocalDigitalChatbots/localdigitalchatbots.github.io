@@ -4,9 +4,11 @@ date: 2019-03-08 00:00:00 +0000
 categories: []
 
 ---
-After initial preparations, week 3 of the project has seen things shift up a gear as we get ready for the first sprint.
+After initial preparations, week 3 of the project has seen things shift up a gear as we get ready for our first sprint.
 
-## User research training
+![](/uploads/Foundations training.png)
+
+## User research approach
 
 With 10 councils covering 4 areas of research it wasn't feasible for all the user research to be carried out by our delivery partner, Torchbox,
 
