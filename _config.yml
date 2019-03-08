@@ -20,7 +20,7 @@ navigation:
   - index.html
   - about.md
   - archive.html
-  - full-application.md
+  - project-resources.md
 
 comments:
   disqus: "disqus-contrast"
