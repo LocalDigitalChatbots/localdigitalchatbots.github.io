@@ -19,3 +19,7 @@ The project approach we've adopted is;
 * User research training provided to all councils by Torchbox to facilitate this, and also to up-skill all participating councils to become more self-sufficient in this area
 
 ## Training and materials
+
+With participating councils spread out across the country we decided on two training days to cover everyone;
+
+* Doncaster 
