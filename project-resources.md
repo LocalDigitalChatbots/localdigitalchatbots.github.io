@@ -9,8 +9,8 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ## Project Overview
 
-* [OCC - Chatbot Kickoff 2019.pdf](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/OCC - Chatbot Kickoff 2019.pdf "Chatbot kickoff slideshow (Torchbox)")
-* [chatbots kickoff intro presentation.pdf](/uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation.pdf")
+* [Chatbot Project Kickoff Presentation](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/OCC - Chatbot Kickoff 2019.pdf "Chatbot kickoff slideshow (Torchbox)")
+* [Chatbot project introduction](/uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation.pdf")
 
 ## User research
 
