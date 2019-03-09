@@ -29,4 +29,4 @@ These training days were led by Luiza Frederico of Torchbox
 
 ![](/uploads/imageedit__8585912853.jpg)
 
-The [materials developed for the project](project-resources/) have been deliberately designed for re-use by other councils 
+The [materials developed for the project](project-resources/) were designed for use by Torchbox in their research interviews, and also the other  
