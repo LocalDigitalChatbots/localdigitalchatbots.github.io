@@ -31,6 +31,15 @@ These training days were led by Luiza Frederico of Torchbox
 
 The [materials developed for the project](project-resources/) were designed for use by Torchbox in their research interviews, and  councils undertaking their own research to provide a consistent approach and ensure that the analysis and synthesis of the results for a research area can be more easily combined.
 
+In addition, these have been designed for any council
+
+They include
+
+* A [user recruitment guide](/uploads/Chatbots_ User recruitment guide.pdf "Chatbots_ User recruitment guide.pdf") for research interviews
+* A [user research script]() for conducting interviews
+* A consent form to use with users being interviewed
+* Data capture templates to assist in capturing what is important and displaying the user experience
+
 The training itself started with a reminder of why it is important to focus on what user needs are rather than rush to identify what solutions will work. 
 
 > It's better to focus on what is important rather than what is popular
