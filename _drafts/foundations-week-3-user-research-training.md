@@ -1,5 +1,5 @@
 ---
-title: 'Foundations Week 3:  User research training'
+title: 'Week 3:  User research training'
 date: 2019-03-08 00:00:00 +0000
 categories: []
 
@@ -22,4 +22,9 @@ The project approach we've adopted is;
 
 With participating councils spread out across the country we decided on two training days to cover everyone;
 
-* Doncaster 
+* Doncaster - 1 March (attended by Doncaster, Cheltenham, North East Derbyshire and Preston)
+* Oxford - 7 March (attended by Hertsmere, Redditch & Bromsgrove, Surrey and Oxford)
+
+These were led by Luiza Frederico of Torchbox
+
+![](/uploads/imageedit__8585912853.jpg)
