@@ -22,9 +22,11 @@ The project approach we've adopted is;
 
 With participating councils spread out across the country we decided on two training days to cover everyone;
 
-* Doncaster - 1 March (attended by Doncaster, Cheltenham, North East Derbyshire and Preston)
+* Doncaster - 1 March (attended by Doncaster, Rotherham, Cheltenham, North East Derbyshire and Preston)
 * Oxford - 7 March (attended by Hertsmere, Redditch & Bromsgrove, Surrey and Oxford)
 
-These were led by Luiza Frederico of Torchbox
+These training days were led by Luiza Frederico of Torchbox
 
 ![](/uploads/imageedit__8585912853.jpg)
+
+The [materials developed for the project](project-resources/) have been deliberately designed for re-use by other councils 
