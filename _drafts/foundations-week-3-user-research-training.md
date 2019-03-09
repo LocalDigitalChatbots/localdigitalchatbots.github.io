@@ -37,9 +37,9 @@ They include
 
 * A [user recruitment guide](/uploads/Chatbots_ User recruitment guide.pdf "Chatbots_ User recruitment guide.pdf") for research interviews
 * A [user research script]() for conducting interviews
-* A consent form to use with users being interviewed
-* Data capture templates to assist in capturing what is important and displaying the user experience
+* A [consent form](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md) to use with users being interviewed
+* [Data capture templates](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing) to assist in capturing what is important and displaying the user experience
 
-The training itself started with a reminder of why it is important to focus on what user needs are rather than rush to identify what solutions will work. 
+The training itself started with a reminder of why it is important to focus on what user needs are rather than rush to identify what solutions will work.
 
 > It's better to focus on what is important rather than what is popular
