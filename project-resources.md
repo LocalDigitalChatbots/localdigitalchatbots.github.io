@@ -34,12 +34,12 @@ Here you can access the deliverables from the project and the templates/guides u
 
 * [User recruitment guide (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/recruitment/Chatbots_%20User%20recruitment%20guide.pdf)
 * [Recruitment flyer example (Oxford City)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/recruitment/Recruitment%20flyer%20oxford.pdf)
+* [User interview consent form (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md)
 
 ### Interview data capture
 
 * [User research script (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/Chatbots_%20User%20interviews%20script.pdf)
 * [Notes template and user experience map (Torchbox)](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing)
-* [User interview consent form (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md)
 
 ## Data Dives
 
