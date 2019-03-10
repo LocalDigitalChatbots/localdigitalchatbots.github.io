@@ -37,7 +37,9 @@ The training itself started with a reminder of why it is important to focus on w
 
 Another key point made was that all assumptions need to be tested, and that interviews are a way to challenge or validate these assumptions.
 
-The [materials developed for the project](project-resources/) were designed for use by Torchbox in their research interviews, and  councils undertaking their own research to provide a consistent approach and ensure that the analysis and synthesis of the results for a research area can be more easily combined. They include;
+We also got to understand the value in listening to people, particularly in what words they use to describe things as this can differ from location to location (particularly in a project like this covering so many locations). This was nicely illustrated by using the [New York Times British-Irish Dialect Quiz](https://www.nytimes.com/interactive/2019/02/15/upshot/british-irish-dialect-quiz.html) during the training.
+
+Torchbox also walked us through the [materials they have developed for the project](project-resources/) for conducting research interviews. These will also be used by councils undertaking their own research to provide a consistent approach and ensure that the analysis and synthesis of the results for a research area can be more easily combined. They include;
 
 * A [user recruitment guide](/uploads/Chatbots_ User recruitment guide.pdf "Chatbots_ User recruitment guide.pdf") for research interviews
 * A [user research script]() for conducting interviews
