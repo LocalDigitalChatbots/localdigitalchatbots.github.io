@@ -57,3 +57,7 @@ Recruiting participants involved using a range of approaches, which included;
 * Informing telephone callers that used the planning service number
 * Emailing people that had left feedback on planning website pages
 * Calling regular agents that use the planning service on behalf of clients
+
+Torchbox had a great suggestion of using [YouCanBook.Me](https://youcanbook.me) to have people select and book their own interview slots. In Oxford we set up a Google Form to provide a bit more information about the process and capture some additional information. 
+
+Finding just six people sounds like an easy process, but we found that there were spoof appointments made, or using fake email addresses. Confirming our six appointments took until 9pm on the Saturday prior to the Monday interviews. Lessons learned here about starting earlier, which partner councils on future sprints will benefit from. 
