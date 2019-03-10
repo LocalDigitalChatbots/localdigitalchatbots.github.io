@@ -24,6 +24,8 @@ Here you can access the deliverables from the project and the templates/guides u
 * [Chatbot Project Kickoff Presentation](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/OCC - Chatbot Kickoff 2019.pdf "Chatbot kickoff slideshow (Torchbox)")
 * [Chatbot project introduction](/uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation.pdf")
 
+***
+
 ## User research
 
 ### Training
@@ -40,6 +42,8 @@ Here you can access the deliverables from the project and the templates/guides u
 
 * [User interview script (Torchbox)](/uploads/User interview script.pdf "User interview script.pdf")
 * [Notes template and user experience map (Torchbox)](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing)
+
+***
 
 ## Data Dives
 
