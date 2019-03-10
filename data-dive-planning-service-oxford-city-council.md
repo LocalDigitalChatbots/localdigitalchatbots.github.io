@@ -55,4 +55,4 @@ Customers are able to pre-book appointments by phone to see a customer service a
 
 The drop-in service operates 3 hrs per day using 20 minutes interview slots (10:00am to 1:00pm, with the last appointment at 12:40pm). It provides [limited professional advice](https://www.oxford.gov.uk/info/20066/planning_applications/723/contacting_us_for_planning_advice) but this does not include if planning permission is required, for which a separate [pre-application process](https://www.oxford.gov.uk/info/20066/planning_applications/331/pre-application_planning_advice) is available.
 
-Customer Service Advisers saw 768 customers as “Fast-Track” appointments and the Planning Duty office saw 832 customers as appointments.
+Customer Service Advisers saw 768 customers as “Fast-Track” appointments and the Planning Duty officer saw 832 customers as appointments.
