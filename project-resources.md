@@ -33,7 +33,7 @@ Here you can access the deliverables from the project and the templates/guides u
 ### Recruitment
 
 * [User recruitment guide (Torchbox)](/uploads/Chatbots_ User recruitment guide.pdf "Chatbots_ User recruitment guide.pdf")
-* [Recruitment flyer example (Oxford City)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/recruitment/Recruitment%20flyer%20oxford.pdf)
+* [Recruitment flyer example (Oxford City)](/uploads/planning research.pdf "planning research.pdf")
 * [User interview consent form (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md)
 
 ### Interview data capture
