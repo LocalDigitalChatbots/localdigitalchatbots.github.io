@@ -9,9 +9,9 @@ An analysis of the data produced to inform the project business case
 
 ## Telephone calls
 
-The Contact Centre has a 40-seat capacity. Callers are routed using IVR to available Customer Service Advisers.
+The Contact Centre has a 40-seat capacity and handles the majority of calls from the public across a range of services, including Planning.
 
-For Planning, considered as a small service for the number of
+Planning is considered as a small service and so has no dedicated officers. Callers are routed using IVR to an available Customer Service Adviser.
 
 It acts as a ‘triage’ for calls to the planning department. It does not have trained planners working within it. A large proportion of calls are for a named individual, but local policy is to not give these out and for the contact centre to handle the calls if it can.
 
