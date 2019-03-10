@@ -29,6 +29,8 @@ Data range: 1 April 2018 to 31 January 2019
 
 Call volumes are also [published online](https://digital.oxford.gov.uk/performance/transactions.html)
 
+Data on annual planning calls is analysed below
+
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjE0MTNlYjctNGIyMC00OTRlLWIwOGUtZWUyNTEyZDIxZTAwIiwidCI6IjlmM2QwZjM5LTVlMmItNGY4OC05ZDQzLWU5MzQ0ZjlhYTAyZCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Sample calls
