@@ -31,13 +31,15 @@ These training days were led by Luiza Frederico of Torchbox (see [Torchbox User 
 
 The training itself started with a reminder of why it is important to focus on what user needs are rather than rush to identify what solutions will work. We are looking to find ways to solve peoples' problems.
 
-> 
->
 > "You shouldn't focus on things just because they are popular"
 
 Another key point made was that all assumptions need to be tested, and that interviews are a way to challenge or validate these assumptions.
 
+> "Try not to jump into solutions mode; be careful not to lead interviewees"
+
 We also got to understand the value in listening to people, particularly in what words they use to describe things as this can differ from location to location (particularly in a project like this covering so many locations). This was nicely illustrated by using the [New York Times British-Irish Dialect Quiz](https://www.nytimes.com/interactive/2019/02/15/upshot/british-irish-dialect-quiz.html) during the training.
+
+> "It's important to know how your users talk. The way you talk about things is so important"
 
 Torchbox also walked us through the [materials they have developed for the project](project-resources/) for conducting research interviews. These will also be used by councils undertaking their own research to provide a consistent approach and ensure that the analysis and synthesis of the results for a research area can be more easily combined. They include;
 
@@ -54,7 +56,7 @@ The Sprint 1 councils (Oxford, Hertsmere and Cheltenham) have been in the thick 
 
 Recruiting participants involved using a range of approaches, which included;
 
-* Social media (Twitter and Facebook)
+* Social media ([Twitter](https://twitter.com/OxfordCity/status/1104351124461633537) and Facebook)
 * Website adverts
 * [Leaflets/flyers](/uploads/planning research.pdf "planning research.pdf") left on reception desks, with Planning Duty Officers (and even dropped in a few letterboxes for houses that had applications in hand)
 * Information on all outgoing emails to planning customers
