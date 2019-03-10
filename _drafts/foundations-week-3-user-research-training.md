@@ -44,7 +44,7 @@ The [materials developed for the project](project-resources/) were designed for 
 
 Some time was spent going through the logistics and practicalities of organising and conducting interviews, which take more effort than might be realised.
 
-## User recruitment for sprint
+## User recruitment 
 
 The Sprint 1 councils (Oxford, Hertsmere and Cheltenham) have been in the thick of recruiting six participants each for the research interviews looking at Planning services.
 
