@@ -47,4 +47,4 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ## Data Dives
 
-* [Oxford City Council - Planning](data-dive-planning-service-oxford-city-council/)
+* [Oxford City Council - Planning](/data-dive-planning-service-oxford-city-council/)
