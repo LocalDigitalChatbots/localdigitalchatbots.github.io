@@ -25,7 +25,7 @@ With participating councils spread out across the country we decided on two trai
 * Doncaster - 1 March (attended by Doncaster, Rotherham, Cheltenham, North East Derbyshire and Preston)
 * Oxford - 7 March (attended by Hertsmere, Redditch & Bromsgrove, Surrey and Oxford)
 
-These training days were led by Luiza Frederico of Torchbox
+These training days were led by Luiza Frederico of Torchbox (see [Torchbox User Research Training for Councils](/uploads/Torchbox User Research Training for Councils.pdf "Torchbox User Research Training for Councils.pdf"))
 
 ![](/uploads/imageedit__8585912853.jpg)
 
@@ -42,4 +42,10 @@ The [materials developed for the project](project-resources/) were designed for 
 * A [consent form](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md) to use with users being interviewed
 * [Data capture templates](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing) to assist in capturing what is important and displaying the user experience
 
+Some time was spent going through the logistics and practicalities of organising and conducting interviews, which take more effort than might be realised. 
+
 ## User recruitment for sprint
+
+The Sprint 1 councils (Oxford, Hertsmere and Cheltenham) have been in the thick of recruiting six participants each for the research interviews looking at Planning services.
+
+As warned at the training, attract
