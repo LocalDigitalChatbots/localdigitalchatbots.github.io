@@ -44,7 +44,7 @@ We also got to understand the value in listening to people, particularly in what
 Torchbox also walked us through the [materials they have developed for the project](project-resources/) for conducting research interviews. These will also be used by councils undertaking their own research to provide a consistent approach and ensure that the analysis and synthesis of the results for a research area can be more easily combined. They include;
 
 * A [user recruitment guide](/uploads/Chatbots_ User recruitment guide.pdf "Chatbots_ User recruitment guide.pdf") for research interviews
-* A [user research script]() for conducting interviews
+* A [user interview script](/uploads/User interview script.pdf "User interview script.pdf") for conducting interviews
 * A [consent form](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md) to use with users being interviewed
 * [Data capture templates](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing) to assist in capturing what is important and displaying the user experience
 
