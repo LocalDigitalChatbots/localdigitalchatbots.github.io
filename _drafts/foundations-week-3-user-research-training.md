@@ -42,10 +42,18 @@ The [materials developed for the project](project-resources/) were designed for 
 * A [consent form](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/consent_form.md) to use with users being interviewed
 * [Data capture templates](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing) to assist in capturing what is important and displaying the user experience
 
-Some time was spent going through the logistics and practicalities of organising and conducting interviews, which take more effort than might be realised. 
+Some time was spent going through the logistics and practicalities of organising and conducting interviews, which take more effort than might be realised.
 
 ## User recruitment for sprint
 
 The Sprint 1 councils (Oxford, Hertsmere and Cheltenham) have been in the thick of recruiting six participants each for the research interviews looking at Planning services.
 
-As warned at the training, attract
+Recruiting participants involved using a range of approaches, which included;
+
+* Social media (Twitter and Facebook)
+* Website adverts
+* [Leaflets/flyers](/uploads/planning research.pdf "planning research.pdf") left on reception desks, with Planning Duty Officers (and even dropped in a few letterboxes for houses that had applications in hand)
+* Information on all outgoing emails to planning customers
+* Informing telephone callers that used the planning service number
+* Emailing people that had left feedback on planning website pages
+* Calling regular agents that use the planning service on behalf of clients
