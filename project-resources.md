@@ -8,7 +8,19 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ## Project Overview
 
-* [Full project application](full-application.md)
+### Application
+
+* [Expression of Interest](https://localdigital.gov.uk/eoi/oxford-city-council/)
+* [Detailed project application](full-application.md)
+* [Application summary and feedback](https://localdigital.gov.uk/funding/oxford-city-council/)
+* [Local Digital Collaboration Unit project page](https://localdigital.gov.uk/funded-projects-local-digital-fund-round-one/can-chatbots-and-ai-help-solve-service-design-problems/)
+
+### Procurement
+
+* [Digital Outcomes and Specialists Opportunity]()
+
+### Project initiation
+
 * [Chatbot Project Kickoff Presentation](https://app.forestry.io/sites/nbjy2qxxpjtbyg/body-media//uploads/OCC - Chatbot Kickoff 2019.pdf "Chatbot kickoff slideshow (Torchbox)")
 * [Chatbot project introduction](/uploads/chatbots kickoff intro presentation.pdf "chatbots kickoff intro presentation.pdf")
 
