@@ -31,6 +31,8 @@ These training days were led by Luiza Frederico of Torchbox (see [Torchbox User 
 
 The training itself started with a reminder of why it is important to focus on what user needs are rather than rush to identify what solutions will work. We are looking to find ways to solve peoples' problems.
 
+> 
+>
 > "You shouldn't focus on things just because they are popular"
 
 Another key point made was that all assumptions need to be tested, and that interviews are a way to challenge or validate these assumptions.
