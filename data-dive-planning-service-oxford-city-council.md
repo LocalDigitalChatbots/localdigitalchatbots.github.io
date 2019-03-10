@@ -2,7 +2,6 @@
 title: 'Data Dive: Planning Service (Oxford City Council)'
 author: Neil Lawrence
 date: 2019-03-10 13:49:41 +0000
-published: false
 
 ---
 An analysis of the data produced to inform the project business case
