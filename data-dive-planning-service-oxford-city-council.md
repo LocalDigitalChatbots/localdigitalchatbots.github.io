@@ -9,7 +9,11 @@ An analysis of the data produced to inform the project business case
 
 ## Telephone calls
 
-The Contact Centre acts as a ‘triage’ for calls to the planning department. It does not have trained planners working within it. A large proportion of calls are for a named individual, but local policy is to not give these out and for the contact centre to handle the calls if it can. 
+The Contact Centre has a 40-seat capacity. Callers are routed using IVR to available Customer Service Advisers.
+
+For Planning, considered as a small service for the number of
+
+It acts as a ‘triage’ for calls to the planning department. It does not have trained planners working within it. A large proportion of calls are for a named individual, but local policy is to not give these out and for the contact centre to handle the calls if it can.
 
 ### Annual calls
 
@@ -20,10 +24,13 @@ Data range: 1 April 2017 to 31 March 2018
 Data range: 1 April 2018 to 31 January 2019
 
 * Total calls received: 180,732
+* Planning calls: 6,256 (3.5%0
+* Waste & Recycling calls: 26,635 (13.1%)
+* Revenues & Benefits calls: 53,511 (29.6%)
+
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjE0MTNlYjctNGIyMC00OTRlLWIwOGUtZWUyNTEyZDIxZTAwIiwidCI6IjlmM2QwZjM5LTVlMmItNGY4OC05ZDQzLWU5MzQ0ZjlhYTAyZCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Sample calls
-
-Data range: 
 
 Of a sample of 100 planning calls taken by the contact centre;
 
@@ -40,10 +47,8 @@ Of the sample calls, 20% were for a named officer
 
 Data range: 01/02/2018 to 21/02/2019
 
-Customers are able to pre-book appointments by phone to see a customer service adviser about a range of council services, but for planning customers they are told about the Planning drop-in service operating hours and have to present themselves for an appointment on the day. 
+Customers are able to pre-book appointments by phone to see a customer service adviser about a range of council services, but for planning customers they are told about the Planning drop-in service operating hours and have to present themselves for an appointment on the day.
 
 The drop-in service operates 3 hrs per day using 20 minutes interview slots (10:00am to 1:00pm, with the last appointment at 12:40pm)
 
 Customer Service Advisers saw 768 customers as “Fast-Track” appointments and the Planning Duty office saw 832 customers as appointments.
-
-Data on visits was collected on ZMan for logging these and have very few options for data scrutiny. They are almost always logged as “anon”. We also know that we do not track 100% of our visitors in ZMan, so these numbers may represent 40%-70% of our true workload."
