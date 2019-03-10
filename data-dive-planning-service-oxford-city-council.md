@@ -36,7 +36,7 @@ Call volumes are also [published online](https://digital.oxford.gov.uk/performan
 Of a sample of 100 planning calls taken by the contact centre;
 
 * 7.9% could be resolved by the first line customer agent
-* 4.9% were referred to the council's planning website pages, or the [Planning Portal](https://www.planningportal.co.uk/)
+* 4.9% were referred to the [council's planning website pages](https://www.oxford.gov.uk/planning), or the [Planning Portal](https://www.planningportal.co.uk/)
 * 5.9% were referred to the Planning Drop-in Service for discussion
 * 27.7% required an email to the general planning email address or a specific planning officer due to the nature of the query
 * 8.9% were referred for a call back by a planning duty officer due to the nature of the query
