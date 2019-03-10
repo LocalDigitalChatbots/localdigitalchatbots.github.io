@@ -4,7 +4,7 @@ date: 2019-03-08 00:00:00 +0000
 categories: []
 
 ---
-After initial preparations, week 3 of the project has seen things shift up a gear as we get ready for our first sprint.
+After initial preparations, week 3 of the project has seen things shift up a gear as we get ready for our first sprint. This involved all councils undergoing user research training, as well as some of us preparing for Sprint 1 user research interviews.
 
 ![](/uploads/Foundations training.png)
 
@@ -44,7 +44,7 @@ The [materials developed for the project](project-resources/) were designed for 
 
 Some time was spent going through the logistics and practicalities of organising and conducting interviews, which take more effort than might be realised.
 
-## User recruitment 
+## User recruitment
 
 The Sprint 1 councils (Oxford, Hertsmere and Cheltenham) have been in the thick of recruiting six participants each for the research interviews looking at Planning services.
 
@@ -58,6 +58,6 @@ Recruiting participants involved using a range of approaches, which included;
 * Emailing people that had left feedback on planning website pages
 * Calling regular agents that use the planning service on behalf of clients
 
-Torchbox had a great suggestion of using [YouCanBook.Me](https://youcanbook.me) to have people select and book their own interview slots. In Oxford we set up a Google Form to provide a bit more information about the process and capture some additional information. 
+Torchbox had a great suggestion of using [YouCanBook.Me](https://youcanbook.me) to have people select and book their own interview slots. In Oxford we set up a Google Form to provide a bit more information about the process and capture some additional information.
 
-Finding just six people sounds like an easy process, but we found that there were spoof appointments made, or using fake email addresses. Confirming our six appointments took until 9pm on the Saturday prior to the Monday interviews. Lessons learned here about starting earlier, which partner councils on future sprints will benefit from. 
+Finding just six people sounds like an easy process, but we found that there were spoof appointments made, or using fake email addresses. Confirming our six appointments took until 9pm on the Saturday prior to the Monday interviews. Lessons learned here about starting earlier, which partner councils on future sprints will benefit from.
