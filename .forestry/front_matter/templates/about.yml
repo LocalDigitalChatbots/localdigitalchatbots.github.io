@@ -11,6 +11,6 @@ fields:
   name: author
   label: Author
 pages:
-- data-dive-planning-service-oxford-city-council.md
 - project-resources.md
+- data-dive-planning-service-oxford-city-council.md
 - full-application.md
