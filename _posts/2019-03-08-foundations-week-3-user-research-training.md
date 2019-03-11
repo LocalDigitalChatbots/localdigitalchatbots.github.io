@@ -39,8 +39,6 @@ Another key point made was that all assumptions need to be tested, and that inte
 
 We also got to understand the value in listening to people, particularly in what words they use to describe things as this can differ from location to location (particularly in a project like this covering so many locations). This was nicely illustrated by using the [New York Times British-Irish Dialect Quiz](https://www.nytimes.com/interactive/2019/02/15/upshot/british-irish-dialect-quiz.html) during the training.
 
-> "It's important to know how your users talk. The way you talk about things is so important"
-
 Torchbox also walked us through the [materials they have developed for the project](project-resources/) for conducting research interviews. These will also be used by councils undertaking their own research to provide a consistent approach and ensure that the analysis and synthesis of the results for a research area can be more easily combined. They include;
 
 * A [user recruitment guide](/uploads/Chatbots_ User recruitment guide.pdf "Chatbots_ User recruitment guide.pdf") for research interviews
