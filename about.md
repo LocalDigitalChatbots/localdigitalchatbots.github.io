@@ -11,7 +11,7 @@ When we first starting discussing this project as a group of councils we had a c
 
 There are multiple platforms available, and countless suppliers that are offering services to build apps. Which is the right one to choose?
 
-But more importantly, are these technologies the right ones to deliver improvements for customers? Or are we just chasing efficiencies or the latest tech because we think we should. Shouldn't we start by finding out what the user needs are?
+But more importantly, are these technologies the right ones to deliver improvements for customers? Or are we just chasing efficiencies or the latest tech because we think we should? Shouldn't we start by finding out what the user needs are?
 
 ## Reinventing the wheel
 
