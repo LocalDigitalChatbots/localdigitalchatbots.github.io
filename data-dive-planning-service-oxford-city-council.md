@@ -92,7 +92,7 @@ Data range: 19/12/2018 to 11/3/2019
 
 Data range: 01/01/2018 to 31/12/2018
 
-A total of 208,000 documents were downloaded from the website during this time. The top 100 downloads amounted to 91,036 downloads. Of this sum, planning-related items accounted for 28,733 (31.6%) downloads.
+A total of 208,000 documents were downloaded from the website during this time. The top 100 downloads amounted to 91,036 downloads. Of this sum, planning-related items accounted for 28,733 (31.6%) of downloads.
 
 The top ten planning-related downloads were;
 
