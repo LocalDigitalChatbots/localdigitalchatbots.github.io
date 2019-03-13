@@ -85,3 +85,25 @@ Data range: 19/12/2018 to 11/3/2019
 * 5.8% were lodging objections to planning applications or decisions
 * 4.7% related to change of use enquiries
 * 4.7% were requesting appointments with the planning drop-in service
+
+## Website
+
+### Website downloads
+
+Data range: 01/01/2018 to 31/12/2018
+
+A total of 208,000 documents were downloaded from the website during this time. The top 100 downloads amounted to 91,036 downloads. Of this sum, planning-related downloads accounted for 28,733 (31.6%) of this top 100
+
+The top ten planning-related downloads were;
+
+| --- | --- |
+| Oxford Core Strategy \| Oxford City Council | 2,615 |
+| Sites and Housing Plan \| Oxford City Council | 2,403 |
+| Oxford Local Plan 2036 Preferred Options Full Document (low res) \| Oxford City Council | 1,969 |
+| Oxford Local Plan 2036 - Proposed Submission Draft \| Oxford City Council | 1,772 |
+| Planning Pre-application Advice Service Protocol \| Oxford City Council | 1,429 |
+| Building Control Application Fees \| Oxford City Council | 1,398 |
+| Planning Applications Weekly List \| Oxford City Council | 1,088 |
+| Oxford Policies Map 2013 - North East and city centre inset map \| Oxford City Council | 1,051 |
+| Planning Policies Map 2013 - Legend \| Oxford City Council | 1,020 |
+| Oxpens Masterplan SPD \| Oxford City Council | 989 |
