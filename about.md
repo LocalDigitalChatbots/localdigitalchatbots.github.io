@@ -21,9 +21,9 @@ The temptation with new tech is to dive straight in and start doing something. F
 
 There have been some great initiatives to help bring the sector together;
 
-* LocalGov Digital developed the local government version of the Digital Service Standard to unify the sector's approach to developing services
-* Government as a Platform is providing common tools that the public sector can use to build great digital services
-* LocalGov Digital is using Pipeline to promote projects and collaboration on them
+* [LocalGov Digital](https://localgov.digital/) developed the local government version of the Digital Service Standard to unify the sector's approach to developing services
+* [Government as a Platform](https://governmentasaplatform.blog.gov.uk/) is providing common tools that the public sector can use to build great digital services
+* LocalGov Digital is using [Pipeline ](https://pipeline.localgov.digital/)to promote projects and collaboration on them, and a new [User Research Library](https://research.localgov.digital/) is furthering this
 
 We wanted to use this project as a way to influence how the sector moves forward on chatbots and AI by providing a set of research and tools to help inform everyone that is 'starting from scratch'
 
