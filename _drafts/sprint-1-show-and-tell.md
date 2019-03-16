@@ -5,13 +5,13 @@ categories:
 - planning
 
 ---
-This week we completed sprint 1 of the project, looking at planning services across three councils. As well as user research interviews with 18 members of the public there were stakeholder interviews with 6 staff in councils, and a stack of data gathering to get completed.
+This week we completed Sprint #1 of the project, looking at planning services across three councils. As well as user research interviews with 18 members of the public there were stakeholder interviews with 6 staff in councils, and a stack of data gathering to get completed.
 
 ## Show and Tell
 
 Friday saw us bring together initial findings from the week and a chance for all participating councils to get early headlines.
 
-We had 10 people on the Hangout, including Andrew, one of the Planning team from Oxford, who was able to jump in and answer a question arising from the research.
+We had 10 people on the Hangout, including Andrew from the Planning team from Oxford, who was able to jump in and answer a question arising from the research.
 
 Although we'd captured the event on video, our sound recording didn't work out, so instead the slides are presented below, and we go into a bit more detail about the work after that.
 
@@ -114,3 +114,7 @@ Luiza, Kyle and Neil worked on a retrospective after the user research interview
 * Send confirmation email 24 hours before interview (or Friday)
 
   _“We look forward to seeing you at (time) on (date) at (location) for your interview. Here is a reminder of what is happening on the day… (incentive, research purpose etc)”_
+
+## Next Steps
+
+Next week is Sprint #2
