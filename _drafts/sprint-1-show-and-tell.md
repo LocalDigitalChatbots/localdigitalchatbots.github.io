@@ -35,8 +35,6 @@ Users were using multiple sources to research their applications before submitti
 
 Users were sometimes given contradicting advice; a suggestion to email in a complex query was then met with the suggestion to use the drop-in service as the query was _too_ complex!
 
-\- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
-
 ### Cheltenham
 
 Claire Cook fed back on her work at Cheltenham.
