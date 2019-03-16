@@ -37,13 +37,17 @@ John Robinson fed back on Hertsmere's three days of interviews.
 
 Most of the people that responded to the user recruitment did so because they had an issue personal to them. They had to be 
 
-People really wanted to speak to a planning officer and were frustrated at talking to contact centre; it was hard for them to get to the back office
+People really wanted to speak to a planning officer rather than contact centre staff; it was hard for them to get to the back office
 
 > “I think here its frustrations of ‘I want to speak to a planning officer - I don’t want to speak to anyone else’ "
 
-However, a key issue shared with the other councils is the the number of available planning officers to take those calls
+However, a key issue they shared with the other councils is  the number of available planning officers to take those direct calls;
 
 > “Our underlying problem is recruiting and retaining planning officers - we just haven’t got enough”
+
+John's interviews echoed the findings from Oxford that for people responding to someone else's application there
+
+> “With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
 
 \- Issue with two people turning up - didn’t read instructions
 
@@ -58,8 +62,6 @@ However, a key issue shared with the other councils is the the number of availab
 \- Agent: why can’t council give information on land they can develop? Different angle
 
 \- Top tip; switch recording device on
-
-> “With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
 
 ## Stakeholder interviews
 
