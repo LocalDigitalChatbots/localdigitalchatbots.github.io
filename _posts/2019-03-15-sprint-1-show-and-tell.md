@@ -67,12 +67,12 @@ Tom Williams from Torchbox had been speaking to key stakeholders in each council
 
 Early estimates of the call volumes alongside the proportion of calls that can be resolved by front-line staff suggest that across three councils there would only be a potential £86k saving, which throws the business case into doubt based on return on investment.
 
-A key issue identified is the reliance on paper-based information to reach decisions, which makes the application of artificial intelligence much more difficult. 
+A key issue identified is the reliance on paper-based information to reach decisions, which makes the application of artificial intelligence much more difficult.
 
-Areas that would appear to be beneficial are; 
+Areas that would appear to be beneficial are;
 
 * the use of proactive notifications to stop calls and help customers
-* using AI or chatbots to to schedule appointments or triage calls 
+* using AI or chatbots to to schedule appointments or triage calls
 
 ## Data gathering
 
@@ -82,7 +82,7 @@ As Torchbox were doing the heavy lifting with user interviews in Oxford, Neil La
 * Analysing 3 months of emails to the main Planning email address, with a deeper analysis on 90 web contact form submissions
 * Looking at the volume of downloads from the website
 
-This has been summarised on the [Oxford Data Dive page](/data-dive-planning-service-oxford-city-council/). 
+This has been summarised on the [Oxford Data Dive page](/data-dive-planning-service-oxford-city-council/).
 
 Reactions by colleagues to the data had been interesting; it had been anticipated that a far higher proportion of calls would direct people to the website. Also, the volume of downloads were a surprise;
 
@@ -128,4 +128,6 @@ Luiza, Kyle and Neil worked on a retrospective after the user research interview
 
 ## Next Steps
 
-Next week is Sprint #2
+Next week is Sprint #2 looking at Waste and Recycling Services in Doncaster, Rotherham, Bolsover and North East Derbyshire. 
+
+The intrepid Claire Cook will also be undertaking research for Cheltenham for sprint #2 as well!
