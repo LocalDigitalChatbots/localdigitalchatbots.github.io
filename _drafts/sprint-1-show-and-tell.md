@@ -25,13 +25,15 @@ Text
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in Oxford. 
 
+From the interviews they had identified two key user journeys; users managing their own application and users  who are checking or challenging someone else's application
+
 > “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
 
 \- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
 
 ### Cheltenham
 
-Claire Cook fed back on her work at Cheltenham
+Claire Cook fed back on her work at Cheltenham.
 
 \- Period of time where customer do a lot of research; using website quite a bit, looking at other applications, using to find a successful architect
 
