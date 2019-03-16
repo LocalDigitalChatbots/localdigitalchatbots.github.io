@@ -31,9 +31,13 @@ Text
 
 ### Cheltenham
 
-Claire Cook
+Claire Cook fed back on her work at Cheltenham
 
-Text
+\- Period of time where customer do a lot of research; using website quite a bit, looking at other applications, using to find a successful architect
+
+Claire had spent time analysing the types of customers that use planning services, which she'd used in her customer journey map. Luiza echoed this approach with some work Torchbox are doing to pull this information together.
+
+\- Lots and lots of dialogue
 
 ### Hertsmere
 
