@@ -45,6 +45,13 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ***
 
+## Sprint #1
+
+* [Show and tell slides (Torchbox)](https://docs.google.com/presentation/d/1hrP0vsZh9HpN_H6qAGWI5-7zlp9lyWBzOBte0rTNJsI/edit?usp=sharing)
+* 
+
+***
+
 ## Data Dives
 
 * [Oxford City Council - Planning](/data-dive-planning-service-oxford-city-council/)
