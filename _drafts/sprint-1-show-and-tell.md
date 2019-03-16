@@ -21,6 +21,48 @@ Although we'd captured the event on video, our sound recording didn't work out, 
 
 Text
 
+### Oxford
+
+Text
+
+### Cheltenham
+
+Claire Cook
+
+Text
+
+### Hertsmere
+
+John Robinson fed back on Hertsmere's three days of interviews. The key findings were;
+
+* people wanted to speak to a planning officer and were frustrated at talking to contact centre; it was hard for them to get to the back office
+
+\- Issue with number of planning officers (challenge for all councils)
+
+\- recruiting responded as they had a personal issue - said cannot answer those question
+
+\- Issue with two people turning up - didn’t read instructions
+
+\- website doesn’t have the information they want, could reduce calls
+
+\- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
+
+\- FAQs not specific enough so want to speak to someone)
+
+\- Objections are emotive, not going to get the answers they want
+
+\- Agent: why can’t council give information on land they can develop? Different angle
+
+\- Top tip; switch recording device on
+
+“We found that most people that responded did so because they had a personal issue”
+
+“With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
+
+“I think here its frustrations of ‘I want to speak to a planning officer - I don’t want to speak to anyone else’ "
+
+“Our underlying problem is recruiting and retaining planning officers - we just haven’t got enough”
+
 ## Stakeholder interviews
 
 text
@@ -30,3 +72,5 @@ text
 Text
 
 ## Learning points
+
+text
