@@ -65,6 +65,15 @@ John's interviews echoed the findings from Oxford; for people responding to some
 
 Tom Williams from Torchbox had been speaking to key stakeholders in each council, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Planning services.
 
+Early estimates of the call volumes alongside the proportion of calls that can be resolved by front-line staff suggest that across three councils there would only be a potential £86k saving, which throws the business case into doubt based on return on investment.
+
+A key issue identified is the reliance on paper-based information to reach decisions, which makes the application of artificial intelligence much more difficult. 
+
+Areas that would appear to be beneficial are; 
+
+* the use of proactive notifications to stop calls and help customers
+* using AI or chatbots to to schedule appointments or triage calls 
+
 ## Data gathering
 
 As Torchbox were doing the heavy lifting with user interviews in Oxford, Neil Lawrence had spent time digging further into available data to learn more. This included;
