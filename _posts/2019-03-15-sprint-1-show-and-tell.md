@@ -1,5 +1,5 @@
 ---
-title: 'Sprint 1: Planning services'
+title: 'Sprint #1: Planning services'
 date: 2019-03-15 00:00:00 +0000
 categories:
 - planning
@@ -41,7 +41,7 @@ Claire Cook fed back on her work at Cheltenham.
 
 She found that there was a period of time where users do a lot of their own research; using the website quite a bit, looking at other applications to get a sense of what would be acceptable, and even using it to find an architect that had been successful in having applications approved.
 
-Claire had spent time analysing the types of customers that use planning services, which she'd used in her customer journey map. Luiza is looking to echo this approach with some work Torchbox are doing on the results.
+Claire had spent time analysing the types of customers that use planning services, which she'd used in her [customer journey maps](https://docs.google.com/presentation/d/1beqZGfdWqrFfq9ZNRAkYsVbRLNk3VOENPTRybQykhEk/edit?usp=sharing). Luiza is looking to echo this approach with some work Torchbox are doing on the results.
 
 ### Hertsmere
 
@@ -128,6 +128,6 @@ Luiza, Kyle and Neil worked on a retrospective after the user research interview
 
 ## Next Steps
 
-Next week is Sprint #2 looking at Waste and Recycling Services in Doncaster, Rotherham, Bolsover and North East Derbyshire. 
+Next week is Sprint #2 looking at Waste and Recycling Services in Doncaster, Rotherham, Bolsover and North East Derbyshire.
 
 The intrepid Claire Cook will also be undertaking research for Cheltenham for sprint #2 as well!
