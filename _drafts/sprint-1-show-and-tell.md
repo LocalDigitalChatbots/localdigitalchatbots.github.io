@@ -43,6 +43,8 @@ People really wanted to speak to a planning officer and were frustrated at talki
 
 However, a key issue shared with the other councils is the the number of available planning officers to take those calls
 
+> “Our underlying problem is recruiting and retaining planning officers - we just haven’t got enough”
+
 \- Issue with two people turning up - didn’t read instructions
 
 \- website doesn’t have the information they want, could reduce calls
@@ -57,11 +59,7 @@ However, a key issue shared with the other councils is the the number of availab
 
 \- Top tip; switch recording device on
 
-“We found that most people that responded did so because they had a personal issue”
-
 > “With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
-
-“Our underlying problem is recruiting and retaining planning officers - we just haven’t got enough”
 
 ## Stakeholder interviews
 
