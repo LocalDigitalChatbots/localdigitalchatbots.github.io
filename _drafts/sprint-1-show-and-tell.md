@@ -45,7 +45,7 @@ However, a key issue they shared with the other councils is  the number of avail
 
 > “Our underlying problem is recruiting and retaining planning officers - we just haven’t got enough”
 
-John's interviews echoed the findings from Oxford that for people responding to someone else's application there
+John's interviews echoed the findings from Oxford; for people responding to someone else's application there was more on an emotional attachment to the process;
 
 > “With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
 
