@@ -82,7 +82,9 @@ As Torchbox were doing the heavy lifting with user interviews in Oxford, Neil La
 * Analysing 3 months of emails to the main Planning email address, with a deeper analysis on 90 web contact form submissions
 * Looking at the volume of downloads from the website
 
-This has been summarised on the [Oxford Data Dive page](/data-dive-planning-service-oxford-city-council/). Reactions by colleagues to the information this revealed had been interesting; it had been anticipated that a far higher proportion of calls would direct people to the website. Also, the volume of downloads
+This has been summarised on the [Oxford Data Dive page](/data-dive-planning-service-oxford-city-council/). 
+
+Reactions by colleagues to the information this revealed had been interesting; it had been anticipated that a far higher proportion of calls would direct people to the website. Also, the volume of downloads
 
 > “Someone said ‘there’s such a large volume of downloads going on but they’re still calling us’ so it’s not hard from that to move to ’is the stuff we’re giving people on the web in any way meeting user needs”
 
