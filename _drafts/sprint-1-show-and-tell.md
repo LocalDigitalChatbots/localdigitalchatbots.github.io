@@ -19,8 +19,6 @@ Although we'd captured the event on video, our sound recording didn't work out, 
 
 ## User research interviews
 
-Text
-
 ### Oxford
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in Oxford.
@@ -35,7 +33,7 @@ Users were using multiple sources to research their applications before submitti
 
 Users were sometimes given contradicting advice; a suggestion to email in a complex query was then met with the suggestion to use the drop-in service as the query was _too_ complex!
 
-The two user journey maps were walked through to show the pinch points and 
+The two user journey maps were walked through to show the key issues identified and user emotions at different points.
 
 ### Cheltenham
 
@@ -63,17 +61,9 @@ John's interviews echoed the findings from Oxford; for people responding to some
 
 > “With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
 
-\- Issue with two people turning up - didn’t read instructions
-
-\- FAQs not specific enough so want to speak to someone)
-
-\- Agent: why can’t council give information on land they can develop? Different angle
-
-\- Top tip; switch recording device on
-
 ## Stakeholder interviews
 
-text
+Tom Williams from Torchbox 
 
 ## Data gathering
 
