@@ -1,5 +1,5 @@
 ---
-title: 'Sprint 1: Show and Tell'
+title: 'Sprint 1: Planning services'
 date: 2019-03-15 00:00:00 +0000
 categories:
 - planning
