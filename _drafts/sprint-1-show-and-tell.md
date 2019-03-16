@@ -31,7 +31,7 @@ text
 
 > “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
 
-Users were using multiple 
+Users were using multiple sources to research their applications before submitting, and it appeared that more experienced users (i.e. agents and architects) were able to distinguish the cheaper 
 
 There was a real issue identified with people managing their own application in 
 
