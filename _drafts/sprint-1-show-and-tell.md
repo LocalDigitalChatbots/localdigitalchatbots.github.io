@@ -31,9 +31,9 @@ text
 
 > “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
 
-Users were using multiple sources to research their applications before submitting, and it appeared that more experienced users (i.e. agents and architects) were able to distinguish the cheaper route to progress these. 
+Users were using multiple sources to research their applications before submitting, and it appeared that more experienced users (i.e. agents and architects) were able to distinguish the cheaper route to progress these. Andrew from Oxford was able to clarify that the Planning Portal had introduced a handling charge for online applications
 
-There was a real issue identified with people managing their own application in 
+Users were sometimes given contradicting advice; a suggestion to email in a complex query was then met with the suggestion to use the drop-in service as the query was _too_ complex!
 
 \- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
 
