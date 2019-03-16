@@ -23,9 +23,9 @@ Although we'd captured the event on video, our sound recording didn't work out, 
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in Oxford.
 
-From the interviews they had identified two key user journeys; users managing their own application and users  who are checking or challenging someone else's application. Making an application was far less emotional than objecting to one, as users already felt invested in it. 
+From the interviews they had identified two key user journeys; users managing their own application and users  who are checking or challenging someone else's application. Making an application was far less emotional than objecting to one, as users already felt invested in it.
 
-The complexity and diversity of planning queries lends itself to calling to speak to someone rather than using online services; 
+The complexity and diversity of planning queries lends itself to calling to speak to someone rather than using online services;
 
 > “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
 
@@ -39,7 +39,7 @@ The two user journey maps were walked through to show the key issues identified 
 
 Claire Cook fed back on her work at Cheltenham.
 
-She found that there was a period of time where users do a lot of their own research; using the website quite a bit, looking at other applications to get a sense of what would be acceptable, and even using it to find an architect that had been successful in having applications approved. 
+She found that there was a period of time where users do a lot of their own research; using the website quite a bit, looking at other applications to get a sense of what would be acceptable, and even using it to find an architect that had been successful in having applications approved.
 
 Claire had spent time analysing the types of customers that use planning services, which she'd used in her customer journey map. Luiza is looking to echo this approach with some work Torchbox are doing on the results.
 
@@ -63,7 +63,7 @@ John's interviews echoed the findings from Oxford; for people responding to some
 
 ## Stakeholder interviews
 
-Tom Williams from Torchbox 
+Tom Williams from Torchbox had been speaking to key stakeholders in each council, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Planning services.
 
 ## Data gathering
 
@@ -91,14 +91,14 @@ Luiza, Kyle and Neil worked on a retrospective after the user research interview
 * Quick analysis after each interview helped with spotting patterns
   * amidst intense workload
   * within a broad research area
-* Neil got positive feedback from users after interview  
+* Neil got positive feedback from users after interview
 
 ### Things that made it bad:
 
 * Wifi issues
   * Neil was not able to listen in via Google Hangouts
   * Having to use offline document to capture notes (Interviewer cant see notes being taken throughout interview)
-* One user didn’t show up in person 
+* One user didn’t show up in person
   * Inefficiency - time wasted rescheduling
   * Tech issues - bad signal and bluetooth speaker required
   * Disengaged user
