@@ -25,6 +25,8 @@ Text
 
 Text
 
+\- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
+
 ### Cheltenham
 
 Claire Cook
@@ -35,9 +37,9 @@ Text
 
 John Robinson fed back on Hertsmere's three days of interviews. 
 
-Most of the people that responded to the user recruitment did so because they had an issue personal to them. They had to be 
+Most of the people that responded to the user recruitment did so because they had an issue personal to them. It had to be explained to them that there was a fixed script and that their personal questions couldn't be addressed.
 
-People really wanted to speak to a planning officer rather than contact centre staff; it was hard for them to get to the back office
+They found that people really wanted to speak to a planning officer rather than contact centre staff; it was hard for them to get through to the back office. With the website not providing answers to the questions they had it was more likely to generate calls;
 
 > “I think here its frustrations of ‘I want to speak to a planning officer - I don’t want to speak to anyone else’ "
 
@@ -51,13 +53,7 @@ John's interviews echoed the findings from Oxford; for people responding to some
 
 \- Issue with two people turning up - didn’t read instructions
 
-\- website doesn’t have the information they want, could reduce calls
-
-\- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
-
 \- FAQs not specific enough so want to speak to someone)
-
-\- Objections are emotive, not going to get the answers they want
 
 \- Agent: why can’t council give information on land they can develop? Different angle
 
