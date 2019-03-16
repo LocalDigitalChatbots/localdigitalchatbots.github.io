@@ -18,7 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/sprint-1-show-and-tell.md
+- _posts/2019-03-15-sprint-1-show-and-tell.md
 - _posts/2019-03-08-foundations-week-3-user-research-training.md
 - _posts/2019-02-18-project-kick-off-day.md
 - _posts/2019-02-01-announcing-our-delivery-partner-torchbox.md
