@@ -35,6 +35,8 @@ Users were using multiple sources to research their applications before submitti
 
 Users were sometimes given contradicting advice; a suggestion to email in a complex query was then met with the suggestion to use the drop-in service as the query was _too_ complex!
 
+The two user journey maps were walked through to show the pinch points and 
+
 ### Cheltenham
 
 Claire Cook fed back on her work at Cheltenham.
@@ -87,4 +89,38 @@ This has been summarised on the [Oxford Data Dive page](/data-dive-planning-serv
 
 ## Learning points
 
-text
+Luiza, Kyle and Neil worked on a retrospective after the user research interviews in Oxford to identify things for others to take away from the process
+
+### Things that made it good:
+
+* We spoke to all 6 users
+  * Neil made it easy for us:
+  * Got us a quiet room
+  * Easy access for people (central location, no need for keys / lanyards to move around)
+  * Neil chaperoned people to and from room - this means we can focus on the task at hand
+* Quick analysis after each interview helped with spotting patterns
+  * amidst intense workload
+  * within a broad research area
+* Neil got positive feedback from users after interview  
+
+### Things that made it bad:
+
+* Wifi issues
+  * Neil was not able to listen in via Google Hangouts
+  * Having to use offline document to capture notes (Interviewer cant see notes being taken throughout interview)
+* One user didn’t show up in person 
+  * Inefficiency - time wasted rescheduling
+  * Tech issues - bad signal and bluetooth speaker required
+  * Disengaged user
+* Suspicion about the research from council stakeholders
+* Kyle was ill :( talking / interviewing was uncomfortable
+
+### Actions:
+
+* Follow user interview time slots for best results
+* Ensure strong wifi connection in user interview locations
+* Ensure telephone is available for any remote interviews
+* Ensure team can support with leading users to / from interview room
+* Send confirmation email 24 hours before interview (or Friday)
+
+  _“We look forward to seeing you at (time) on (date) at (location) for your interview. Here is a reminder of what is happening on the day… (incentive, research purpose etc)”_
