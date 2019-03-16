@@ -33,13 +33,15 @@ Text
 
 ### Hertsmere
 
-John Robinson fed back on Hertsmere's three days of interviews. The key findings were;
+John Robinson fed back on Hertsmere's three days of interviews. 
 
-* people wanted to speak to a planning officer and were frustrated at talking to contact centre; it was hard for them to get to the back office
+Most of the people that responded to the user recruitment did so because they had an issue personal to them. They had to be 
 
-\- Issue with number of planning officers (challenge for all councils)
+People really wanted to speak to a planning officer and were frustrated at talking to contact centre; it was hard for them to get to the back office
 
-\- recruiting responded as they had a personal issue - said cannot answer those question
+> “I think here its frustrations of ‘I want to speak to a planning officer - I don’t want to speak to anyone else’ "
+
+However, a key issue shared with the other councils is the the number of available planning officers to take those calls
 
 \- Issue with two people turning up - didn’t read instructions
 
@@ -57,9 +59,7 @@ John Robinson fed back on Hertsmere's three days of interviews. The key findings
 
 “We found that most people that responded did so because they had a personal issue”
 
-“With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
-
-“I think here its frustrations of ‘I want to speak to a planning officer - I don’t want to speak to anyone else’ "
+> “With objections it’s very emotive and they’re not necessarily going to get the answer they want anyway”
 
 “Our underlying problem is recruiting and retaining planning officers - we just haven’t got enough”
 
