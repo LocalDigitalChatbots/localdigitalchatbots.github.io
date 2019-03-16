@@ -5,7 +5,7 @@ categories:
 - planning
 
 ---
-This week we completed sprint 1 of the project, looking at planning services across three councils. As well as user research interviews with 18 people there were stakeholder interviews with 6 staff in councils, and a stack of data gathering to get completed.
+This week we completed sprint 1 of the project, looking at planning services across three councils. As well as user research interviews with 18 members of the public there were stakeholder interviews with 6 staff in councils, and a stack of data gathering to get completed.
 
 ## Show and Tell
 
