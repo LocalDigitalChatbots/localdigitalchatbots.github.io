@@ -27,7 +27,7 @@ Luiza from Torchbox fed back on the interviews that she and Kyle had conducted i
 
 From the interviews they had identified two key user journeys; users managing their own application and users  who are checking or challenging someone else's application.
 
-text
+Making an application was far less emotional than objecting to one, as users already felt invested in it. 
 
 > “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
 
