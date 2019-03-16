@@ -25,7 +25,7 @@ Text
 
 Text
 
-> “It’s a very complex and nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
+> “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
 
 \- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
 
