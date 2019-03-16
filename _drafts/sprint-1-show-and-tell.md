@@ -23,11 +23,17 @@ Text
 
 ### Oxford
 
-Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in Oxford. 
+Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in Oxford.
 
-From the interviews they had identified two key user journeys; users managing their own application and users  who are checking or challenging someone else's application
+From the interviews they had identified two key user journeys; users managing their own application and users  who are checking or challenging someone else's application.
+
+text
 
 > “It’s a very complex, nuanced and subjective topic of conversation, and not having an answer that fits all is an issue when it comes to giving specialised customer service”
+
+Users were using multiple 
+
+There was a real issue identified with people managing their own application in 
 
 \- (Luiza - got a similar sense of ‘can I just talk to someone that knows what they’re talking about’. ‘I’ve gone on the website but the FAQs are not specific enough for what I need - my problem is much more nuanced than the FAQs
 
@@ -35,7 +41,7 @@ From the interviews they had identified two key user journeys; users managing th
 
 Claire Cook fed back on her work at Cheltenham.
 
-\- Period of time where customer do a lot of research; using website quite a bit, looking at other applications, using to find a successful architect
+She found that there was a period of time where users do a lot of their own research; using the website quite a bit, looking at other applications to get a sense of what would be acceptable, and even using it to find an architect that had been successful in having applications approved. 
 
 Claire had spent time analysing the types of customers that use planning services, which she'd used in her customer journey map. Luiza is looking to echo this approach with some work Torchbox are doing on the results.
 
@@ -77,9 +83,9 @@ As Torchbox were doing the heavy lifting with user interviews in Oxford, Neil La
 * Analysing 3 months of emails to the main Planning email address, with a deeper analysis on 90 web contact form submissions
 * Looking at the volume of downloads from the website
 
-This has been summarised on the [Oxford Data Dive page](/data-dive-planning-service-oxford-city-council/). Reactions by colleagues to the information this revealed had been interesting; it had been anticipated that a far higher proportion of calls would direct people to the website. Also, the volume of downloads 
+This has been summarised on the [Oxford Data Dive page](/data-dive-planning-service-oxford-city-council/). Reactions by colleagues to the information this revealed had been interesting; it had been anticipated that a far higher proportion of calls would direct people to the website. Also, the volume of downloads
 
-> “Someone said ‘there’s such a large volume of downloads going on but they’re still calling us’ so it’s not hard from that to move to ’is the stuff we’re giving people on the web in any way meeting user needs” 
+> “Someone said ‘there’s such a large volume of downloads going on but they’re still calling us’ so it’s not hard from that to move to ’is the stuff we’re giving people on the web in any way meeting user needs”
 
 ## Learning points
 
