@@ -47,7 +47,7 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ## Sprint #1: Planning
 
-* [Show and tell slides (Torchbox)](https://docs.google.com/presentation/d/1hrP0vsZh9HpN_H6qAGWI5-7zlp9lyWBzOBte0rTNJsI/edit?usp=sharing)
+* [Show and tell slides (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/Chatbots%20Show%20and%20tell%2015Mar-min.pdf)
 * [User journey map: Cheltenham](https://docs.google.com/presentation/d/1beqZGfdWqrFfq9ZNRAkYsVbRLNk3VOENPTRybQykhEk/edit?usp=sharing)
 
 ***
