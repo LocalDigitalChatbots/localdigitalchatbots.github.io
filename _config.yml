@@ -2,7 +2,7 @@ title: "Local Digital Project: Chatbots and AI"
 author: "Blog Author"
 description: "Website for the Local Digital-funded Chatbots/AI project"
 more: "read more »"
-url: "https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io"
+url: "https://localdigitalchatbots.github.io"
 baseurl: "/"
 
 #  pagination and read more
@@ -27,7 +27,7 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - github: "https://github.com/LocalDigitalChatbots"
+  - github: "https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io"
   - envelope: "mailto:nlawrence@oxford.gov.uk"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: false}}]
