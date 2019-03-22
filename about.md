@@ -13,6 +13,8 @@ There are multiple platforms available, and countless suppliers that are offerin
 
 But more importantly, are these technologies the right ones to deliver improvements for customers? Or are we just chasing efficiencies or the latest tech because we think we should? Shouldn't we start by finding out what the user needs are?
 
+![](/uploads/File.jpg)
+
 ## Reinventing the wheel
 
 The temptation with new tech is to dive straight in and start doing something. Find a platform, spend some money, build something and see how it is received. But we realised this would be history repeating itself. Local Government has often approached adopting digital tools through individualism; everyone adopts their own version of the best solution, and the sector gets fragmented by reinventing the wheel over and over.
