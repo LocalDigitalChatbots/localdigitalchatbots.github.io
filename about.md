@@ -69,6 +69,8 @@ To help us collaborate on shared content, like developing our fund application a
 
 For coordinating work and communicating with each other we're using a dedicated [Slack ](https://slack.com/)team and ensuring everyone is signed up/committed to using as our prime source. We also use this to share our project documentation and photos easily.
 
+We've tried [Google Meet](https://meet.google.com/_meet) for our Show and Tell sessions, but had issues with recordings so are using [Zoom](https://zoom.us/).
+
 ## Training we're undertaking
 
 As part of the MHCLG we've been able to access free training from the [GDS Academy](https://gdsacademy.campaign.gov.uk/). For us this meant a three-day [Agile for Teams](https://www.gov.uk/guidance/agile-for-teams-course-description) course in London.
