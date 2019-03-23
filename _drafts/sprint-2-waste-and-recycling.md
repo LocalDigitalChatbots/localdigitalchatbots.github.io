@@ -22,13 +22,11 @@ Most users were looking for something or making a service request; all were simp
 
 The majority of users defaulted to using a mobile phone - they didn't need a desktop (like when using planning services, which was more complex). Using a mobile was a quick and easy method, allowing access to the web or to call if needed.
 
-Everyone had a difficult web experience on council website
+Everyone had a difficult experience on council website, with some having to go back to google to search for what they wanted, or just give up and make a call to the council.
 
-Some had to go back to google for search, or just called
+Everyone said they preferred to self serve, but they wouldn't hesitate to pick up the phone to call if they got stuck or were delayed by the process. 
 
-Everyone said they preferred to self serve, but wouldn't hesitate to pick up phone if they got stuck/delayed
-
-Are all paying customers, but can't switch as stuck with council. Don't see that they have the rights to complain as much - felt bad for complaining. If issue isn't resolved, have to adopt inconvenient solutions (waste to office or trips  the tip)
+Users don't necessarily see that they have the rights to complain as much, and felt bad for complaining if they did. If an issue isn't resolved, they often had to adopt inconvenient solutions, like taking waste to the office or trips to the waste tip. 
 
 Experience Map
 
