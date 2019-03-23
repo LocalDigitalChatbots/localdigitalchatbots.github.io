@@ -4,7 +4,7 @@ date: 2019-03-22 00:00:00 +0000
 categories: []
 
 ---
-This week we completed Sprint #2 of the project, looking at waste and recycling services across three councils. As well as user research interviews with 24 members of the public there were stakeholder interviews with 9 staff in councils.
+This week we completed Sprint #2 of the project, looking at waste and recycling services across four councils. As well as user research interviews with 24 members of the public there were stakeholder interviews with 9 staff in councils.
 
 ## Show and Tell
 
