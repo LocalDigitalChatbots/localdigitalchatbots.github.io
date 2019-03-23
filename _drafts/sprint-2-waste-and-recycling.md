@@ -8,4 +8,4 @@ This week we completed Sprint #2 of the project, looking at waste and recycling 
 
 ## Show and Tell
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQKgdY6l3_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQKgdY6l3_g?start=31" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
