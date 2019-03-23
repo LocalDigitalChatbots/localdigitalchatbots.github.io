@@ -52,6 +52,13 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ***
 
+## Sprint #2: Waste and Recycling
+
+* Show and tell slides (Torchbox)
+* [Chatbot_Journey UX Map_BDC.pdf](/uploads/Chatbot_Journey UX Map_BDC.pdf "Chatbot_Journey UX Map_BDC.pdf")
+* [Chatbot Experience Map_BDC.pdf](/uploads/Chatbot Experience Map_BDC.pdf "Chatbot Experience Map_BDC.pdf")
+* User journey map (Cheltenham)
+
 ## Data Dives
 
 * [Oxford City Council - Planning](/data-dive-planning-service-oxford-city-council/)
