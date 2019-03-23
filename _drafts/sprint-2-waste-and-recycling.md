@@ -18,13 +18,35 @@ The complete event is recorded here
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in North East Derbyshire.
 
+Most users were looking for something or making a service request; all were simple interactions and on the whole users had a positive experience.
+
+The majority of users defaulted to using a mobile phone - they didn't need a desktop (like when using planning services, which was more complex). Using a mobile was a quick and easy method, allowing access to the web or to call if needed.
+
+Everyone had a difficult web experience on council website
+
+Some had to go back to google for search, or just called
+
+Everyone said they preferred to self serve, but wouldn't hesitate to pick up phone if they got stuck/delayed
+
+Are all paying customers, but can't switch as stuck with council. Don't see that they have the rights to complain as much - felt bad for complaining. If issue isn't resolved, have to adopt inconvenient solutions (waste to office or trips  the tip)
+
+Experience Map
+
+All started with triggered need - could be non-urgent or something that could be put off, or you start angry due to loss of bin.
+
+Then into online search, find council website. People are confused which council - have to check the logo on the website to be sure. Confused not finding info on the site then contact the council
+
+If resolved easy then great. If not then lots of waste and impacts significantly.
+
+Simple journey and lots of opportunity to improve and self self
+
 ### Bolsover
 
 Kristen
 
 ### Rotherham
 
-Charlotte and Amanda
+C
 
 ### Cheltenham
 
