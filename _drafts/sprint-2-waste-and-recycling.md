@@ -87,4 +87,6 @@ Luiza, Kyle and Kristen worked on a retrospective after the user research interv
 
 ## Next Steps
 
-Next week is Sprint #3 looking at Revenues and Benefits services in Redditch, Bromsgrove, 
+Next week is Sprint #3 looking at Revenues and Benefits services in Redditch & Bromsgrove, Preston and Adur & Worthing.
+
+ 
