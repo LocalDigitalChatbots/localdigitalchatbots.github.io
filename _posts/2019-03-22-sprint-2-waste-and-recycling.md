@@ -77,6 +77,10 @@ Most users said their first way in to the service was via the website, which rai
 
 > If we make the content on the web better is there a requirement for a chatbot because they can get the relevant information just on the website?
 
+The availability of webchat to match user needs was an issue that was also identified in Bolsover;
+
+> One of the users that came in for Bolsover did say that they found it frustrating that there wasn't a web chat available out of hours so obviously we are providing within hours but people are wanting to do these things from home in an evening
+
 ### Cheltenham
 
 Claire Cook ran a second week of interviews at Cheltenham. She found interviews for waste and recycling easier than for planning the previous week, with the subject being much easier to control.
