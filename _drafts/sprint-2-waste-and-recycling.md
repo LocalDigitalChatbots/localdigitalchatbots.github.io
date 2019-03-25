@@ -38,6 +38,14 @@ The user journey maps were walked through to illustrate the issues. These were s
 
 Kristen O'Gorman not only assisted Torchbox in their interviews in North East Derbyshire, but ran her own interviews in sister council Bolsover.
 
+She found it really useful observing Luiza and Kyle in their interviews, particularly keeping people on topic and to time.
+
+Findings for Bolsover were very similar to North East Derbyshire. As the two councils operated a joint policy in this area the working practices the same
+
+Kristen observed that 4 out of 6 users went onto the website first, but they struggled to find what they needed; they actually found google easier. 
+
+Nearly all users wanted to deal with everything online and all would have preferred  not to have phoned. The ability to deal with services outside of office hours was a key factor, and they found it frustrating finding the time to phone.
+
 ### Rotherham
 
 C
