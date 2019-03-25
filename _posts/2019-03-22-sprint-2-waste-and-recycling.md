@@ -25,6 +25,8 @@ Luiza from Torchbox fed back on the interviews that she and Kyle had conducted i
 
 Most users were looking for something or making a service request; all were simple interactions and on the whole users had a positive experience.
 
+> This is a really simple journey and I think that there is a lot of opportunity to improve access to information and the ability for users to self-serve on the website
+
 The majority of users defaulted to using a mobile phone - they didn't need a desktop (like when using planning services, which was more complex). Using a mobile was a quick and easy method, allowing access to the web or to call if needed.
 
 Everyone had a difficult experience on council website, with some having to go back to google to search for what they wanted, or just give up and make a call to the council.
@@ -36,6 +38,8 @@ Users are confused as to which council deals with their waste - some had to che
 Users don't necessarily see that they have the rights to complain as much, and felt bad for complaining if they did. If an issue isn't resolved, they often had to adopt inconvenient solutions, like taking waste to the office or trips to the waste tip.
 
 So many people mentioned that they had no clue when services would be delivered, and are used to the 'Amazon experience' of getting SMS and email updates. Introducing functionality like this would reassure people and improve the user experience.
+
+> One user mentioned how he called the council to sort out bins and after he did that he got a call back from the council to get his council tax sorted....and he was so happy that the council was proactive ... "that was great, one less thing to do"
 
 The user journey maps were walked through to illustrate the issues. These were simple journeys that showed lots of opportunity to improve and offer more self serve options.
 
