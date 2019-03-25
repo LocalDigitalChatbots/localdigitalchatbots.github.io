@@ -53,7 +53,13 @@ Findings for Bolsover were very similar to North East Derbyshire. As the two cou
 
 Kristen observed that 4 out of 6 users went onto the website first, but they struggled to find what they needed; they actually found Google easier.
 
-Nearly all users wanted to deal with everything online and all would have preferred  not to have phoned. The ability to deal with services outside of office hours was a key factor, and they found it frustrating finding the time to phone.
+Nearly all users wanted to deal with everything online and all would have preferred  not to have phoned. 
+
+> Five out of six hoped to deal with everything that they needed to deal with online and they weren't able to do that either because they couldn't find what they were looking for or there wasn't the ability to do it online. But all of them would have preferred to do a transaction online or to find the information online
+
+The ability to deal with services outside of office hours was a key factor, and they found it frustrating finding the time to phone.
+
+> It is fairly straightforward transaction or information finding and so you shouldn't really need to speak to somebody, but the majority ended up having to phone which is disappointing. It was frustrating for them because they were having to find time to phone during work hours
 
 The lack of availability of webchat outside office hours was another frustration.
 
@@ -61,11 +67,15 @@ The lack of availability of webchat outside office hours was another frustration
 
 Charlotte Cheetham and Amanda ran the interviews at Rotherham and identified many of the same findings.
 
-Charlotte commented that some of their expectations were incorrect; older generation have definitely got a grip on technology, which was not what they expected.
+Charlotte commented that some of their expectations were incorrect about older people using online services; 
+
+> The older generation have definitely got a grasp on using technology - I think we're too quick sometimes to write them off
 
 They concurred that pre-emptive contact would also have helped, but were not sure a chatbot would do that.
 
-Most users said their first way in to the service was via the website. Charlotte questioned that if make web content better was there a requirement for a chatbot? Nobody had said they wanted a chatbot.
+Most users said their first way in to the service was via the website, which raised a relevant question;
+
+> If we make the content on the web better is there a requirement for a chatbot because they can get the relevant information just on the website?
 
 ### Cheltenham
 
