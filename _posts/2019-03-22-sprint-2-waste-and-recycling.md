@@ -10,10 +10,10 @@ This week we completed Sprint #2 of the project, looking at waste and recycling 
 
 The complete event is recorded here
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQKgdY6l3_g?start=31" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/VQKgdY6l3_g?start=31" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Slides from the session are here
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS__J6zaRuNNPyjiC5nAZ5gv81tJSvPz5h14tRn-tyueB1zRYMv33vGvGKgXF5Rz4DUtMVeUq9UNHr0/embed?start=false&loop=false&delayms=10000" frameborder="0" width="560" height="280" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS__J6zaRuNNPyjiC5nAZ5gv81tJSvPz5h14tRn-tyueB1zRYMv33vGvGKgXF5Rz4DUtMVeUq9UNHr0/embed?start=false&loop=false&delayms=10000" frameborder="0" width="680" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Download the slide show](/uploads/Chatbots Show and tell 22Mar.pdf "Chatbots Show and tell 22Mar.pdf")
 
