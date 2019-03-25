@@ -42,7 +42,7 @@ She found it really useful observing Luiza and Kyle in their interviews, particu
 
 Findings for Bolsover were very similar to North East Derbyshire. As the two councils operated a joint policy in this area the working practices the same
 
-Kristen observed that 4 out of 6 users went onto the website first, but they struggled to find what they needed; they actually found google easier. 
+Kristen observed that 4 out of 6 users went onto the website first, but they struggled to find what they needed; they actually found Google easier. 
 
 Nearly all users wanted to deal with everything online and all would have preferred  not to have phoned. The ability to deal with services outside of office hours was a key factor, and they found it frustrating finding the time to phone.
 
@@ -50,7 +50,7 @@ The lack of availability of webchat outside office hours was another frustration
 
 ### Rotherham
 
-Charlotte Cheetham and Amanda ran the interviews at Rotherham
+Charlotte Cheetham and Amanda ran the interviews at Rotherham and identified many of the same findings.
 
 Charlotte commented that some of their expectations were incorrect; older generation have definitely got a grip on technology, which was not what they expected. 
 
@@ -60,7 +60,13 @@ Most users said their first way in to the service was via the website. Charlotte
 
 ### Cheltenham
 
-Claire
+Claire Cook ran a second week of interviews at Cheltenham. She found interviews for waste and recycling easier than for planning the previous week, with the subject being much easier to control.
+
+She came across the same findings, and confirmed that pre-emptive notification was mentioned by one person comparing it to a school contacting parents in advance (which helped her reorganise her week).
+
+Some people just look out of the window to identify which bins are being collected on any day. Another mentioned always remembering last thing at night that the bins needed to go out!
+
+Customer types were more varied for this service area; one had no technology at all. It was also highlighted that services for flats are far different. 
 
 ## Stakeholder interviews
 
