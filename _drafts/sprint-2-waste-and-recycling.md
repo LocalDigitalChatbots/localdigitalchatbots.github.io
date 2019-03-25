@@ -56,18 +56,10 @@ The data suggested large amount of calls can be handled without the need for bac
 
 Waste and recycling represents 14.5% of contact centre across 4 councils and so presents bigger potential saving from inbound calls. For Doncaster alone the potential saving was £180k, with a total saving of £1across the four councils.
 
-Users want to self serve. Bit of difference as to how much is self serve. 
+The Doncaster analysis shows 99% of calls are within the 'sweet spot' for chat bot services, being more transactional but still simple. This contrasts with less than 40% of calls meeting this criteria for planning services.
 
-Some can't query missed bin on website
+Users want to self serve, but there was a difference across councils as to how much this is possible. Some can't query missed bins on their websites. 
 
-Extent to which real-time data is available. Data on collection teams - log contaminated waste against property - makes available to back office. Some real time, some when returns to depot at 4pm. Real time is powerful in helping self serve
+The availability of real time data, such as that for contaminated collections, is a key factor in helping self serve functionality.
 
-Pre-empting customer needs. Often following up on previous interactions (5 days to deliver bin; alert them if there would be a delay). Also relevant for a change of service
-
-Use cases for chatbots
-
-3 types of enquiry; broad categorisation
-
-Doncaster analysis - 99% are within 'sweet spot' for chat bot. Contrast with less than 40% for planning
-
-Cross channel; even split between three, but cost of provision is hugely different. Good quality data provided
+Pre-empting customer needs would be another service enhancement by following up on previous interactions (e.g. if it takes 5 days to deliver a new bin, alert users if there is likely to be a delay). 
