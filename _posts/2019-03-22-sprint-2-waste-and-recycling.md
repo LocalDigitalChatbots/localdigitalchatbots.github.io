@@ -93,6 +93,10 @@ Some people just look out of the window to identify which bins are being collect
 
 Customer types were more varied for this service area; one had no technology at all. It was also highlighted that services for flats are far different.
 
+The frustration for users about differences between councils was also evident
+
+> if you move somewhere new all the rules have changed all the bins  colours have changed and all of a sudden you need all this information all over again
+
 ## Stakeholder interviews
 
 Tom Williams from Torchbox had been speaking to key stakeholders in each council, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Waste and Recycling services.
