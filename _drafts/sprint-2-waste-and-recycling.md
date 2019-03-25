@@ -54,11 +54,9 @@ Charlotte Cheetham and Amanda ran the interviews at Rotherham
 
 Charlotte commented that some of their expectations were incorrect; older generation have definitely got a grip on technology, which was not what they expected. 
 
-Pre-emptive contact would also have helped. Not sure a chatbot would do that. 
+They concurred that pre-emptive contact would also have helped, but were not sure a chatbot would do that. 
 
-Looking at a Jadu system via a logged in system. 
-
-Most people said first way in via website - if make web content better is there a requirement for a chatbot? Need to think about that (Kristen - if improved would negate the need) Nobody said wanted chatbot
+Most users said their first way in to the service was via the website. Charlotte questioned that if make web content better was there a requirement for a chatbot? Nobody had said they wanted a chatbot.
 
 ### Cheltenham
 
@@ -81,6 +79,8 @@ Users want to self serve, but there was a difference across councils as to how m
 The availability of real time data, such as that for contaminated collections, is a key factor in helping self serve functionality.
 
 Pre-empting customer needs would be another service enhancement by following up on previous interactions (e.g. if it takes 5 days to deliver a new bin, alert users if there is likely to be a delay). 
+
+All council teams struggle to update website to react to weather issues. Some considered taking down the collection timetable in these circumstances - almost encouraging people to call!
 
 ## Learning points
 
