@@ -63,3 +63,28 @@ Users want to self serve, but there was a difference across councils as to how m
 The availability of real time data, such as that for contaminated collections, is a key factor in helping self serve functionality.
 
 Pre-empting customer needs would be another service enhancement by following up on previous interactions (e.g. if it takes 5 days to deliver a new bin, alert users if there is likely to be a delay). 
+
+## Learning points
+
+Luiza, Kyle and Kristen worked on a retrospective after the user research interviews in North East Derbyshire to identify things for others to take away from the process
+
+### Things that made it good
+
+* Kristen took care of us :coffee: :cookie: and helped with all the set up and bringing people to - from the interview room
+* We spoke to 6 people - met our target :) 
+* Water was provided - good for day long interviewing + to make interviewees comfortable
+* Phone set up for remote interviews was all done for us - good connection!
+* (Kristen) I got to listen in to Luiza and Kyle interviewing on day 1 and pick up some good tips. I think I would have felt quite lost to begin with, otherwise.
+
+### Things that made it bad
+
+* The out of town location meant we had to rely on transport - the taxi was late picking us up on day 2 
+* (Kristen) Two users asked to change appointments at the last minute
+* One user shook my hand on the way in, even though he was quite ill and coughing everywhere :expressionless: 
+* User who brought her 2 year old kid with her was slightly distracted during the interview (kid trying to escape the room (we had to build a blockade), having to change nappies mid session, kid eating the Sudocrem) - we got as much value as possible from the session but it was challenging
+* Not having lunch options on site / within walking distance 
+* (Kristen) I found it difficult to keep to the timeslot with the first few people - it’s clearly a skill gained from experience to stop people from going off topic or ‘waffling’
+
+## Next Steps
+
+Next week is Sprint #3 looking at Revenues and Benefits services in Redditch, Bromsgrove, 
