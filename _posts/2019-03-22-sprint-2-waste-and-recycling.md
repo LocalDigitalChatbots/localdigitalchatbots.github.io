@@ -98,7 +98,7 @@ Luiza, Kyle and Kristen worked on a retrospective after the user research interv
 
 ### Things that made it good
 
-* Kristen took care of us :coffee: :cookie: and helped with all the set up and bringing people to - from the interview room
+* Kristen took care of us and helped with all the set up and bringing people to - from the interview room
 * We spoke to 6 people - met our target
 * Water was provided - good for day long interviewing + to make interviewees comfortable
 * Phone set up for remote interviews was all done for us - good connection!
