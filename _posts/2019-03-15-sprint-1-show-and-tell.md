@@ -15,7 +15,7 @@ We had 10 people on the Hangout, including Andrew from the Planning team from Ox
 
 Although we'd captured the event on video, our sound recording didn't work out, so instead the slides are presented below, and we go into a bit more detail about the work after that.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRL60AkTgPt42DSsPPfXepnQca6IR7iircKCS7ixlylSyPr0m_S6GRi94dUAH41u5nNAuIB_vXlN4jO/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRL60AkTgPt42DSsPPfXepnQca6IR7iircKCS7ixlylSyPr0m_S6GRi94dUAH41u5nNAuIB_vXlN4jO/embed?start=false&loop=false&delayms=5000" frameborder="0" width="680" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Download the slide show](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/user_research/Chatbots%20Show%20and%20tell%2015Mar-min.pdf)
 
