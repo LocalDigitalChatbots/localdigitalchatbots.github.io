@@ -62,7 +62,7 @@ Most users said their first way in to the service was via the website. Charlotte
 
 Claire Cook ran a second week of interviews at Cheltenham. She found interviews for waste and recycling easier than for planning the previous week, with the subject being much easier to control.
 
-She came across the same findings, and confirmed that pre-emptive notification was mentioned by one person comparing it to a school contacting parents in advance (which helped her reorganise her week).
+She came across the same findings, and confirmed that pre-emptive notification was mentioned by one person comparing it to a school contacting parents in advance of a closure (which helped her reorganise her week).
 
 Some people just look out of the window to identify which bins are being collected on any day. Another mentioned always remembering last thing at night that the bins needed to go out!
 
