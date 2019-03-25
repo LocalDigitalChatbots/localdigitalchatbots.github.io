@@ -36,7 +36,7 @@ The user journey maps were walked through to illustrate the issues. These were s
 
 ### Bolsover
 
-Kristen
+Kristen O'Gorman not only assisted Torchbox in their interviews in North East Derbyshire, but ran her own interviews in sister council Bolsover.
 
 ### Rotherham
 
