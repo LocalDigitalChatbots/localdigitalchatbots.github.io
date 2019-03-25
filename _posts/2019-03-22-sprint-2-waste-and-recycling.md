@@ -29,9 +29,9 @@ The majority of users defaulted to using a mobile phone - they didn't need a des
 
 Everyone had a difficult experience on council website, with some having to go back to google to search for what they wanted, or just give up and make a call to the council.
 
-Users are confused as to which council deals with their waste - some had to check the logo on the website to be sure.
+> Everyone said "I would prefer to self serve - I would prefer to do things myself if I can" but people would not hesitate to pick up the phone if they became stuck
 
-Everyone said they preferred to self serve, but they wouldn't hesitate to pick up the phone to call if they got stuck or were delayed by the process.
+Users are confused as to which council deals with their waste - some had to check the logo on the website to be sure.
 
 Users don't necessarily see that they have the rights to complain as much, and felt bad for complaining if they did. If an issue isn't resolved, they often had to adopt inconvenient solutions, like taking waste to the office or trips to the waste tip.
 
