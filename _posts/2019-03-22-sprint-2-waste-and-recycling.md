@@ -76,6 +76,8 @@ The available data shared was really strong for this sprint and had led to good 
 
 The data suggested large amount of calls can be handled without the need for back office handling, which bodes well for automation and suitability for chatbots.
 
+![](/uploads/Screenshot 2019-03-25 at 06.56.46.png)
+
 Waste and recycling represents 14.5% of contact centre across 4 councils and so presents bigger potential saving from inbound calls. For Doncaster alone the potential saving was £180k, with a total saving of £1across the four councils.
 
 ![](/uploads/Screenshot 2019-03-25 at 06.53.24.png)
