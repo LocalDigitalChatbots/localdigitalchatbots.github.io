@@ -78,11 +78,11 @@ The data suggested large amount of calls can be handled without the need for bac
 
 ![](/uploads/Screenshot 2019-03-25 at 06.56.46.png)
 
-Waste and recycling represents 14.5% of contact centre across 4 councils and so presents bigger potential saving from inbound calls. For Doncaster alone the potential saving was £180k, with a total saving of £1across the four councils.
+Waste and recycling represents 14.5% of contact centre across 4 councils and so presents bigger potential saving from inbound calls. For Doncaster alone the potential saving was £180k, with a total saving of more than £1m across the four councils.
 
 ![](/uploads/Screenshot 2019-03-25 at 06.53.24.png)
 
-The Doncaster analysis shows 99% of calls are within the 'sweet spot' for chat bot services, being more transactional but still simple. This contrasts with less than 40% of calls meeting this criteria for planning services.
+The Doncaster analysis shows 99% of calls are within the 'sweet spot' for chat bot services, being more transactional but still simple. This contrasts with less than 4% of calls meeting this criteria for planning services.
 
 Users want to self serve, but there was a difference across councils as to how much this is possible. Some can't query missed bins on their websites.
 
