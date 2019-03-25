@@ -46,9 +46,19 @@ Kristen observed that 4 out of 6 users went onto the website first, but they str
 
 Nearly all users wanted to deal with everything online and all would have preferred  not to have phoned. The ability to deal with services outside of office hours was a key factor, and they found it frustrating finding the time to phone.
 
+The lack of availability of webchat outside office hours was another frustration. 
+
 ### Rotherham
 
-C
+Charlotte Cheetham and Amanda ran the interviews at Rotherham
+
+Charlotte commented that some of their expectations were incorrect; older generation have definitely got a grip on technology, which was not what they expected. 
+
+Pre-emptive contact would also have helped. Not sure a chatbot would do that. 
+
+Looking at a Jadu system via a logged in system. 
+
+Most people said first way in via website - if make web content better is there a requirement for a chatbot? Need to think about that (Kristen - if improved would negate the need) Nobody said wanted chatbot
 
 ### Cheltenham
 
