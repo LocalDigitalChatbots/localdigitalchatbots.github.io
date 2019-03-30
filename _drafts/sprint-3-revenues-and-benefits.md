@@ -14,8 +14,6 @@ The complete event is recorded here
 
 Slides from the session are here
 
-<iframe src="[https://docs.google.com/presentation/d/e/2PACX-1vS__J6zaRuNNPyjiC5nAZ5gv81tJSvPz5h14tRn-tyueB1zRYMv33vGvGKgXF5Rz4DUtMVeUq9UNHr0/embed?start=false&loop=false&delayms=10000](https://docs.google.com/presentation/d/e/2PACX-1vS__J6zaRuNNPyjiC5nAZ5gv81tJSvPz5h14tRn-tyueB1zRYMv33vGvGKgXF5Rz4DUtMVeUq9UNHr0/embed?start=false&loop=false&delayms=10000 "https://docs.google.com/presentation/d/e/2PACX-1vS__J6zaRuNNPyjiC5nAZ5gv81tJSvPz5h14tRn-tyueB1zRYMv33vGvGKgXF5Rz4DUtMVeUq9UNHr0/embed?start=false&loop=false&delayms=10000")" frameborder="0" width="680" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCAdzeGNeOPr_bWozSNrBh7aoYPNdE5XNB9COwmB90o55VRE_ULSwoD4t66TZn94TsmlbFyjMwOSKF/embed?start=false&loop=false&delayms=5000" frameborder="0" width="680" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Download the slide show
