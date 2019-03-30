@@ -42,17 +42,12 @@ There is a limited ability to self serve for transactions like changes of circum
 
 People expressed a preference for human contact risk for chatbot confusion is high
 
-There were significant data challenges
+There were significant data challenges with this sprint;
 
-\- at top level quite patchy
-
-\- call centre there are dedicated phone number. No single council provided aggregated data across both(????)
-
-\- Nearly all calls transferred to back office teams so many more conversations taking place than shown in the 
-
-\- no data for drop-in or home visit services. This provision is common/expensive
-
-\- No cost data for processing physical mail. Print out PDF forms to fill in and send in to scan
+* At the top level it was quite patchy. No single council provided aggregated data across both areas
+* Nearly all calls were transferred to back office teams for the councils spoken to, so there are many more conversations taking place than shown in the data
+* No data was available for drop-in or home visit services although they are offered. This provision is both common and expensive so important to consider
+* No cost data was available for processing physical mail. For many users they were required to print out PDF forms to fill in and send back to scan
 
 Observations
 
