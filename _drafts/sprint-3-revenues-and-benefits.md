@@ -12,39 +12,19 @@ The complete event is recorded here
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/8126PhwnDxg?start=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Slides from the session are here
+Slides from the show and tell are here
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCAdzeGNeOPr_bWozSNrBh7aoYPNdE5XNB9COwmB90o55VRE_ULSwoD4t66TZn94TsmlbFyjMwOSKF/embed?start=false&loop=false&delayms=5000" frameborder="0" width="680" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Download the slide show
+[Download the show and tell slides](/uploads/Chatbots Show and tell 29Mar.pdf "Chatbots Show and tell 29Mar.pdf")
 
-User research interviews
+## User research interviews
 
-North East Derbyshire
+### Redditch and Bromsgrove
 
-Luiza from Torchbox fed back on the interviews that she and Kyle had conducted in North East Derbyshire.
+Luiza from Torchbox fed back on the interviews that she and Kyle had conducted
 
-Most users were looking for something or making a service request; all were simple interactions and on the whole users had a positive experience.
-
-This is a really simple journey and I think that there is a lot of opportunity to improve access to information and the ability for users to self-serve on the website
-
-The majority of users defaulted to using a mobile phone - they didn't need a desktop (like when using planning services, which was more complex). Using a mobile was a quick and easy method, allowing access to the web or to call if needed.
-
-Everyone had a difficult experience on council website, with some having to go back to google to search for what they wanted, or just give up and make a call to the council.
-
-Everyone said "I would prefer to self serve - I would prefer to do things myself if I can" but people would not hesitate to pick up the phone if they became stuck
-
-Users are confused as to which council deals with their waste - some had to check the logo on the website to be sure.
-
-Users don't necessarily see that they have the rights to complain as much, and felt bad for complaining if they did. If an issue isn't resolved, they often had to adopt inconvenient solutions, like taking waste to the office or trips to the waste tip.
-
-So many people mentioned that they had no clue when services would be delivered, and are used to the 'Amazon experience' of getting SMS and email updates. Introducing functionality like this would reassure people and improve the user experience.
-
-One user mentioned how he called the council to sort out bins and after he did that he got a call back from the council to get his council tax sorted....and he was so happy that the council was proactive ... "that was great, one less thing to do"
-
-The user journey maps were walked through to illustrate the issues. These were simple journeys that showed lots of opportunity to improve and offer more self serve options.
-
-Bolsover
+Cheltenham
 
 Kristen O'Gorman not only assisted Torchbox in their interviews in North East Derbyshire, but ran her own interviews in sister council Bolsover.
 
@@ -84,9 +64,9 @@ Tom had some useful observations about how webchat and chatbots differ by nature
 
 Conversational AI opens up a two-way dialogue which a website can't do - it could be by SMS, pre-empting customer needs
 
-Cheltenham
+### Cheltenham
 
-Claire Cook ran a second week of interviews at Cheltenham. She found interviews for waste and recycling easier than for planning the previous week, with the subject being much easier to control.
+Claire Cook ran a third week of interviews at Cheltenham. 
 
 She came across the same findings, and confirmed that pre-emptive notification was mentioned by one person comparing it to a school contacting parents in advance of a closure (which helped her reorganise her week).
 
