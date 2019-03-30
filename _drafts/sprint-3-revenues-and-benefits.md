@@ -49,15 +49,13 @@ There were significant data challenges with this sprint;
 * No data was available for drop-in or home visit services although they are offered. This provision is both common and expensive so important to consider
 * No cost data was available for processing physical mail. For many users they were required to print out PDF forms to fill in and send back to scan
 
-Observations
 
-\- makes up a significant chunk of calls. Could take at face value and say its ripe for a chatbot. 
+Observations on the business case were;
 
-\- Potential for savings; on call volumes £300k. Less than 5% can be resolved by a call centre
-
-\- Spoke to 2 call centre staff - not in business of resolving any cases, just triaging to contact in correct team
-
-\- Lowers chatbot gain to £14.1k
+* Revenues and Benefits make up a significant chunk of calls. Could take at face value and say its ripe for a chatbot. 
+* - Potential for savings; on call volumes £300k. Less than 5% can be resolved by a call centre
+* - Spoke to 2 call centre staff - not in business of resolving any cases, just triaging to contact in correct team
+* - Lowers chatbot gain to £14.1k
 
 Speculation/debate/specialist knowledge = not a good case
 
