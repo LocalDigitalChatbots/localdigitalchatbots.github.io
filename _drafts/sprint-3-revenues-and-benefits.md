@@ -68,35 +68,9 @@ Conversational AI opens up a two-way dialogue which a website can't do - it coul
 
 Claire Cook ran a third week of interviews at Cheltenham. 
 
-She came across the same findings, and confirmed that pre-emptive notification was mentioned by one person comparing it to a school contacting parents in advance of a closure (which helped her reorganise her week).
+## Stakeholder interviews
 
-Some people just look out of the window to identify which bins are being collected on any day. Another mentioned always remembering last thing at night that the bins needed to go out!
-
-Customer types were more varied for this service area; one had no technology at all. It was also highlighted that services for flats are far different.
-
-The frustration for users about differences between councils was also evident
-
-if you move somewhere new all the rules have changed all the bins  colours have changed and all of a sudden you need all this information all over again
-
-Stakeholder interviews
-
-Tom Williams from Torchbox had been speaking to key stakeholders in each council, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Waste and Recycling services.
-
-The available data shared was really strong for this sprint and had led to good observations. There were lots of similarities across councils.
-
-The data suggested large amount of calls can be handled without the need for back office handling, which bodes well for automation and suitability for chatbots.
-
-Waste and recycling represents 14.5% of contact centre across 4 councils and so presents bigger potential saving from inbound calls. For Doncaster alone the potential saving was £180k, with a total saving of more than £1m across the four councils.
-
-The Doncaster analysis shows 99% of calls are within the 'sweet spot' for chat bot services, being more transactional but still simple. This contrasts with less than 4% of calls meeting this criteria for planning services.
-
-Users want to self serve, but there was a difference across councils as to how much this is possible. Some can't query missed bins on their websites.
-
-The availability of real time data, such as that for contaminated collections, is a key factor in helping self serve functionality.
-
-Pre-empting customer needs would be another service enhancement by following up on previous interactions (e.g. if it takes 5 days to deliver a new bin, alert users if there is likely to be a delay).
-
-All council teams struggle to update website to react to weather issues. Some considered taking down the collection timetable in these circumstances - almost encouraging people to call!
+Tom Williams from Torchbox had been speaking to key stakeholders in each council, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Revenues and Benefits services.
 
 Learning points
 
