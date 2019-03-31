@@ -49,13 +49,10 @@ There were significant data challenges with this sprint;
 * No data was available for drop-in or home visit services although they are offered. This provision is both common and expensive so important to consider
 * No cost data was available for processing physical mail. For many users they were required to print out PDF forms to fill in and send back to scan
 
-
 Observations on the business case were;
 
-* Revenues and Benefits make up a significant chunk of calls. Could take at face value and say its ripe for a chatbot. 
-* - Potential for savings; on call volumes £300k. Less than 5% can be resolved by a call centre
-* - Spoke to 2 call centre staff - not in business of resolving any cases, just triaging to contact in correct team
-* - Lowers chatbot gain to £14.1k
+* Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is ripe for a chatbot.
+* On call volumes alone a saving of £300k could be estimated. However less than 5% were resolved by a call centre, which lowers potential chatbot gain to £14.1k
 
 Speculation/debate/specialist knowledge = not a good case
 
@@ -65,7 +62,7 @@ Customer data handled by systems other than the CRM
 
 Different demographics across two council areas
 
-Few website sessions compared to other services (esp waste) - suggests that people inclined to pick up the phone 
+Few website sessions compared to other services (esp waste) - suggests that people inclined to pick up the phone
 
 Some use cases in triaging, payments (depending on more robust integrations), more significant would be for updates via AI based SMS
 
