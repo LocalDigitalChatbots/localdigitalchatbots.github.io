@@ -54,6 +54,8 @@ Observations on the business case were;
 * Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is ripe for a chatbot.
 * On call volumes alone a saving of £300k could be estimated. However less than 5% were resolved by a call centre, which lowers potential chatbot gain to £14.1k
 
+![](/uploads/calls and resolution.jpg)
+
 Speculation/debate/specialist knowledge = not a good case
 
 Is it right to bundle them together? very different services and user journeys captured under that with different teams
