@@ -40,7 +40,7 @@ There were multiple touch points required in dealing with calls, with referrals 
 
 There is a limited ability to self serve for transactions like changes of circumstances and viewing council tax balances.
 
-People expressed a preference for human contact risk for chatbot confusion is high
+People expressed a preference for human contact; the existence of speculation/debate/specialist knowledge in dealing with enquiries does not make for a good case.
 
 There were significant data challenges with this sprint;
 
@@ -49,9 +49,9 @@ There were significant data challenges with this sprint;
 * No data was available for drop-in or home visit services although they are offered. This provision is both common and expensive so important to consider
 * No cost data was available for processing physical mail. For many users they were required to print out PDF forms to fill in and send back to scan
 
-Observations on the business case were;
+Observations on the data that could be made were;
 
-* Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is ripe for a chatbot.
+* Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is well suited for a chatbot solution
 
 ![](/uploads/calls comparison.jpg)
 
@@ -59,17 +59,14 @@ Observations on the business case were;
 
 ![](/uploads/calls and resolution.jpg)
 
-Speculation/debate/specialist knowledge = not a good case
+* There were few website sessions for this service compared to other services (particularly waste) which suggests that people are more inclined to phone
+* There are some use cases in triaging calls and payments (which would require more robust integrations). More feasible solutions may include user updates via AI-based SMS
 
 Is it right to bundle them together? very different services and user journeys captured under that with different teams
 
 Customer data handled by systems other than the CRM
 
 Different demographics across two council areas
-
-Few website sessions compared to other services (esp waste) - suggests that people inclined to pick up the phone
-
-Some use cases in triaging, payments (depending on more robust integrations), more significant would be for updates via AI based SMS
 
 ## Next Steps
 
