@@ -52,6 +52,9 @@ There were significant data challenges with this sprint;
 Observations on the business case were;
 
 * Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is ripe for a chatbot.
+
+![](/uploads/calls comparison.jpg)
+
 * On call volumes alone a saving of £300k could be estimated. However less than 5% were resolved by a call centre, which lowers potential chatbot gain to £14.1k
 
 ![](/uploads/calls and resolution.jpg)
