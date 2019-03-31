@@ -22,7 +22,7 @@ Slides from the show and tell are here
 
 ### Redditch and Bromsgrove
 
-Luiza from Torchbox fed back on the interviews that she and Kyle had conducted
+Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
 ### Preston
 
