@@ -73,6 +73,10 @@ Ian reflected on the effectiveness of user research interviews to dig beneath th
 
 > All six people opened up so much - and I can't believe how how much they did open up - and shared their experiences of life.
 
+He also concurred about the importance of human intervention in helping people in these circumstances
+
+> It just shows how important that is to get that reassurance - that little bit of hand-holding goes a very long way
+
 ### Cheltenham
 
 Claire Cook ran a third week of interviews at Cheltenham.
