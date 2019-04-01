@@ -45,7 +45,7 @@ The two user journeys created for the process were
 
 The process of getting in touch was complicated and could involve many parties; users weren't always sure who they needed to get in touch with.
 
-> It always seemed like there was it wasn't a very simple resolution, they had to take a few steps in order to to resolve that simple query
+> It always seemed like it wasn't a very simple resolution, they had to take a few steps in order to to resolve that simple query
 
 Lots of unhappy faces - need reassurance “I need help I don’t know what to do or know the name of the form”
 
