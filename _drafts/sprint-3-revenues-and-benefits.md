@@ -83,7 +83,11 @@ He also agreed about the importance of human intervention in helping people in t
 
 ### Cheltenham
 
-Claire Cook ran a third week of interviews at Cheltenham.
+Claire Cook ran a third week of interviews at Cheltenham. 
+
+Most of her interviews had been for people dealing with Council Tax rather than benefits, and for them it had been more straightforward with many of them completing their transactions online. The exception was for setting up a direct debit.
+
+Luiza confirmed there had been a split in opinion with regards to payments, with some people happy to do this online, but others not comfortable in doing this. The channels they chose related to the level of reassurance they needed and other life contexts. 
 
 ## Stakeholder interviews
 
