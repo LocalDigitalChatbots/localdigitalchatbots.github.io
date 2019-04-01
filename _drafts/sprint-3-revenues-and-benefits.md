@@ -59,7 +59,11 @@ One of the key messages coming through was the idea of receipts; people love hav
 
 ### Preston
 
-Ian Heslop
+Ian Heslop had conducted interviews at Preston and had identified many of the same issues as the research in Redditch.
+
+Users had talked about their experiences in calling the council;
+
+> All six users that we spoke to explained their their frustration at \[the IVR system\] and how frustrating it was to just get through to an advisor
 
 ### Cheltenham
 
