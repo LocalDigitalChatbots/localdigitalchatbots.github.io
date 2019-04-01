@@ -43,7 +43,7 @@ The two user journeys created for the process were
 * billing and general enquiries
 * applying for or switching housing benefits
 
-If get a letter and needs sorting will just pick up a letter
+The process of getting in touch was complicated and could involve many parties; users weren't always sure who they needed to get in touch with.
 
 > It always seemed like there was it wasn't a very simple resolution, they had to take a few steps in order to to resolve that simple query
 
