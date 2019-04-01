@@ -53,6 +53,8 @@ Lots of unhappy faces - need reassurance “I need help I don’t know what to d
 
 Forms are too complicated
 
+> I had people telling me I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in
+
 Idea of receipts - love emails and written comms as it gives them a log. Have to send in trails of emails to show that things were submitted
 
 Applying or switching council housing?
