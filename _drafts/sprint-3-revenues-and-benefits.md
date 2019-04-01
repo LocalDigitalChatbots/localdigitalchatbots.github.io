@@ -57,6 +57,10 @@ One of the key messages coming through was the idea of receipts; people love hav
 
 > I've had users tell me that sometimes they get a phone call or a letter through saying "you can't have this service because you didn't send your paperwork" and they have to send trails and trails of emails that prove that they **did** send that paperwork
 
+One user, who had both physical and mental disabilities, had told them of his struggles to concentrate on forms and telephone calls, so he had a preference to using emails so he could take his time to understand and respond. He had very clear views on online chat;
+
+> "Those online chat things should go to prison in Russia and never come back because every time I try and speak to someone on these online chats they can never help me with what I need they're always just giving me a contact number or someone to get in touch with"
+
 ### Preston
 
 Ian Heslop had conducted interviews at Preston and had identified many of the same issues as the research in Redditch.
