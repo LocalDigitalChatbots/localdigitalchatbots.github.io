@@ -40,8 +40,8 @@ Overall the process was highly charged with a lot of anxiety.
 
 The two user journeys created for the process were
 
-* billing/enquiring
-* switching housing benefits
+* billing and general enquiries
+* applying for or switching housing benefits
 
 Always start with an event
 
