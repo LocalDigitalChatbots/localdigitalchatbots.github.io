@@ -65,6 +65,14 @@ Users had talked about their experiences in calling the council;
 
 > All six users that we spoke to explained their their frustration at \[the IVR system\] and how frustrating it was to just get through to an advisor
 
+Ian explained that resource shortages led to a backlog of dealing with revenues and benefits work (currently at 16 weeks) which contributed to the need for people to call or chase the council.
+
+He had also identified 
+
+Ian reflected on the effectiveness of user research interviews to dig beneath the surface of issues;
+
+> All six people opened up so much - and I can't believe how how much they did open up - and shared their experiences of life.
+
 ### Cheltenham
 
 Claire Cook ran a third week of interviews at Cheltenham.
