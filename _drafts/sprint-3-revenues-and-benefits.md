@@ -47,6 +47,8 @@ Always start with an event
 
 If get a letter and needs sorting will just pick up a letter
 
+> It always seemed like there was it wasn't a very simple resolution, they had to take a few steps in order to to resolve that simple query
+
 Lots of unhappy faces - need reassurance “I need help I don’t know what to do or know the name of the form”
 
 Forms are too complicated
