@@ -97,7 +97,7 @@ Observations on the data that could be made were;
 * There were few website sessions for this service compared to other services (particularly waste) which suggests that people are more inclined to phone
 * There are some use cases in triaging calls and payments (which would require more robust integrations). More feasible solutions may include user updates via AI-based SMS
 
-Is it right to bundle them together? very different services and user journeys captured under that with different teams
+A key question arising from analyzing revenues and benefits as a service is "is it right to bundle them together?" They are very different services and user journeys captured under that with different teams
 
 Customer data handled by systems other than the CRM
 
