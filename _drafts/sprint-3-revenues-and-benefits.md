@@ -24,19 +24,19 @@ Slides from the show and tell are here
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
-All users started in anxiety -some change has happened that they needed support, or were frustrated because of mistake of council. Some event has triggered it. 
+All users started the process in a state anxiety - some change has happened that they needed support, or were frustrated because of a mistake by the council. 
 
-Found that people needed a lot of reassurance - anything to do with money will have a big impact. Things are going to be OK, and need to feel they are in control. If you need this sense of control you are more likely to pick up the phone
+They found that people needed a lot of reassurance; anything to do with money will have a big impact. People need to feel they are in control of a situation, and this means they are more likely to pick up the phone.
 
-Way more likely to call. Some did try to self serve but had a bad experience so easier to pick up phone to resolve. Only adds to frustration 
+Some people did try to self serve, but had a bad experience on council websites so found it easier to pick up phone to resolve. This poor experience only adds to the sense of frustration 
 
-Trust elements - some didn’t feel much trust that things would get fixed. Especially if a mistake has been made, will keep calling to stay on top of it
+Some people didn’t feel much trust in things getting fixed, especially if a mistake has been made. They were more likely to keep calling to stay on top of it
 
 A lot can be repeat customers, and periodically ask for support or provide more information/evidence. For some users, can move from slow on a waiting list to become urgent as a flat now available. This can cause more anxiety. Can be many reasons that things not go to plan
 
 Overall - highly charged with a lot of anxiety
 
-Experience maps
+### Experience maps
 
 \- billing/enquiring
 
