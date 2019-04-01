@@ -51,7 +51,7 @@ Lots of unhappy faces - need reassurance “I need help I don’t know what to d
 
 There was a clear view that the forms are too complicated, and they struggle to understand what has been sent to them
 
-> I had people telling me I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in
+> I had people telling me "I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in"
 
 One of the key messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record and a way to prove their side of the story if things go wrong.
 
