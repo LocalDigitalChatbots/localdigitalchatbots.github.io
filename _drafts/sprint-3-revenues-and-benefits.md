@@ -43,8 +43,6 @@ The two user journeys created for the process were
 * billing and general enquiries
 * applying for or switching housing benefits
 
-Always start with an event
-
 If get a letter and needs sorting will just pick up a letter
 
 > It always seemed like there was it wasn't a very simple resolution, they had to take a few steps in order to to resolve that simple query
@@ -55,7 +53,7 @@ There was a clear view that the forms are too complicated, and they struggle to 
 
 > I had people telling me I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in
 
-One of the biggest messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record and a way to prove their side of the story if things go wrong.
+One of the key messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record and a way to prove their side of the story if things go wrong.
 
 > I've had users tell me that sometimes they get a phone call or a letter through saying "you can't have this service because you didn't send your paperwork" and they have to send trails and trails of emails that prove that they **did** send that paperwork
 
