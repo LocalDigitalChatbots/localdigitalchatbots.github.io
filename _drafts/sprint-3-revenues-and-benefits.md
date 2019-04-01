@@ -32,7 +32,7 @@ Some people did try to self serve, but had a bad experience on council websites 
 
 Some people didn’t feel much trust in things getting fixed, especially if a mistake has been made. They were more likely to keep calling to stay on top of it
 
-A lot can be repeat customers, and periodically ask for support or provide more information/evidence. For some users, can move from slow on a waiting list to become urgent as a flat now available. This can cause more anxiety. Can be many reasons that things not go to plan
+There was a high incidence of repeat contact, with people periodically asking for support or being asked to provide more information/evidence. For some users, the process can move from being slow (e.g. on a housing waiting list) to become urgent (e.g. a flat has now become available) with information and action required quickly . This can cause more anxiety. 
 
 Overall the process was highly charged with a lot of anxiety.
 
