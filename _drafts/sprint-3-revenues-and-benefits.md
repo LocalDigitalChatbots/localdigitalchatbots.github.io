@@ -55,7 +55,7 @@ There was a clear view that the forms are too complicated, and they struggle to 
 
 > I had people telling me I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in
 
-One of the biggest messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record. 
+One of the biggest messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record and a way to prove their side of the story.
 
 > I've had users tell me that sometimes they get a phone call or a letter through saying "you can't have this service because you didn't send your paperwork" and they have to send trails and trails of emails that prove that they **did** send that paperwork
 
