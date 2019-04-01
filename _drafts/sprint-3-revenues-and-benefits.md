@@ -57,12 +57,6 @@ One of the key messages coming through was the idea of receipts; people love hav
 
 > I've had users tell me that sometimes they get a phone call or a letter through saying "you can't have this service because you didn't send your paperwork" and they have to send trails and trails of emails that prove that they **did** send that paperwork
 
-Applying or switching council housing?
-
-One person waited a year for a house and only then found out she needed a deposit. Would rather not be in a position where need to seek support from the council
-
-Overall very anxious and trying to have things resolved
-
 ### Preston
 
 Ian Heslop
