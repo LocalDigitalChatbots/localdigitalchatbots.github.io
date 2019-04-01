@@ -24,7 +24,7 @@ Slides from the show and tell are here
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
-All users started the process in a state anxiety - some change has happened that they needed support, or were frustrated because of a mistake by the council. 
+All users started the process in a state of anxiety - some change has happened that they needed support, or were frustrated because of a mistake by the council, or a letter has come through the post. 
 
 They found that people needed a lot of reassurance; anything to do with money will have a big impact. People need to feel they are in control of a situation, and this means they are more likely to pick up the phone.
 
