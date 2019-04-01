@@ -26,7 +26,7 @@ Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
 All users started the process in a state of anxiety - some change has happened that they needed support, or were frustrated because of a mistake by the council, or a letter has come through the post. 
 
-They found that people needed a lot of reassurance; anything to do with money will have a big impact. People need to feel they are in control of a situation, and this means they are more likely to pick up the phone.
+> We found that if things aren't going to plan, or if the council had made a mistake on billing, people need that reassurance that things are going to be okay and they need to feel like they're in control of the situation because of the impact on their life and because of the high risk associated with not getting it sorted
 
 Some people did try to self serve, but had a bad experience on council websites so found it easier to pick up phone to resolve. This poor experience only adds to the sense of frustration 
 
