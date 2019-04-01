@@ -24,6 +24,40 @@ Slides from the show and tell are here
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
+All users started in anxiety -some change has happened that they needed support, or were frustrated because of mistake of council. Some event has triggered it. 
+
+Found that people needed a lot of reassurance - anything to do with money will have a big impact. Things are going to be OK, and need to feel they are in control. If you need this sense of control you are more likely to pick up the phone
+
+Way more likely to call. Some did try to self serve but had a bad experience so easier to pick up phone to resolve. Only adds to frustration 
+
+Trust elements - some didn’t feel much trust that things would get fixed. Especially if a mistake has been made, will keep calling to stay on top of it
+
+A lot can be repeat customers, and periodically ask for support or provide more information/evidence. For some users, can move from slow on a waiting list to become urgent as a flat now available. This can cause more anxiety. Can be many reasons that things not go to plan
+
+Overall - highly charged with a lot of anxiety
+
+Experience maps
+
+\- billing/enquiring
+
+\- switching housing benefits
+
+Always start with an event
+
+If get a letter and needs sorting will just pick up a letter
+
+Lots of unhappy faces - need reassurance “I need help I don’t know what to do or know the name of the form”
+
+Forms are too complicated
+
+Idea of receipts - love emails and written comms as it gives them a log. Have to send in trails of emails to show that things were submitted
+
+Applying or switching council housing?
+
+One person waited a year for a house and only then found out she needed a deposit. Would rather not be in a position where need to seek support from the council
+
+Overall very anxious and trying to have things resolved
+
 ### Preston
 
 Ian Heslop
