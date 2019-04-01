@@ -38,9 +38,10 @@ Overall the process was highly charged with a lot of anxiety.
 
 ### Experience maps
 
-\- billing/enquiring
+The two user journeys created for the process were
 
-\- switching housing benefits
+* billing/enquiring
+* switching housing benefits
 
 Always start with an event
 
