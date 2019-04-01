@@ -51,11 +51,11 @@ If get a letter and needs sorting will just pick up a letter
 
 Lots of unhappy faces - need reassurance “I need help I don’t know what to do or know the name of the form”
 
-Forms are too complicated
+There was a clear view that the forms are too complicated, and they struggle to understand what has been sent to them
 
 > I had people telling me I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in
 
-Idea of receipts - love emails and written comms as it gives them a log. Have to send in trails of emails to show that things were submitted
+One of the biggest messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record. Have to send in trails of emails to show that things were submitted
 
 Applying or switching council housing?
 
