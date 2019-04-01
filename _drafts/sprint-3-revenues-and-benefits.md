@@ -34,7 +34,7 @@ Some people didn’t feel much trust in things getting fixed, especially if a mi
 
 A lot can be repeat customers, and periodically ask for support or provide more information/evidence. For some users, can move from slow on a waiting list to become urgent as a flat now available. This can cause more anxiety. Can be many reasons that things not go to plan
 
-Overall - highly charged with a lot of anxiety
+Overall the process was highly charged with a lot of anxiety.
 
 ### Experience maps
 
