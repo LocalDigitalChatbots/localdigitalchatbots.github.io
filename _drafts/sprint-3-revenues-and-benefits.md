@@ -67,7 +67,7 @@ Users had talked about their experiences in calling the council;
 
 Ian explained that resource shortages led to a backlog of dealing with revenues and benefits work (currently at 16 weeks) which contributed to the need for people to call or chase the council.
 
-He had also identified 
+He had also identified many users that had mental health issues. 
 
 Ian reflected on the effectiveness of user research interviews to dig beneath the surface of issues;
 
