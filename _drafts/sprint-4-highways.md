@@ -34,6 +34,8 @@ The subjectivity of the importance of an issue, and how this might differ betwee
 
 > We found something that might not be a priority for the  council might be the biggest thing in the user's life if it's their driveway that they're talking about.
 
+This extended to the size of a pothole - the lack of transparency about how its relative importance for repair is assessed led to disagreements.
+
 ### Experience maps
 
 The two user journeys created for the process were
