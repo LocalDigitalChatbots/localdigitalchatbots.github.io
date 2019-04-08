@@ -30,6 +30,10 @@ There was further frustration around not having the reason for an action (or ina
 
 > "It's not unreasonable" -  this word came up over and over again when speaking to users. "We're only asking for the minimum, this is common sense - I'm not asking for something impossible"
 
+The subjectivity of the importance of an issue, and how this might differ between council and user was another key factor emerging;
+
+> We found something that might not be a priority for the  council might be the biggest thing in the user's life if it's their driveway that they're talking about.
+
 ### Experience maps
 
 The two user journeys created for the process were
