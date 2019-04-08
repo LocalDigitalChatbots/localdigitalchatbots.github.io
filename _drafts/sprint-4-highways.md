@@ -22,7 +22,7 @@ Slides from the show and tell are here
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
-The key motivation for people engaging with the council was either around something affecting the immediate safety of  themselves or their community or to reduce both existing and potential negative impacts on their daily life.
+The key motivation for people engaging with the council was either around something affecting their immediate safety or their community or to reduce both existing and potential negative impacts on their daily life.
 
 Users were predominantly frustrated about not feeling heard; a lot of people said that they would engage with the council to voice their concerns. A lack of response to these concerns was an additional frustration. 
 
