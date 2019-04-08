@@ -38,7 +38,7 @@ This extended to the size of a pothole - the lack of transparency about how its 
 
 For Highways there is a good deal of confusion from users around not only how councils are organized but also who's responsible for what  aspect. Everyone had a different answer as to who they thought was the person responsible for either parking or potholes. This confusion leads to a lot of phone calls with users passed from person to contact centre in different organisations until they get through to the right person.
 
-People also had an expectation that council departments, or related organisations, would be more 'joined up' than they are in terms of cross-cutting issues like planning a housing development and its impact on traffic or highways. 
+People also had an expectation that council departments, or related organisations, would be more 'joined up' than they are in terms of cross-cutting issues like planning a housing development and its impact on traffic or highways. Again, this prompts people to get in touch to vent their frustration. 
 
 ### Experience maps
 
