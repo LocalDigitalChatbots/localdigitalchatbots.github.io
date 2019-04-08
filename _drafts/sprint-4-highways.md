@@ -24,7 +24,7 @@ Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
 The key motivation for people engaging with the council was either around something affecting the immediate safety of  themselves or their community or to reduce both existing and potential negative impacts on their daily life.
 
-Users were predominantly frustrated about not feeling heard so a lot of people said that they would engage with the council to voice their concerns. A lack of response to these concerns was an additional frustration. 
+Users were predominantly frustrated about not feeling heard; a lot of people said that they would engage with the council to voice their concerns. A lack of response to these concerns was an additional frustration. 
 
 There was further frustration around not having the reason for an action (or inaction) explained to users;
 
