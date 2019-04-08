@@ -36,7 +36,7 @@ The subjectivity of the importance of an issue, and how this might differ betwee
 
 This extended to the size of a pothole - the lack of transparency about how its relative importance for repair is assessed led to disagreements between the council and the user. 
 
-For Highways there is a good deal of confusion from users around not only how councils are organized but also who's responsible for what  aspect. Everyone had a different answer as to who they thought was the person responsible for either parking or potholes.
+For Highways there is a good deal of confusion from users around not only how councils are organized but also who's responsible for what  aspect. Everyone had a different answer as to who they thought was the person responsible for either parking or potholes. This confusion leads to a lot of phone calls with users passed from person to contact centre in different organisations until they get through to the right person.
 
 ### Experience maps
 
