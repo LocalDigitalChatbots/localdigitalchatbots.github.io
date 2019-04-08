@@ -43,18 +43,10 @@ Observations on the data that could be made were;
 
 ![](/uploads/Highways calls variance.png)
 
-* Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is well suited for a chatbot solution
+* Surrey had already migrated a large amount of contact (%) to the web
+* On call volumes alone a saving of £106k could be estimated. But with 64% being resolved by the contact centre, the potential chatbot gain is lowered to £68.3k
 
-![](/uploads/calls comparison.jpg)
-
-* On call volumes alone a saving of £300k could be estimated. However less than 5% were resolved by a call centre, which lowers potential chatbot gain to £14.1k
-
-![](/uploads/calls and resolution.jpg)
-
-* There were few website sessions for this service compared to other services (particularly waste) which suggests that people are more inclined to phone
-* There are some use cases in triaging calls and payments (which would require more robust integrations). More feasible solutions may include user updates via AI-based SMS
-
-A key question arising from analyzing revenues and benefits as a service is "is it right to bundle them together?" They are very different services and with different user journeys captured under that involving different teams.
+![](/uploads/Compare savings all four.png)
 
 ## Next Steps
 
