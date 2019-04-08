@@ -31,7 +31,7 @@ The two user journeys created for the process were
 
 ## Stakeholder interviews
 
-Tom Williams from Torchbox had been speaking to key stakeholders in Surrey , as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Highways services.
+Tom Williams from Torchbox had been speaking to key stakeholders in Surrey, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Highways services.
 
 There was some excellent data available on the breakdown of calls
 
