@@ -18,74 +18,16 @@ Slides from the show and tell are here
 
 [Download the show and tell slides](/uploads/Chatbots Show and tell 05Apr.pdf "Chatbots Show and tell 05Apr.pdf")
 
-### Redditch and Bromsgrove
+## User research interviews
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
-
-All users started the process in a state of anxiety - some change has happened that they needed support, or were frustrated because of a mistake by the council, or a letter has come through the post.
-
-> We found that if things aren't going to plan, or if the council had made a mistake on billing, people need that reassurance that things are going to be okay and they need to feel like they're in control of the situation because of the impact on their life and because of the high risk associated with not getting it sorted
-
-Some people did try to self serve, but had a bad experience on council websites so found it easier to pick up phone to resolve. This poor experience only adds to the sense of frustration
-
-Some people didn’t feel much trust in things getting fixed, especially if a mistake has been made. They were more likely to keep calling to stay on top of it
-
-There was a high incidence of repeat contact, with people periodically asking for support or being asked to provide more information/evidence. For some users, the process can move from being slow (e.g. on a housing waiting list) to become urgent (e.g. a flat has now become available) with information and action required quickly . This can cause more anxiety.
-
-Overall the process was highly charged with a lot of anxiety.
 
 ### Experience maps
 
 The two user journeys created for the process were
 
-* billing and general enquiries
-* applying for or switching housing benefits
-
-The process of getting in touch was complicated and could involve many parties; users weren't always sure who they needed to get in touch with.
-
-> It always seemed like it wasn't a very simple resolution, they had to take a few steps in order to to resolve that simple query
-
-Lots of unhappy faces - need reassurance “I need help I don’t know what to do or know the name of the form”
-
-There was a clear view that the forms are too complicated, and they struggle to understand what has been sent to them
-
-> I had people telling me "I need help - I don't know what to do. I'm being expected to know the name of the forms; I don't know what forms I have to fill in"
-
-One of the key messages coming through was the idea of receipts; people love having emails and written communications as it gives them a record and a way to prove their side of the story if things go wrong.
-
-> I've had users tell me that sometimes they get a phone call or a letter through saying "you can't have this service because you didn't send your paperwork" and they have to send trails and trails of emails that prove that they **did** send that paperwork
-
-One user, who had both physical and mental disabilities, had told them of his struggles to concentrate on forms and telephone calls, so he had a preference to using emails so he could take his time to understand and respond. He had very clear views on online chat;
-
-> "Those online chat things should go to prison in Russia and never come back because every time I try and speak to someone on these online chats they can never help me with what I need they're always just giving me a contact number or someone to get in touch with"
-
-### Preston
-
-Ian Heslop had conducted interviews at Preston and had identified many of the same issues as the research in Redditch.
-
-Users had talked about their experiences in calling the council;
-
-> All six users that we spoke to explained their their frustration at \[the IVR system\] and how frustrating it was to just get through to an advisor
-
-Ian explained that resource shortages led to a backlog of dealing with revenues and benefits work (currently at 16 weeks) which contributed to the need for people to call or chase the council.
-
-He had also identified many users that had mental health issues.
-
-Ian reflected on the effectiveness of user research interviews to dig beneath the surface of issues;
-
-> All six people opened up so much - and I can't believe how how much they did open up - and shared their experiences of life.
-
-He also agreed about the importance of human intervention in helping people in these circumstances;
-
-> It just shows how important that is to get that reassurance - that little bit of hand-holding goes a very long way
-
-### Cheltenham
-
-Claire Cook ran a third week of interviews at Cheltenham.
-
-Most of her interviews had been for people dealing with Council Tax rather than benefits, and for them it had been more straightforward with many of them completing their transactions online. The exception was for setting up a direct debit.
-
-Luiza confirmed there had been a split in opinion with regards to payments, with some people happy to do this online, but others not comfortable in doing this. The channels they chose related to the level of reassurance they needed and other life contexts.
+* reporting an issue or requesting an improvement
+* complex urban planning enquiries
 
 ## Stakeholder interviews
 
