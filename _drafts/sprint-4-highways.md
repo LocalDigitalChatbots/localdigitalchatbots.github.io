@@ -39,6 +39,10 @@ There was some excellent data available on the breakdown of calls
 
 Observations on the data that could be made were;
 
+* The variety of reasons for calling about highways was in stark comparison to the of Waste & Recycling, where 80% of calls could be swept up under 3 main types. For highways, the largest single reason for calling was potholes at just 7.7%
+
+![](/uploads/Highways calls variance.png)
+
 * Revenues and Benefits makes up a significant chunk of calls.  At face value this suggests it is well suited for a chatbot solution
 
 ![](/uploads/calls comparison.jpg)
