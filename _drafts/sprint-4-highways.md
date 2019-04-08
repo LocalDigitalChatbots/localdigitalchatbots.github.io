@@ -50,4 +50,6 @@ Observations on the data that could be made were;
 
 ## Next Steps
 
-Next week is Sprint #3 looking at Revenues and Benefits services in Redditch & Bromsgrove, Preston and Adur & Worthing.
+This week saw the completion of the user research and data gathering phase, with the project now moving into its final stage of distilling and compiling all the information obtained for the final project outputs.
+
+These will all be published on this project site by 23 April 2019.
