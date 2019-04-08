@@ -31,20 +31,11 @@ The two user journeys created for the process were
 
 ## Stakeholder interviews
 
-Tom Williams from Torchbox had been speaking to key stakeholders in each council, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Revenues and Benefits services.
+Tom Williams from Torchbox had been speaking to key stakeholders in Surrey , as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Highways services.
 
-There were multiple touch points required in dealing with calls, with referrals both inside and outside the council. A key comment was that nearly every case dealt with was unique.
+There was some excellent data available on the breakdown of calls
 
-There is a limited ability to self serve for transactions like changes of circumstances and viewing council tax balances.
-
-People expressed a preference for human contact; the existence of speculation/debate/specialist knowledge in dealing with enquiries does not make for a good case.
-
-There were significant data challenges with this sprint;
-
-* At the top level it was quite patchy. No single council provided aggregated data across both areas
-* Nearly all calls were transferred to back office teams for the councils spoken to, so there are many more conversations taking place than shown in the data
-* No data was available for drop-in or home visit services although they are offered. This provision is both common and expensive so important to consider
-* No cost data was available for processing physical mail. For many users they were required to print out PDF forms to fill in and send back to scan
+![](/uploads/Highways calls split.png)
 
 Observations on the data that could be made were;
 
