@@ -22,6 +22,8 @@ Slides from the show and tell are here
 
 Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
+The key motivation for people engaging with the council was either around something affecting the immediate safety of  themselves or their community or to reduce both existing and potential negative impacts on their daily life.
+
 ### Experience maps
 
 The two user journeys created for the process were
