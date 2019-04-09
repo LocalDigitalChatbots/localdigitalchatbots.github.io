@@ -24,7 +24,7 @@ Luiza from Torchbox fed back on the interviews that she and Kyle had conducted.
 
 The key motivation for people engaging with the council was either around something affecting their immediate safety or their community or to reduce both existing and potential negative impacts on their daily life.
 
-Users were predominantly frustrated about not feeling heard; a lot of people said that they would engage with the council to voice their concerns. A lack of response to these concerns was an additional frustration. 
+Users were predominantly frustrated about not feeling heard; a lot of people said that they would engage with the council to voice their concerns. A lack of response to these concerns was an additional frustration.
 
 There was further frustration around not having the reason for an action (or inaction) explained to users;
 
@@ -34,11 +34,13 @@ The subjectivity of the importance of an issue, and how this might differ betwee
 
 > We found something that might not be a priority for the  council might be the biggest thing in the user's life if it's their driveway that they're talking about.
 
-This extended to the size of a pothole - the lack of transparency about how its relative importance for repair is assessed led to disagreements between the council and the user. 
+This extended to the size of a pothole - the lack of transparency about how its relative importance for repair is assessed led to disagreements between the council and the user.
+
+> People were confused as to what classifies a dangerous pothole and they were really struggling to find this information
 
 For Highways there is a good deal of confusion from users around not only how councils are organized but also who's responsible for what  aspect. Everyone had a different answer as to who they thought was the person responsible for either parking or potholes. This confusion leads to a lot of phone calls with users passed from person to contact centre in different organisations until they get through to the right person.
 
-People also had an expectation that council departments, or related organisations, would be more 'joined up' than they are in terms of cross-cutting issues like planning a housing development and its impact on traffic or highways. Again, this prompts people to get in touch to vent their frustration. 
+People also had an expectation that council departments, or related organisations, would be more 'joined up' than they are in terms of cross-cutting issues like planning a housing development and its impact on traffic or highways. Again, this prompts people to get in touch to vent their frustration.
 
 ### Experience maps
 
