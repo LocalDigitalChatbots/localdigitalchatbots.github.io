@@ -59,6 +59,10 @@ Most people felt like they weren't being listened to. If they did voice their co
 
 > if they feel passionately about something they will keep going until someone gives them some justification...they will continue to try and contact you and take up your time by something that could be sorted with a letter
 
+Reporting an issue or requesting an improvement was more straightforward, but was often guided by a sense of place and the issue's impact on it; 
+
+> It's the things which are causing a real impact in people's lives and they don't have any power to do anything about it; they need the council to intervene
+
 ## Stakeholder interviews
 
 Tom Williams from Torchbox had been speaking to key stakeholders in Surrey, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Highways services.
