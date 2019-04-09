@@ -42,6 +42,10 @@ For Highways there is a good deal of confusion from users around not only how co
 
 People also had an expectation that council departments, or related organisations, would be more 'joined up' than they are in terms of cross-cutting issues like planning a housing development and its impact on traffic or highways. Again, this prompts people to get in touch to vent their frustration.
 
+The motivation for reporting highways issues was not solely about complaining;
+
+> All the users that we spoke to have the sense that it's their civic duty to report issues and to work with the council
+
 ### Experience maps
 
 The two user journeys created for the process were
