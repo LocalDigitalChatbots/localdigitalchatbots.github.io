@@ -57,7 +57,7 @@ For complex planning enquiries the journey often starts with members of the resi
 
 Most people felt like they weren't being listened to. If they did voice their concerns the fact that they didn't get any follow-up communications to confirm what was heard, what would happen next or what impacts may be meant they didn't feel involved in the process, and this lead to more communication.
 
-> if they feel passionately about something they will keep going until someone gives them some justification
+> if they feel passionately about something they will keep going until someone gives them some justification...they will continue to try and contact you and take up your time by something that could be sorted with a letter
 
 ## Stakeholder interviews
 
