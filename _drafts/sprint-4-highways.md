@@ -50,8 +50,14 @@ The motivation for reporting highways issues was not solely about complaining;
 
 The two user journeys created for the process were
 
-* reporting an issue or requesting an improvement
 * complex urban planning enquiries
+* reporting an issue or requesting an improvement
+
+For complex planning enquiries the journey often starts with members of the residents association hearing of plans that affect their community that will get together as a community and try to meet with a council representative to voice their concerns and to see how they can help to shape the plans. 
+
+A key issue was feeling listened to. Most people felt like they weren't being listened to...even if they did voice their concerns the fact that they didn't get any follow-up communications saying "this is what we heard from you, these are the next steps, these are the impacts on the community" they didn't feel involved in the in the process
+
+> if they feel passionately about something they will keep going until someone gives them some justification
 
 ## Stakeholder interviews
 
