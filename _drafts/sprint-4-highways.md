@@ -63,6 +63,8 @@ Reporting an issue or requesting an improvement was more straightforward, but wa
 
 > It's the things which are causing a real impact in people's lives and they don't have any power to do anything about it; they need the council to intervene
 
+Website information for reporting issues was seen as more straightforward than other services areas, but this was often 
+
 ## Stakeholder interviews
 
 Tom Williams from Torchbox had been speaking to key stakeholders in Surrey, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Highways services.
