@@ -44,7 +44,7 @@ People also had an expectation that council departments, or related organisation
 
 The motivation for reporting highways issues was not solely about complaining;
 
-> All the users that we spoke to have the sense that it's their civic duty to report issues and to work with the council
+> All the users that we spoke to have the sense that it's their civic duty to report issues and to work with the council....they want to be engaged and and want to know that they're helping to make things better
 
 ### Experience maps
 
