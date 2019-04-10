@@ -67,7 +67,7 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ## Sprint #3: Revenues and Benefits
 
-* [Chatbots Show and tell 29Mar.pdf](/uploads/Chatbots Show and tell 29Mar.pdf "Chatbots Show and tell 29Mar.pdf")
+* [Chatbots Show and tell slides (Torchbox)](/uploads/Chatbots Show and tell 29Mar.pdf "Chatbots Show and tell 29Mar.pdf")
 * [Show and tell session recording (YouTube)](https://youtu.be/8126PhwnDxg)
 * [User journey map: Redditch & Bromsgrove](/uploads/User journey map Redditch.pdf "User journey map Redditch.pdf")
 
