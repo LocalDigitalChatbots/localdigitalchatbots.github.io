@@ -96,6 +96,8 @@ There was some excellent data available on the breakdown of calls
 
 Other findings were that the large number of subcontractors involved in carrying out remedial work, with their systems not always integrating with council systems to give a current picture of progress for contact centre staff to be fully informed. In terms of an AI solution this disparate set of systems makes it challenging to deploy a solution. 
 
+Tom also had a warning about chatbot solutions that ultimately lead to the user being told to make a phone call;
+
 ## Next Steps
 
 This week saw the completion of the user research and data gathering phase, with the project now moving into its final stage of distilling and compiling all the information obtained for the final project outputs.
