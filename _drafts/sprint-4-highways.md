@@ -98,6 +98,8 @@ Other findings were that the large number of subcontractors involved in carrying
 
 Tom also had a warning about chatbot solutions that ultimately lead to the user being told to make a phone call;
 
+> It's just such a frustrating experience if you bother to engage with this new, shiny, clever bit of tech, then after five minutes of engaging with it it just tells you to do what you would have done already
+
 ## Next Steps
 
 This week saw the completion of the user research and data gathering phase, with the project now moving into its final stage of distilling and compiling all the information obtained for the final project outputs.
