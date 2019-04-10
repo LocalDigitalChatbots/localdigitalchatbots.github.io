@@ -83,7 +83,10 @@ There was some excellent data available on the breakdown of calls
 
 ![](/uploads/Highways calls variance.png)
 
-* Surrey had already migrated a large amount of contact regarding highways defects (73%) to the web
+* Surrey had already migrated a large amount of contact regarding highways defects (73%) to the web. This means a greater degree of calls can already be handled by contact centres
+
+> The first line agent who's handling inquiries across multiple service areas is generally in a position to resolve those as compared to revenues and benefits where the vast majority were being transferred to a back office team
+
 * On call volumes alone a saving of £106k could be estimated. But with 64% being resolved by the contact centre, the potential chatbot gain is lowered to £68.3k
 
 ![](/uploads/Compare savings all four.png)
