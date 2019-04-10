@@ -102,6 +102,8 @@ Tom also had a warning about chatbot solutions that ultimately lead to the user 
 
 There is strong opportunity to use conversational AI in terms of providing visual classification for something like quantifying the seriousness of a pothole, and so improve transparency. It is also something that using image recognition would be very easy for a chatbot to do.
 
+As mentioned in the user research, there is a strong need to to focus on updating people with progress, which is becoming a common theme across all service area research.
+
 ## Next Steps
 
 This week saw the completion of the user research and data gathering phase, with the project now moving into its final stage of distilling and compiling all the information obtained for the final project outputs.
