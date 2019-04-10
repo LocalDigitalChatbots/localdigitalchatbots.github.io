@@ -65,7 +65,7 @@ Reporting an issue or requesting an improvement was more straightforward, but wa
 
 Website information for reporting issues was seen as more straightforward than other services areas, but this was often let down by a lack of response to keep people informed. 
 
-> "It would be nice if the council responded, if they could just tell me what they're gonna do about it". One man even said  "how lovely would it be if they just closed the loop and showed me a bundle that have been fixed"
+> "It would be nice if the council responded, if they could just tell me what they're gonna do about it". One man even said  "how lovely would it be if they just closed the loop and showed me a bundle that have been fixed...it would make me feel great, like I have done something for my community"
 
 ## Stakeholder interviews
 
