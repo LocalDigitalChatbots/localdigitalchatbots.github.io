@@ -83,6 +83,7 @@ There was some excellent data available on the breakdown of calls
 
 ![](/uploads/Highways calls variance.png)
 
+* A narrow-domain chatbot, covering a single task like reporting a pothole, would only have the potential to make a saving of £11,478
 * Surrey had already migrated a large amount of contact regarding highways defects (73%) to the web. This means a greater degree of calls can already be handled by contact centres
 
 > The first line agent who's handling inquiries across multiple service areas is generally in a position to resolve those as compared to revenues and benefits where the vast majority were being transferred to a back office team
