@@ -83,10 +83,12 @@ There was some excellent data available on the breakdown of calls
 
 ![](/uploads/Highways calls variance.png)
 
-* Surrey had already migrated a large amount of contact (%) to the web
+* Surrey had already migrated a large amount of contact regarding highways defects (73%) to the web
 * On call volumes alone a saving of £106k could be estimated. But with 64% being resolved by the contact centre, the potential chatbot gain is lowered to £68.3k
 
 ![](/uploads/Compare savings all four.png)
+
+Other findings were that the large number of subcontractors involved in carrying out remedial work, with their systems not always integrating with council systems to give a current picture of progress for contact centre staff to be fully informed.
 
 ## Next Steps
 
