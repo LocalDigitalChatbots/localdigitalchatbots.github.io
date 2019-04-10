@@ -73,7 +73,7 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ***
 
-## Sprint#4: Highways
+## Sprint #4: Highways
 
 * [Show and tell slides (Torchbox)](/uploads/Chatbots Show and tell 05Apr.pdf "Chatbots Show and tell 05Apr.pdf")
 * [Show and tell session recording (YouTube)](https://youtu.be/rHg5V6-GTDg)
