@@ -67,6 +67,8 @@ Website information for reporting issues was seen as more straightforward than o
 
 > "It would be nice if the council responded, if they could just tell me what they're gonna do about it". One man even said  "how lovely would it be if they just closed the loop and showed me a bundle that have been fixed...it would make me feel great, like I have done something for my community"
 
+Even small actions indicating progress, like a pothole being marked with spray paint ready for repair, was reassuring for people. 
+
 ## Stakeholder interviews
 
 Tom Williams from Torchbox had been speaking to key stakeholders in Surrey, as well as using data gathered to date on contact centre activity and website analytics, to get an early view on opportunities to introduce automation in Highways services.
