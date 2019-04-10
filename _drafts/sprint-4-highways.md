@@ -100,6 +100,8 @@ Tom also had a warning about chatbot solutions that ultimately lead to the user 
 
 > It's just such a frustrating experience if you bother to engage with this new, shiny, clever bit of tech, then after five minutes of engaging with it it just tells you to do what you would have done already
 
+There is strong opportunity to use conversational AI in terms of providing visual classification for something like quantifying the seriousness of a pothole, and so improve transparency. It is also something that using image recognition would be very easy for a chatbot to do.
+
 ## Next Steps
 
 This week saw the completion of the user research and data gathering phase, with the project now moving into its final stage of distilling and compiling all the information obtained for the final project outputs.
