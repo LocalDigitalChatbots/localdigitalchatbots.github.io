@@ -53,17 +53,19 @@ The two user journeys created for the process were
 * complex urban planning enquiries
 * reporting an issue or requesting an improvement
 
-For complex planning enquiries the journey often starts with members of the residents association hearing of plans that affect their community that will get together as a community and try to meet with a council representative to voice their concerns and to see how they can help to shape the plans. 
+For complex planning enquiries the journey often starts with members of the residents association hearing of plans that affect their community that will get together as a community and try to meet with a council representative to voice their concerns and to see how they can help to shape the plans.
 
 Most people felt like they weren't being listened to. If they did voice their concerns the fact that they didn't get any follow-up communications to confirm what was heard, what would happen next or what impacts may be meant they didn't feel involved in the process, and this lead to more communication.
 
 > if they feel passionately about something they will keep going until someone gives them some justification...they will continue to try and contact you and take up your time by something that could be sorted with a letter
 
-Reporting an issue or requesting an improvement was more straightforward, but was often guided by a sense of place and the issue's impact on it; 
+Reporting an issue or requesting an improvement was more straightforward, but was often guided by a sense of place and the issue's impact on it;
 
 > It's the things which are causing a real impact in people's lives and they don't have any power to do anything about it; they need the council to intervene
 
-Website information for reporting issues was seen as more straightforward than other services areas, but this was often 
+Website information for reporting issues was seen as more straightforward than other services areas, but this was often let down by a lack of response to keep people informed. 
+
+> "It would be nice if the council responded, if they could just tell me what they're gonna do about it". One man even said  "how lovely would it be if they just closed the loop".
 
 ## Stakeholder interviews
 
