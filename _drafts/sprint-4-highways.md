@@ -4,7 +4,7 @@ date: 2019-04-07 23:00:00 +0000
 categories: []
 
 ---
-This week we completed Sprint #4 of the project, looking at Highways services in Surrey (as our only highways authority. As well as user research interviews with 8 members of the public there were stakeholder interviews with 2 staff in the council.
+This week we completed Sprint #4 of the project, looking at Highways services in Surrey (as our only highways authority. As well as user research interviews with 8 members of the public there were stakeholder interviews with 3 staff in the council.
 
 ## Show and Tell
 
@@ -68,6 +68,8 @@ Website information for reporting issues was seen as more straightforward than o
 > "It would be nice if the council responded, if they could just tell me what they're gonna do about it". One man even said  "how lovely would it be if they just closed the loop and showed me a bundle that have been fixed...it would make me feel great, like I have done something for my community"
 
 Even small actions indicating progress, like a pothole being marked with spray paint ready for repair, was reassuring for people. 
+
+The time taken to respond or take action was an issue for people as they have expectations that actions can be taken quickly, or they do not fully understand the complexity of an issue like instituting no parking schemes and the length of time this can take. Again, timely responses with indications of timescales would be of benefit and would prevent unnecessary contact.
 
 ## Stakeholder interviews
 
