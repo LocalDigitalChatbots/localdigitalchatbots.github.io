@@ -94,7 +94,7 @@ There was some excellent data available on the breakdown of calls
 
 > Given the distinct number of reasons for calling and some of the terminology being used there is risk for chatbot confusion
 
-Other findings were that the large number of subcontractors involved in carrying out remedial work, with their systems not always integrating with council systems to give a current picture of progress for contact centre staff to be fully informed.
+Other findings were that the large number of subcontractors involved in carrying out remedial work, with their systems not always integrating with council systems to give a current picture of progress for contact centre staff to be fully informed. In terms of an AI solution this disparate set of systems makes it challenging to deploy a solution. 
 
 ## Next Steps
 
