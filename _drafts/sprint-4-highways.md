@@ -88,6 +88,8 @@ There was some excellent data available on the breakdown of calls
 
 ![](/uploads/Compare savings all four.png)
 
+> Given the distinct number of reasons for calling and some of the terminology being used there is risk for chatbot confusion
+
 Other findings were that the large number of subcontractors involved in carrying out remedial work, with their systems not always integrating with council systems to give a current picture of progress for contact centre staff to be fully informed.
 
 ## Next Steps
