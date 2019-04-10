@@ -63,11 +63,11 @@ Reporting an issue or requesting an improvement was more straightforward, but wa
 
 > It's the things which are causing a real impact in people's lives and they don't have any power to do anything about it; they need the council to intervene
 
-Website information for reporting issues was seen as more straightforward than other services areas, but this was often let down by a lack of response to keep people informed. 
+Website information for reporting issues was seen as more straightforward than other services areas, but this was often let down by a lack of response to keep people informed.
 
 > "It would be nice if the council responded, if they could just tell me what they're gonna do about it". One man even said  "how lovely would it be if they just closed the loop and showed me a bundle that have been fixed...it would make me feel great, like I have done something for my community"
 
-Even small actions indicating progress, like a pothole being marked with spray paint ready for repair, was reassuring for people. 
+Even small actions indicating progress, like a pothole being marked with spray paint ready for repair, was reassuring for people.
 
 The time taken to respond or take action was an issue for people as they have expectations that actions can be taken quickly, or they do not fully understand the complexity of an issue like instituting no parking schemes and the length of time this can take. Again, timely responses with indications of timescales would be of benefit and would prevent unnecessary contact.
 
@@ -77,7 +77,9 @@ Tom Williams from Torchbox had been speaking to key stakeholders in Surrey, as w
 
 There was some excellent data available on the breakdown of calls
 
-![](/uploads/Highways calls split.png)Observations on the data that could be made were;
+![](/uploads/Highways calls split.png)
+
+Observations on the data that could be made were;
 
 * The variety of reasons for calling about highways was in stark comparison to the of Waste & Recycling, where 80% of calls could be swept up under 3 main types. For highways, the largest single reason for calling was potholes at just 7.7%
 
