@@ -71,6 +71,8 @@ For coordinating work and communicating with each other we're using a dedicated 
 
 We've tried [Google Meet](https://meet.google.com/_meet) for our Show and Tell sessions, but had issues with recordings so are using [Zoom](https://zoom.us/).
 
+As we approach the end of the project we're using [FunRetro](https://funretro.io/) to gather our collective thoughts on how the project ran.
+
 ## Training we're undertaking
 
 As part of the MHCLG we've been able to access free training from the [GDS Academy](https://gdsacademy.campaign.gov.uk/). For us this meant a three-day [Agile for Teams](https://www.gov.uk/guidance/agile-for-teams-course-description) course in London.
