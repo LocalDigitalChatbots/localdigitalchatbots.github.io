@@ -75,6 +75,6 @@ As we approach the end of the project we're using [FunRetro](https://funretro.io
 
 ## Training we're undertaking
 
-As part of the MHCLG we've been able to access free training from the [GDS Academy](https://gdsacademy.campaign.gov.uk/). For us this meant a three-day [Agile for Teams](https://www.gov.uk/guidance/agile-for-teams-course-description) course in London.
+As part of the MHCLG bid success we've been able to access free training from the [GDS Academy](https://gdsacademy.campaign.gov.uk/). For us this meant a three-day [Agile for Teams](https://www.gov.uk/guidance/agile-for-teams-course-description) course in London.
 
 As part of our work with our delivery partners Torchbox we'll also be accessing a 1-day user research training course.
