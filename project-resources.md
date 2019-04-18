@@ -4,7 +4,7 @@ author: Neil Lawrence, Oxford City Council
 date: 2019-03-08 11:40:21 +0000
 
 ---
-Here you can access the deliverables from the project and the templates/guides used
+Here you can access the deliverables from the project and other  materials used and produced by the project
 
 ## Project Deliverables
 
@@ -14,6 +14,8 @@ Here you can access the deliverables from the project and the templates/guides u
 * [ROI Analysis and Market Summary (Torchbox, April 2019)](/uploads/ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf "ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Technology Landscape Review (Torchbox, April 2019](/uploads/Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf "Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Example Conversational AI Architecture (Torchbox, April 2019)](/uploads/Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf "Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+
+***
 
 ## Project Overview
 
@@ -51,6 +53,8 @@ Here you can access the deliverables from the project and the templates/guides u
 
 * [User interview script (Torchbox)](/uploads/User interview script.pdf "User interview script.pdf")
 * [Notes template and user experience map (Torchbox)](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing)
+
+***
 
 ***
 
