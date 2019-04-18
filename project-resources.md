@@ -8,12 +8,12 @@ Here you can access the deliverables from the project and the templates/guides u
 
 ## Project Deliverables
 
-* [Project Summary Report (April 2019)](/uploads/Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf "Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf")
-* [User Research Summary Report (April 2019)](/uploads/User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf "User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf")
-* [Case Studies (April 2019)](/uploads/Case Studies _ April 2019 _ Council Chatbots _ Torchbox.pdf "Case Studies _ April 2019 _ Council Chatbots _ Torchbox.pdf")
-* [ROI Analysis and Market Summary (April 2019)](/uploads/ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf "ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf")
-* [Technology Landscape Review (April 2019](/uploads/Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf "Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf")
-* [Example Conversational AI Architecture (April 2019)](/uploads/Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf "Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [Project Summary Report (Torchbox, April 2019)](/uploads/Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf "Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [User Research Summary Report (Torchbox, April 2019)](/uploads/User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf "User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [Case Studies (Torchbox, April 2019)](/uploads/Case Studies _ April 2019 _ Council Chatbots _ Torchbox.pdf "Case Studies _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [ROI Analysis and Market Summary (Torchbox, April 2019)](/uploads/ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf "ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [Technology Landscape Review (Torchbox, April 2019](/uploads/Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf "Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [Example Conversational AI Architecture (Torchbox, April 2019)](/uploads/Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf "Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 
 ## Project Overview
 
