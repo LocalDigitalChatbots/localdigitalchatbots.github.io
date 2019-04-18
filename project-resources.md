@@ -6,6 +6,12 @@ date: 2019-03-08 11:40:21 +0000
 ---
 Here you can access the deliverables from the project and the templates/guides used
 
+## Project Deliverables
+
+* [Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf](/uploads/Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf "Project Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf](/uploads/User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf "User Research Summary Report _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* 
+
 ## Project Overview
 
 ### Application
