@@ -56,8 +56,6 @@ Here you can access the deliverables from the project and other  materials used 
 
 ***
 
-***
-
 ## Sprint #1: Planning
 
 * [Show and tell slides (Torchbox)](/uploads/Chatbots Show and tell 15Mar-min.pdf "Chatbots Show and tell 15Mar-min.pdf")
