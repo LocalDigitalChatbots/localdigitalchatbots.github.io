@@ -32,7 +32,10 @@ But this project has been more than just producing a set of reports;
 
 ## What we have learned
 
-text
+Intro
+
+* Collaboration is difficult to do, but pays dividends if you get it right. It involves how you work together as much as what you are working on
+* 
 
 ## Next steps
 
