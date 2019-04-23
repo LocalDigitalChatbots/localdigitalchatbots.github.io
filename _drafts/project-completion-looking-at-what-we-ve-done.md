@@ -65,7 +65,7 @@ The following points are distilled from the main project reports, which provide 
 * Whilst an entirely open-source version of a centralised platform is attractive, it may not be the cheaper option, since the cost to establish this system at scale for multiple councils would be significant. Utilising an existing cloud-based proprietary platform built for this sort of scenario could be cheaper and provide a higher quality solution.
 * The costs of
 * We must carefully select use-cases where the information and backend infrastructure sending to and receiving data from the conversational AI system are sufficient to create a satisfactory outcome for the user. For these reasons, use-case selection and user research is extremely important in creating a data model for the system to use.
-* The overall recommendation from this project for a conversational AI platform would be;
+* Although differences in features between the best platforms are small, the overall recommendation from this project for a conversational AI platform would be;
   * IBM Watson Assistant Plus or Premium for a public cloud hosted system; or
   * Rasa Stack for an open source privately cloud hosted system
 
