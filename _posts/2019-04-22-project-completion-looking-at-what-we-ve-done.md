@@ -4,11 +4,15 @@ date: 2019-04-22 23:00:00 +0000
 categories: []
 
 ---
+We've now reached the end of our project, so it's time to look back on the work we did and the things we learned along the way. This includes the project deliverables produced as part of the project funding requirements.
+
+## What we've done
+
 At the start of this process we submitted an application for a discovery project that aimed to deliver;
 
 * a methodology for evaluating the suitability or otherwise of a particular application for developing into a chatbot or AI product
 * a research base to assist local authorities developing their individual business cases to save time and resource rather than duplicating research
-* a summary of the potential technology solutions that are available with their individual advantages and disadvantages of each 
+* a summary of the potential technology solutions that are available with their individual advantages and disadvantages of each
 * a set of case studies drawn from participating councils
 
 We've now reached the end of the project, and all these deliverables are now available below or via our [project resources page](https://localdigitalchatbots.github.io/project-resources/)
@@ -50,7 +54,7 @@ The following points are distilled from the main project reports, which provide 
 * Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the most likely option for an alpha project to take the research forward was Waste & Recycling. This was  because;
   * it deals with a high level of simple information or service requests that have a high rate of first line resolution
   * these fall into relatively few distinct reasons for calling (80% of calls can be categorised into three specific reasons for contact) which means a chatbot can address a large proportion of calls
-  * it involves a largely non-emotional user journey and an expressed user need for self-service 
+  * it involves a largely non-emotional user journey and an expressed user need for self-service
 * The initial one-year investment of building a chatbot shared by 20 councils would be £779,149. The estimated savings across all 20 councils would be £2.2m (nearly four times as much as it would be if councils developed their own chatbot in isolation)
 * Splitting this investment across the 20 councils means that the per-council cost is only £38,957 per year, compared to £111,307 if developed individually.
 
@@ -71,13 +75,13 @@ As well as exploring the current chatbot/AI market and what the most suitable pl
 
 ### Sharing our learning
 
-We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 'giving something back' to the sector. 
+We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 'giving something back' to the sector.
 We'll tweet about this and post via the LocalGov Digital Slack team when more details are available
 
 ### Alpha project
 
-This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery.  At this stage, no announcement has been made for funding in 2019/20, or what the balance might be between discovery and alpha projects. 
+This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery.  At this stage, no announcement has been made for funding in 2019/20, or what the balance might be between discovery and alpha projects.
 
-Should it be possible to bid for an alpha project we would need to identify councils that would be interested in collaborating on an application, and on working on the project. 
+Should it be possible to bid for an alpha project we would need to identify councils that would be interested in collaborating on an application, and on working on the project.
 
 It would be great to hear from councils that would be interested in this sort of project. Why not [get in touch](mailto:nlawrence@oxford.gov.uk) and let us know?
