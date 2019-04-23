@@ -74,4 +74,4 @@ As well as exploring the current chatbot/AI market and what the most suitable pl
 
 ## Next steps
 
-This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery projects. 
+This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery projects.  At this stage, no announcement has been made for funding in 2019/20.
