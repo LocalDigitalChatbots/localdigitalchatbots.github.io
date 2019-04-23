@@ -56,7 +56,8 @@ The following points are distilled from the main project reports, which provide 
   * it deals with a high level of simple information or service requests that have a high rate of first line resolution
   * these fall into relatively few distinct reasons for calling (80% of calls can be categorised into three specific reasons for contact) which means a chatbot can address a large proportion of calls
   * it involves a largely non-emotional user journey and an expressed user need for self-service 
-* The potential savings from deploying a single chatbot approach across all English councils could be as high as £48.8m 
+* If 20 councils collaborated on a chatbot in this area, estimated savings across all 20 councils would be £2.2m
+* The amount saved per council is nearly four times as much as it would be if councils developed their own chatbot in isolation
 
 ### Technology approach
 
