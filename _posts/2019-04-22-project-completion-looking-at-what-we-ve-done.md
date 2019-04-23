@@ -33,6 +33,7 @@ But this project has been more than just producing a set of reports;
 * [ROI Analysis and Market Summary (Torchbox, April 2019)](https://localdigitalchatbots.github.io/uploads/ROI%20Analysis%20and%20Market%20Summary%20_%20April%202019%20_%20Council%20Chatbots%20_%20Torchbox.pdf "ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Technology Landscape Review (Torchbox, April 2019](https://localdigitalchatbots.github.io/uploads/Technology%20Landscape%20Review%20_%20April%202019%20_%20Council%20Chatbots%20_%20Torchbox.pdf "Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Example Conversational AI Architecture (Torchbox, April 2019)](https://localdigitalchatbots.github.io/uploads/Example%20Conversational%20AI%20Architecture%20_%20April%202019%20_%20Council%20Chatbots%20_%20Torchbox.pdf "Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [Chatbot Feature Comparison Matrix (Torchbox, April 2019)](/uploads/FireShot Capture 171 -  - localdigitalchatbots.github.io.pdf "FireShot Capture 171 -  - localdigitalchatbots.github.io.pdf")
 
 ## What we have learned
 
