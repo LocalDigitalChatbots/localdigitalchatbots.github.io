@@ -42,7 +42,11 @@ Intro
   subjectivity, or a matter of contention or debate) is not considered good
 
   territory for a chatbot. These complex, human-drive enquiries are better handled by a human.
-* Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the 
+* Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the most likely option for an alpha project to take the research forward was Waste & Recycling. This was  because
+  * it deals with a high level of simple information or service requests 
+  * these fall into relatively few distinct reasons for calling which means a chatbot can address a large proportion of all Waste and Recycling calls
+  * the largely non-emotional user journey involved
+  * an expressed user need of 
 
 ## Next steps
 
