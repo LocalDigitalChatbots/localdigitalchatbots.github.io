@@ -18,7 +18,7 @@ But this project has been more than just producing a set of reports;
 * In Oxford, we've used the Digital Outcomes and Specialists Framework for procuring a digital agency for the first time
 * We've trained a batch of staff in the participating councils in the basics of user research and how to present their findings as user experience maps
 * We've had the councils undertake user research interviews for the first time, and given them a set of tools to become more self-sufficient in this area
-* We've worked collaboratively to support each other and share the outcomes of our research 
+* We've worked collaboratively to support each other and share the outcomes of our research
 * We've worked in the open and made all our materials available for anyone else in the sector to use
 
 ## Project deliverables
@@ -56,12 +56,15 @@ The following points are distilled from the main project reports, which provide 
   * these fall into relatively few distinct reasons for calling which means a chatbot can address a large proportion of all Waste and Recycling calls
   * the largely non-emotional user journey involved
   * an expressed user need of self-service for this type of call
+* The potential savings from
 
 ### Technology approach
 
 * All the major cloud and open source providers have adopted a very similar set of technologies for their conversational AI platforms, meaning they can all be trained from a very similar data model.
 * The primary challenge in developing a shared chatbot platform for local government  is not a technical one, it is an organisational one. Councils must agree to co-operate and then collaborate in building an overall model for a research area that can adapt to the variety of ways of handling the chosen area, as well as adapt to the variety of terms used across England for that area
 * Whilst an entirely open-source version of a centralised platform is attractive, it may not be the cheaper option, since the cost to establish this system at scale for multiple councils would be significant. Utilising an existing cloud-based proprietary platform built for this sort of scenario could be cheaper and provide a higher quality solution.
+* The costs of
+* We must carefully select use-cases where the information and backend infrastructure sending to and receiving data from the conversational AI system are sufficient to create a satisfactory outcome for the user. For these reasons, use-case selection and user research is extremely important in creating a data model for the system to use.
 * The overall recommendation from this project for a conversational AI platform would be;
   * IBM Watson Assistant Plus or Premium for a public cloud hosted system; or
   * Rasa Stack for an open source privately cloud hosted system
