@@ -34,8 +34,13 @@ But this project has been more than just producing a set of reports;
 
 Intro
 
+### Collaboration
+
 * Collaboration is difficult to do, but pays dividends if you get it right; it involves _how_ you work together as much as _what_ you are working on together
 * Working collaboratively on discovery allows you to pool a wider sample of user research participants and gain insight into any regional variations
+
+### User research
+
 * Any conversation with a council is nearly always part of a longer journey. As a result, when considering chatbots, it is vital to model requirements in terms of user journeys, rather than simply in terms of technical specifications.
 * A service that exhibits a high number of complex enquiries (for example, by being emotional theme, complex subject area, a topic prone to
 
@@ -43,6 +48,7 @@ Intro
 
   territory for a chatbot. These complex, human-drive enquiries are better handled by a human.
 * There are simple things we can do to improve the user journey before using chatbots, such as web content improvement, better search optimisation and easier links to getting more help
+
 * Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the most likely option for an alpha project to take the research forward was Waste & Recycling. This was  because
   * it deals with a high level of simple information or service requests
   * these fall into relatively few distinct reasons for calling which means a chatbot can address a large proportion of all Waste and Recycling calls
@@ -50,6 +56,7 @@ Intro
   * an expressed user need of self-service for this type of call
 * All the major cloud and open source providers have adopted a very similar set of technologies for their conversational AI platforms, meaning they can all be trained from a very similar data model.
 * The primary challenge in developing a shared chatbot platform for local government  is not a technical one, it is an organisational one. Councils must agree to co-operate and then collaborate in building an overall model for a research area that can adapt to the variety of ways of handling the chosen area, as well as adapt to the variety of terms used across England for that area
+* Whilst an entirely open-source version of a centralised platform is attractive, it may not be the cheaper option, since the cost to establish this system at scale for multiple councils would be significant. Utilising an existing cloud-based proprietary platform built for this sort of scenario could be cheaper and provide a higher quality solution.
 
 ## Next steps
 
