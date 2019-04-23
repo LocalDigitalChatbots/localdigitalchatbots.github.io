@@ -55,7 +55,7 @@ The following points are distilled from the main project reports, which provide 
 * Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the most likely option for an alpha project to take the research forward was Waste & Recycling. This was  because;
   * it deals with a high level of simple information or service requests
   * these fall into relatively few distinct reasons for calling (80% of calls within Waste and Recycling can be categorised into three specific reasons for contact) which means a chatbot can address a large proportion of calls
-  * the largely non-emotional user journey involved in this type of transaction, and an expressed user need of self-service 
+  * it involves a largely non-emotional user journey, and an expressed user need for self-service 
 * The potential savings from deploying a single chatbot approach across all English councils could be as high as £48.8m 
 
 ### Technology approach
