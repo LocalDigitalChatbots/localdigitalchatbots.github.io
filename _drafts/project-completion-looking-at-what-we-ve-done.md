@@ -41,6 +41,7 @@ Intro
   subjectivity, or a matter of contention or debate) is not considered good
 
   territory for a chatbot. These complex, human-drive enquiries are better handled by a human.
+* Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the 
 
 ## Next steps
 
