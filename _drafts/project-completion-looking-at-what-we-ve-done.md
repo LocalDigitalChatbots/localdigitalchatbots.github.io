@@ -11,7 +11,13 @@ At the start of this process we submitted an application for a discovery project
 * a summary of the potential technology solutions that are available with their individual advantages and disadvantages of each
 * a set of case studies drawn from participating councils
 
-We've now reached the end of the project, and these deliverables are now available below or via our [project resources page](https://localdigitalchatbots.github.io/project-resources/)
+We've now reached the end of the project, and all these deliverables are now available below or via our [project resources page](https://localdigitalchatbots.github.io/project-resources/)
+
+But this project has been more than just producing a set of reports;
+
+* We've trained a batch of staff in councils about the basics of user research and how to present their findings
+* We've had councils undertake user research interviews for the first time, and given them a set of tools to become more self-sufficient in this area
+* We've worked collaboratively to support each other and share the outcomes of our research
 
 ## Project deliverables
 
@@ -21,3 +27,11 @@ We've now reached the end of the project, and these deliverables are now availab
 * [ROI Analysis and Market Summary (Torchbox, April 2019)](https://localdigitalchatbots.github.io/uploads/ROI%20Analysis%20and%20Market%20Summary%20_%20April%202019%20_%20Council%20Chatbots%20_%20Torchbox.pdf "ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Technology Landscape Review (Torchbox, April 2019](https://localdigitalchatbots.github.io/uploads/Technology%20Landscape%20Review%20_%20April%202019%20_%20Council%20Chatbots%20_%20Torchbox.pdf "Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Example Conversational AI Architecture (Torchbox, April 2019)](https://localdigitalchatbots.github.io/uploads/Example%20Conversational%20AI%20Architecture%20_%20April%202019%20_%20Council%20Chatbots%20_%20Torchbox.pdf "Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+
+## What we have learned
+
+text
+
+## Next steps
+
+text
