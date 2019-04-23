@@ -48,7 +48,8 @@ Intro
   * these fall into relatively few distinct reasons for calling which means a chatbot can address a large proportion of all Waste and Recycling calls
   * the largely non-emotional user journey involved
   * an expressed user need of self-service for this type of call
-* text
+* All the major cloud and open source providers have adopted a very similar set of technologies for their conversational AI platforms, meaning they can all be trained from a very similar data model.
+* The primary challenge in developing a shared chatbot platform for local government  is not a technical one, it is an organisational one. Councils must agree to co-operate and then collaborate in building an overall model for a research area that can adapt to the variety of ways of handling the chosen area, as well as adapt to the variety of terms used across England for that area
 
 ## Next steps
 
