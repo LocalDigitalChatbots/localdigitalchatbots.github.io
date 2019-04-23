@@ -76,10 +76,12 @@ As well as exploring the current chatbot/AI market and what the most suitable pl
 
 ### Sharing our learning
 
-We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 
+We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 'giving something back' to the sector
 
 ### Alpha project
 
 This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery.  At this stage, no announcement has been made for funding in 2019/20, or what the balance might be between discovery and alpha projects. 
 
 Should it be possible to bid for an alpha project we would need to identify councils that would be interested in collaborating on an application, and on working on the project. 
+
+It would be great to hear from councils that would be interested in this sort of project. Why not [get in touch](mailto:nlawrence@oxford.gov.uk) and let us know?
