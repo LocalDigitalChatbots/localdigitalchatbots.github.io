@@ -16,7 +16,7 @@ We've now reached the end of the project, and all these deliverables are now ava
 But this project has been more than just producing a set of reports;
 
 * In Oxford, we've used the Digital Outcomes and Specialists Framework for procuring a digital agency for the first time
-* We've trained a batch of staff in councils about the basics of user research and how to present their findings
+* We've trained a batch of staff in councils about the basics of user research and how to present their findings as user experience maps
 * We've had councils undertake user research interviews for the first time, and given them a set of tools to become more self-sufficient in this area
 * We've worked collaboratively to support each other and share the outcomes of our research with each other
 * We've worked in the open and made all our materials available for anyone else in the sector to use
@@ -34,8 +34,9 @@ But this project has been more than just producing a set of reports;
 
 Intro
 
-* Collaboration is difficult to do, but pays dividends if you get it right. It involves how you work together as much as what you are working on
-* 
+* Collaboration is difficult to do, but pays dividends if you get it right; it involves _how_ you work together as much as _what_ you are working on
+* Perceptions of users' views need to be tested and challenged to see if they are valid
+* The emotional side of a user 
 
 ## Next steps
 
