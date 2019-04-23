@@ -34,9 +34,10 @@ But this project has been more than just producing a set of reports;
 
 Intro
 
-* Collaboration is difficult to do, but pays dividends if you get it right; it involves _how_ you work together as much as _what_ you are working on
-* Perceptions of users' views need to be tested and challenged to see if they are valid
-* The emotional side of a user 
+* Collaboration is difficult to do, but pays dividends if you get it right; it involves _how_ you work together as much as _what_ you are working on together
+* Perceptions of users' views need to be tested and challenged to see if they are valid. Rushing to a technological solution without considering this risks failure
+* Any conversation with a council is nearly always part of a longer journey. As a result, when considering chatbots, it is vital to model requirements in terms of user journeys, rather than simply in terms of technical specifications.
+* 
 
 ## Next steps
 
