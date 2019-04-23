@@ -4,18 +4,14 @@ date: 2019-04-22 23:00:00 +0000
 categories: []
 
 ---
-At the start of this process we submitted an application for a discovery project that aimed to deliver
+At the start of this process we submitted an application for a discovery project that aimed to deliver;
 
 * a methodology for evaluating the suitability or otherwise of a particular application for developing into a chatbot or AI product
 * a research base to assist local authorities developing their individual business cases to save time and resource rather than duplicating research
 * a summary of the potential technology solutions that are available with their individual advantages and disadvantages of each
 * a set of case studies drawn from participating councils
 
-We've now reached the conclusion of this project, but have a wealth of materials aimed specifically at local government to re-use for work in this area;
-
-* If you're unclear how to get started on user research we have a sample interview script as well as a template user experience map 
-* If you need a broad overview of customer experience in four distinct service areas we have completed customer experience maps as well as case studies for each
-* 
+We've now reached the end of the project, and these deliverables are now available below or via our [project resources page](https://localdigitalchatbots.github.io/project-resources/)
 
 ## Project deliverables
 
