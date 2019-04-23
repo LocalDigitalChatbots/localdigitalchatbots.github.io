@@ -56,8 +56,7 @@ The following points are distilled from the main project reports, which provide 
   * it deals with a high level of simple information or service requests that have a high rate of first line resolution
   * these fall into relatively few distinct reasons for calling (80% of calls can be categorised into three specific reasons for contact) which means a chatbot can address a large proportion of calls
   * it involves a largely non-emotional user journey and an expressed user need for self-service 
-* If 20 councils collaborated on a chatbot in this area, estimated savings across all 20 councils would be £2.2m
-* The amount saved per council is nearly four times as much as it would be if councils developed their own chatbot in isolation
+* The initial one-year investment of building a chatbot shared by 20 councils would be £779,149. The estimated savings across all 20 councils would be £2.2m (nearly four times as much as it would be if councils developed their own chatbot in isolation).
 
 ### Technology approach
 
@@ -74,4 +73,4 @@ As well as exploring the current chatbot/AI market and what the most suitable pl
 
 ## Next steps
 
-text
+This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery projects. 
