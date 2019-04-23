@@ -32,7 +32,7 @@ But this project has been more than just producing a set of reports;
 
 ## What we have learned
 
-Intro
+The following points are distilled from the main project reports, which provide far greater detail than can be provided in summary form;
 
 ### Collaboration
 
