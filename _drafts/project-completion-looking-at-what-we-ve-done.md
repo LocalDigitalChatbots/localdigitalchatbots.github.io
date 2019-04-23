@@ -15,6 +15,7 @@ We've now reached the end of the project, and all these deliverables are now ava
 
 But this project has been more than just producing a set of reports;
 
+* In Oxford, we've used the Digital Outcomes and Specialists Framework for procuring a digital agency for the first time
 * We've trained a batch of staff in councils about the basics of user research and how to present their findings
 * We've had councils undertake user research interviews for the first time, and given them a set of tools to become more self-sufficient in this area
 * We've worked collaboratively to support each other and share the outcomes of our research with each other
