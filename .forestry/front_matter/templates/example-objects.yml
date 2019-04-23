@@ -18,7 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/project-completion-looking-at-what-we-ve-done.md
+- _posts/2019-04-22-project-completion-looking-at-what-we-ve-done.md
 - _posts/2019-04-07-sprint-4-highways.md
 - _posts/2019-03-29-sprint-3-revenues-and-benefits.md
 - _posts/2019-03-22-sprint-2-waste-and-recycling.md
