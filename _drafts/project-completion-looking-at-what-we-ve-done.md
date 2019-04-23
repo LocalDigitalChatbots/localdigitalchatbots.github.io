@@ -61,6 +61,8 @@ The following points are distilled from the main project reports, which provide 
 
 ### Technology approach
 
+As well as exploring the current chatbot/AI market and what the most suitable platform approach would be for, the project has explored the potential to develop a single, centralised approach. The two specific reports on this subject found the following;
+
 * All the major cloud and open source providers have adopted a very similar set of technologies for their conversational AI platforms, meaning they can all be trained from a very similar data model.
 * The primary challenge in developing a shared chatbot platform for local government  is not a technical one, it is an organisational one. Councils must agree to co-operate and then collaborate in building an overall model for a research area that can adapt to the variety of ways of handling the chosen area, as well as adapt to the variety of terms used across England for that area
 * Whilst an entirely open-source version of a centralised platform is attractive, it may not be the cheaper option, since the cost to establish this system at scale for multiple councils would be significant. Utilising an existing cloud-based proprietary platform built for this sort of scenario could be cheaper and provide a higher quality solution.
