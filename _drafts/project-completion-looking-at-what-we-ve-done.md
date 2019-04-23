@@ -50,7 +50,7 @@ The following points are distilled from the main project reports, which provide 
 * Users value a conversation 
 * There are simple things we can do to improve the user journey before using chatbots, such as web content improvement, better search optimisation and easier links to getting more help
 
-### Recommended option
+### Recommended option from research
 
 * Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the most likely option for an alpha project to take the research forward was Waste & Recycling. This was  because;
   * it deals with a high level of simple information or service requests
