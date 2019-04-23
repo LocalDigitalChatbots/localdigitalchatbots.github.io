@@ -56,7 +56,8 @@ The following points are distilled from the main project reports, which provide 
   * it deals with a high level of simple information or service requests that have a high rate of first line resolution
   * these fall into relatively few distinct reasons for calling (80% of calls can be categorised into three specific reasons for contact) which means a chatbot can address a large proportion of calls
   * it involves a largely non-emotional user journey and an expressed user need for self-service 
-* The initial one-year investment of building a chatbot shared by 20 councils would be £779,149. The estimated savings across all 20 councils would be £2.2m (nearly four times as much as it would be if councils developed their own chatbot in isolation).
+* The initial one-year investment of building a chatbot shared by 20 councils would be £779,149. The estimated savings across all 20 councils would be £2.2m (nearly four times as much as it would be if councils developed their own chatbot in isolation)
+* Splitting this investment across the 20 councils means that the per-council cost is only £38,957 per year, compared to £111,307 if developed individually.
 
 ### Technology approach
 
