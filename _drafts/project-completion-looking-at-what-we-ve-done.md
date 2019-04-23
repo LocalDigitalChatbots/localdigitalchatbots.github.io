@@ -71,7 +71,8 @@ As well as exploring the current chatbot/AI market and what the most suitable pl
 
 ### Sharing our learning
 
-We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 'giving something back' to the sector
+We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 'giving something back' to the sector. 
+We'll tweet about this and post via the LocalGov Digital Slack team when more details are available
 
 ### Alpha project
 
