@@ -42,12 +42,7 @@ The following points are distilled from the main project reports, which provide 
 ### User research
 
 * Any conversation with a council is nearly always part of a longer journey. As a result, when considering chatbots, it is vital to model requirements in terms of user journeys, rather than simply in terms of technical specifications.
-* A service that exhibits a high number of complex enquiries (for example, by being emotional theme, complex subject area, a topic prone to
-
-  subjectivity, or a matter of contention or debate) is not considered good
-
-  territory for a chatbot. These complex, human-drive enquiries are better handled by a person
-* Users value a conversation 
+* A service that exhibits a high number of complex enquiries (for example, by being emotional theme, complex subject area, a topic prone to subjectivity, or a matter of contention or debate) is not considered good territory for a chatbot. These complex, human-drive enquiries are better handled by a person
 * There are simple things we can do to improve the user journey before using chatbots, such as web content improvement, better search optimisation and easier links to getting more help
 
 ### Recommended option from research
