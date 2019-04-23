@@ -46,17 +46,18 @@ The following points are distilled from the main project reports, which provide 
 
   subjectivity, or a matter of contention or debate) is not considered good
 
-  territory for a chatbot. These complex, human-drive enquiries are better handled by a human.
+  territory for a chatbot. These complex, human-drive enquiries are better handled by a person
+* Users value a conversation 
 * There are simple things we can do to improve the user journey before using chatbots, such as web content improvement, better search optimisation and easier links to getting more help
 
 ### Recommended option
 
 * Of the four services we explored in depth (Planning, Waste & Recycling, Revenues & Benefits, Highways) the most likely option for an alpha project to take the research forward was Waste & Recycling. This was  because;
   * it deals with a high level of simple information or service requests
-  * these fall into relatively few distinct reasons for calling which means a chatbot can address a large proportion of all Waste and Recycling calls
+  * these fall into relatively few distinct reasons for calling (80% of calls within Waste and Recycling can be categorised into three specific reasons for contact) which means a chatbot can address a large proportion of calls
   * the largely non-emotional user journey involved
   * an expressed user need of self-service for this type of call
-* The potential savings from
+* The potential savings from deploying a single chatbot approach across all English councils could be as high as £48.8m 
 
 ### Technology approach
 
