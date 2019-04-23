@@ -80,6 +80,6 @@ We're hoping to organise an event to share what we learned on the project with a
 
 ### Alpha project
 
-This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery.  At this stage, no announcement has been made for funding in 2019/20. 
+This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery.  At this stage, no announcement has been made for funding in 2019/20, or what the balance might be between discovery and alpha projects. 
 
 Should it be possible to bid for an alpha project we would need to identify councils that would be interested in collaborating on an application, and on working on the project. 
