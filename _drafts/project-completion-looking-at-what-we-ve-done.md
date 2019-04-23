@@ -8,7 +8,7 @@ At the start of this process we submitted an application for a discovery project
 
 * a methodology for evaluating the suitability or otherwise of a particular application for developing into a chatbot or AI product
 * a research base to assist local authorities developing their individual business cases to save time and resource rather than duplicating research
-* a summary of the potential technology solutions that are available with their individual advantages and disadvantages of each
+* a summary of the potential technology solutions that are available with their individual advantages and disadvantages of each 
 * a set of case studies drawn from participating councils
 
 We've now reached the end of the project, and all these deliverables are now available below or via our [project resources page](https://localdigitalchatbots.github.io/project-resources/)
@@ -63,7 +63,7 @@ The following points are distilled from the main project reports, which provide 
 * All the major cloud and open source providers have adopted a very similar set of technologies for their conversational AI platforms, meaning they can all be trained from a very similar data model.
 * The primary challenge in developing a shared chatbot platform for local government  is not a technical one, it is an organisational one. Councils must agree to co-operate and then collaborate in building an overall model for a research area that can adapt to the variety of ways of handling the chosen area, as well as adapt to the variety of terms used across England for that area
 * Whilst an entirely open-source version of a centralised platform is attractive, it may not be the cheaper option, since the cost to establish this system at scale for multiple councils would be significant. Utilising an existing cloud-based proprietary platform built for this sort of scenario could be cheaper and provide a higher quality solution.
-* The costs of developing the initial model, the investment in ongoing maintenance and training, and integrations to a wide variety of differing back-end systems across each council, are likely to represent the greatest portion of project cost.
+* The software costs-per-serve are generally a small portion of the overall cost. The costs of developing the initial model, the investment in ongoing maintenance and training, and integrations to a wide variety of differing back-end systems across each council, are likely to represent the greatest portion of project cost.
 * We must carefully select use-cases where the information and backend infrastructure sending to and receiving data from the conversational AI system are sufficient to create a satisfactory outcome for the user. For these reasons, use-case selection and user research is extremely important in creating a data model for the system to use.
 * Although differences in features between the best platforms are small, the overall recommendation from this project for a conversational AI platform would be;
   * IBM Watson Assistant Plus or Premium for a public cloud hosted system; or
