@@ -74,4 +74,12 @@ As well as exploring the current chatbot/AI market and what the most suitable pl
 
 ## Next steps
 
-This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery projects.  At this stage, no announcement has been made for funding in 2019/20.
+### Sharing our learning
+
+We're hoping to organise an event to share what we learned on the project with as many councils as possible to meet the spirit of 
+
+### Alpha project
+
+This project has been one of the 16 exemplar projects funded in the first round of the [Local Digital Fund](https://localdigital.gov.uk/fund/), 10 of which were discovery.  At this stage, no announcement has been made for funding in 2019/20. 
+
+Should it be possible to bid for an alpha project we would need to identify councils that would be interested in collaborating on an application, and on working on the project. 
