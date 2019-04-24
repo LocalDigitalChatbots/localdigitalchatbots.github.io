@@ -54,6 +54,8 @@ Here you can access the deliverables from the project and other  materials used 
 
 * [User interview script (Torchbox)](/uploads/User interview script.pdf "User interview script.pdf")
 * [Notes template and user experience map (Torchbox)](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing)
+* User experience map template - Powerpoint
+* User experience map template - Keynote (Mac)
 
 ***
 
