@@ -42,7 +42,7 @@ Here you can access the deliverables from the project and other  materials used 
 
 ### Training
 
-* [User research training for councils (Torchbox)](https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io/blob/master/resources/training/Torchbox%20User%20Research%20Training%20for%20Councils.pdf)
+* [User research training for councils (Torchbox)](/uploads/Torchbox User Research Training for Councils.pdf "Torchbox User Research Training for Councils.pdf")
 
 ### Recruitment
 
