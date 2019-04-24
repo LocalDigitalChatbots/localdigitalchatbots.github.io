@@ -53,9 +53,9 @@ Here you can access the deliverables from the project and other  materials used 
 ### Interview data capture
 
 * [User interview script (Torchbox)](/uploads/User interview script.pdf "User interview script.pdf")
-* [Notes template and user experience map (Torchbox)](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing)
-* User experience map template - Powerpoint
-* User experience map template - Keynote (Mac)
+* [User interview notes template (Torchbox)](https://docs.google.com/spreadsheets/d/17yR_3IzpGriXMr1Qf6AEuhGZDl9lK7tNbLQgC-5-CvE/edit?usp=sharing)
+* [User experience map template - Powerpoint](/uploads/Chatbot Experience Map_template.pptx "Chatbot Experience Map_template.pptx")
+* [User experience map template - Keynote (Mac)](/uploads/Chatbot Experience Map_template.key "Chatbot Experience Map_template.key")
 
 ***
 
