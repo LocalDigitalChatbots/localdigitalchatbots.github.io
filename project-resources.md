@@ -14,6 +14,7 @@ Here you can access the deliverables from the project and other  materials used 
 * [ROI Analysis and Market Summary (Torchbox, April 2019)](/uploads/ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf "ROI Analysis and Market Summary _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Technology Landscape Review (Torchbox, April 2019](/uploads/Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf "Technology Landscape Review _ April 2019 _ Council Chatbots _ Torchbox.pdf")
 * [Example Conversational AI Architecture (Torchbox, April 2019)](/uploads/Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf "Example Conversational AI Architecture _ April 2019 _ Council Chatbots _ Torchbox.pdf")
+* [Chatbot Feature Comparison Matrix (Torchbox, April 2019)](/uploads/FireShot Capture 171 -  - localdigitalchatbots.github.io.pdf "FireShot Capture 171 -  - localdigitalchatbots.github.io.pdf")
 
 ***
 
@@ -28,7 +29,7 @@ Here you can access the deliverables from the project and other  materials used 
 
 ### Procurement
 
-* [Digital Outcomes and Specialists Opportunity]()
+* [Digital Outcomes and Specialists Opportunity](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/8531)
 
 ### Project initiation
 
