@@ -9,7 +9,7 @@ Your future, your place - a vision for Aldershot and Farnborough 2030
 
 This blog is designed to help foster communication and information sharing here at Rushmoor.
 
-![](/uploads/download.jpg)
+![](/uploads/download.jpeg)
 
 
 ## Rushmoor Site
