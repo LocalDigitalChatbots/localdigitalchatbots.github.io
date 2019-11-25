@@ -1,6 +1,6 @@
-title: "Local Digital Project: Chatbots and AI"
-author: "Blog Author"
-description: "Website for the Local Digital-funded Chatbots/AI project"
+title: "Rushmoor Blog"
+author: "Oliver Lock"
+description: "Blog for Rushmoor borough council"
 more: "read more »"
 url: "https://oliver-rushmoor.github.io/"
 baseurl: ""
@@ -27,8 +27,8 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - github: "https://github.com/LocalDigitalChatbots/localdigitalchatbots.github.io"
-  - envelope: "mailto:nlawrence@oxford.gov.uk"
+  - github: "https://github.com/Oliver-rushmoor/Oliver-rushmoor.github.io"
+  - envelope: "mailto:oliver.lock@rushmoor.gov.uk"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: false}}]
 sass: {style: expanded}
