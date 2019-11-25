@@ -20,6 +20,7 @@ navigation:
   - index.html
   - about.md
   - archive.html
+  - About_Blog.md
 
 comments:
   disqus: "disqus-contrast"
