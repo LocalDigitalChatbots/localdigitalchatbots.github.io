@@ -20,7 +20,6 @@ navigation:
   - index.html
   - about.md
   - archive.html
-  - project-resources.md
 
 comments:
   disqus: "disqus-contrast"
