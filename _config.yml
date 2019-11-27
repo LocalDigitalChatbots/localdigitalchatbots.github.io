@@ -27,7 +27,7 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - github: "https://github.com/Oliver-rushmoor/Oliver-rushmoor.github.io"
+  - github: "https://github.com/rushmoor/rushmoor.github.io/"
   - envelope: "mailto:oliver.lock@rushmoor.gov.uk"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: false}}]
