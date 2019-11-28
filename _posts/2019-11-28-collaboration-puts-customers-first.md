@@ -6,6 +6,8 @@ categories:
 - collaboration
 ---
 
+![](/uploads/missed%20bin.PNG)
+
 You may be familiar with our [online services](https://environment.rushmoor.gov.uk/) that allow customers to manage their garden waste, report a missed bin, have bulky waste items collected from their homes and recycle their Christmas trees - particularly if you live in Rushmoor. These are great services that have had great feedback, and the back-story is really worth sharing.
  
 It began in October 2018, when Serco, which delivers our environmental services, found itself unable to provide a customer portal . Our response? Not a problem, we will develop this ourselves! A cross-cutting team came together, drawing on the experience of colleagues from Operations, Customer Experience, ICT and Communications and within just a couple of months, the first phase was launched, enabling customers to book online to recycle their Christmas trees.
