@@ -6,7 +6,7 @@ categories:
 - collaboration
 ---
 
-![](/uploads/missed%20bin.PNG)
+<img src="/uploads/missed%20bin.PNG" width=400>
 
 You may be familiar with our [online services](https://environment.rushmoor.gov.uk/) that allow customers to manage their garden waste, report a missed bin, have bulky waste items collected from their homes and recycle their Christmas trees - particularly if you live in Rushmoor. These are great services that have had great feedback, and the back-story is really worth sharing.
  
