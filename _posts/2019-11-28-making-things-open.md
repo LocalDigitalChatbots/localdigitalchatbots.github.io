@@ -5,7 +5,7 @@ categories:
 - way we work
 ---
 
-![](/uploads/govuk%20make%20things%20open.png) 
+<img src="/uploads/govuk%20make%20things%20open.png" width="200">
 
 The [Government Digital Service](https://www.gov.uk/guidance/government-design-principles#tenth) has revolutionised the way people access government services. Their principle of working openly has been key to their success. As we set out on our own digital revolution, we want to follow in their footsteps. 
 
