@@ -5,7 +5,7 @@ categories:
 - way we work
 ---
 
-!{[](https://github.com/alphagov/govdesign/blob/master/Poster_Make%20things%20open.pdf) 
+![](https://github.com/alphagov/govdesign/blob/master/Poster_Make%20things%20open.pdf) 
 
 The [Government Digital Service](https://www.gov.uk/guidance/government-design-principles#tenth) has revolutionised the way people access government services. Their principle of working openly has been key to their success. As we set out on our own digital revolution, we want to follow in their footsteps. 
 
