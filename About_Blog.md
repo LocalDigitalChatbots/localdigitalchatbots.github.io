@@ -1,6 +1,10 @@
 ---
-title: About The Blog
+title: About the blog
 
 ---
 
-This Blog will be used for boosting communication.
+On this page, we'll describe:
+
+*what the blig is for
+*how we're managing it
+*how you can get involved

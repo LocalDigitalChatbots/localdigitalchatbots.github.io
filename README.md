@@ -1,2 +1,5 @@
-# Oliver-rushmoor.github.io
-Test Website for Rushmoor's blog using localdigitalchatbots.github.io
+# rushmoor.github.io
+
+A blog by officers at Rushmoor Borough Council.
+
+Inspired and forked from localdigitalchatbots.github.io
